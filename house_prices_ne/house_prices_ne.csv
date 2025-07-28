@@ -1,0 +1,3572 @@
+Location,Price,Bedrooms,Bathrooms,Size (sqft),Ownership,Property type,Garden
+Newcastle,160500.0,3.0,1.0,450.0,Freehold,Semi-Detached,Yes
+Newcastle,253200.0,2.0,1.0,532.0,,Apartment,Patio
+Newcastle,276900.0,2.0,1.0,557.0,Freehold,Flat,Patio
+Newcastle,,2.0,1.0,,Leasehold,,Patio
+Newcastle,212300.0,1.0,2.0,519.0,,Detached,Yes
+Newcastle,227100.0,2.0,1.0,482.0,Unknown,Apartment,Patio
+Newcastle,184400.0,3.0,1.0,502.0,,Detached,Yes
+Newcastle,167600.0,3.0,1.0,420.0,,Semi-Detached,No
+Newcastle,307500.0,2.0,2.0,1095.0,,,Yes
+Gateshead,146800.0,4.0,1.0,433.0,,Not Specified,Yes
+Newcastle,196000.0,4.0,1.0,443.0,Leasehold,Apartment,Yes
+Gateshead,143300.0,2.0,2.0,441.0,,Apartment,
+,,4.0,1.0,508.0,Leasehold,,No
+Gateshead,127300.0,3.0,1.0,445.0,Freehold,Flat,Yes
+Morpeth,70600.0,2.0,1.0,410.0,,Not Specified,Yes
+Newcastle,200800.0,1.0,2.0,435.0,Unknown,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,,Apartment,Not Specified
+Gateshead,,1.0,2.0,,,Semi-Detached,
+Newcastle,290000.0,1.0,1.0,408.0,,Semi-Detached,No
+Gateshead,178900.0,1.0,1.0,510.0,Unknown,Flat,
+Gateshead,199900.0,3.0,1.0,416.0,Freehold,Semi-Detached,No
+Gateshead,216800.0,2.0,1.0,492.0,,,Yes
+Gateshead,334200.0,4.0,1.0,1309.0,Freehold,Semi-Detached,Yes
+Newcastle,158900.0,3.0,1.0,490.0,,Detached,
+,,2.0,1.0,648.0,Freehold,Flat,Yes
+Newcastle,209700.0,3.0,1.0,413.0,,Terraced,No
+Sunderland,149500.0,1.0,2.0,539.0,,Semi-Detached,Yes
+Newcastle,,3.0,,411.0,,Not Specified,No
+Newcastle,252200.0,2.0,1.0,435.0,,,Yes
+Gateshead,167100.0,1.0,1.0,432.0,Freehold,Not Specified,Yes
+Newcastle,437500.0,2.0,1.0,607.0,,Semi-Detached,No
+Newcastle,151700.0,2.0,1.0,429.0,,Terraced,Yes
+Newcastle,191900.0,2.0,1.0,426.0,,Terraced,No
+Newcastle,195300.0,3.0,1.0,404.0,Freehold,Flat,Yes
+Gateshead,178100.0,2.0,1.0,566.0,,Mansionette,Yes
+Gateshead,206700.0,4.0,1.0,642.0,,Detached,
+Sunderland,,2.0,,524.0,,Semi-Detached,No
+Newcastle,245900.0,2.0,1.0,454.0,,Semi-Detached,No
+Newcastle,308200.0,2.0,1.0,528.0,,Terraced,
+Gateshead,,2.0,1.0,,Leasehold,Apartment,Not Specified
+Newcastle,152300.0,3.0,1.0,522.0,,Detached,
+Newcastle,111600.0,2.0,1.0,422.0,Freehold,,Yes
+Newcastle,108400.0,3.0,1.0,401.0,Freehold,,Patio
+Gateshead,156000.0,2.0,2.0,421.0,Freehold,Mansionette,Yes
+Newcastle,376600.0,2.0,1.0,716.0,,,No
+Newcastle,186300.0,2.0,1.0,491.0,Unknown,Terraced,Yes
+Gateshead,,3.0,1.0,,Freehold,Semi-Detached,
+,,2.0,1.0,,,Terraced,Yes
+Newcastle,838300.0,3.0,1.0,1492.0,,Terraced,No
+Newcastle,166200.0,2.0,1.0,412.0,,Detached,No
+Newcastle,217400.0,3.0,2.0,432.0,Freehold,Mansionette,Yes
+Gateshead,170500.0,6.0,1.0,581.0,Leasehold,Semi-Detached,Yes
+Newcastle,670800.0,1.0,2.0,1338.0,,Apartment,Patio
+Sunderland,62700.0,2.0,1.0,431.0,Freehold,Semi-Detached,No
+Gateshead,222800.0,2.0,2.0,570.0,,Semi-Detached,Yes
+Gateshead,134500.0,4.0,1.0,481.0,,Terraced,Yes
+Newcastle,260400.0,2.0,1.0,443.0,Leasehold,Apartment,No
+Morpeth,133000.0,2.0,1.0,560.0,Freehold,Flat,Not Specified
+Gateshead,251900.0,3.0,1.0,725.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,260800.0,2.0,1.0,449.0,Leasehold,Semi-Detached,Not Specified
+Sunderland,63000.0,,1.0,430.0,Leasehold,Terraced,Not Specified
+Newcastle,153300.0,4.0,1.0,425.0,Leasehold,Flat,No
+Sunderland,101900.0,1.0,2.0,446.0,Freehold,,Yes
+Gateshead,152700.0,3.0,1.0,451.0,Leasehold,Semi-Detached,
+Newcastle,197000.0,3.0,2.0,435.0,Leasehold,Semi-Detached,No
+Newcastle,212600.0,3.0,1.0,488.0,,Flat,Not Specified
+Newcastle,192100.0,2.0,1.0,441.0,Leasehold,Semi-Detached,Yes
+Gateshead,122700.0,4.0,1.0,457.0,,Detached,No
+Gateshead,170900.0,2.0,2.0,441.0,,Semi-Detached,Yes
+Gateshead,186300.0,1.0,1.0,636.0,,,Yes
+,,1.0,1.0,426.0,Leasehold,,
+Morpeth,64000.0,2.0,1.0,418.0,,Semi-Detached,Yes
+Newcastle,191300.0,3.0,2.0,436.0,,Apartment,Yes
+Gateshead,,3.0,1.0,,Unknown,Semi-Detached,No
+Sunderland,100900.0,4.0,1.0,560.0,,Semi-Detached,Yes
+Newcastle,271800.0,2.0,1.0,468.0,Freehold,Terraced,Yes
+Newcastle,225900.0,2.0,1.0,608.0,,Not Specified,Yes
+Newcastle,,1.0,1.0,,,Terraced,
+Newcastle,257900.0,3.0,1.0,452.0,,Detached,Patio
+Newcastle,212200.0,4.0,1.0,433.0,,Flat,Not Specified
+Sunderland,88200.0,,1.0,470.0,Freehold,Semi-Detached,Yes
+Gateshead,255600.0,2.0,1.0,518.0,,Apartment,Yes
+Newcastle,187500.0,2.0,1.0,422.0,Freehold,Not Specified,Yes
+Gateshead,156900.0,1.0,1.0,426.0,,Detached,
+Gateshead,184700.0,3.0,1.0,627.0,Freehold,Not Specified,Not Specified
+Gateshead,136500.0,2.0,1.0,438.0,Freehold,Flat,Patio
+Gateshead,,2.0,,457.0,Freehold,Detached,Not Specified
+Newcastle,149600.0,1.0,1.0,508.0,,Detached,Yes
+Gateshead,,2.0,1.0,,Leasehold,Semi-Detached,Yes
+Newcastle,174000.0,1.0,2.0,438.0,Leasehold,Terraced,Yes
+Gateshead,109700.0,1.0,1.0,412.0,,Flat,Yes
+Gateshead,154200.0,3.0,1.0,419.0,,Detached,Not Specified
+Gateshead,156900.0,2.0,2.0,420.0,Freehold,Detached,
+Gateshead,246300.0,2.0,1.0,523.0,,Not Specified,
+Newcastle,136700.0,2.0,1.0,434.0,,Semi-Detached,Patio
+Morpeth,43500.0,3.0,1.0,452.0,,,Yes
+Gateshead,,3.0,1.0,,,Semi-Detached,
+Newcastle,190800.0,1.0,1.0,456.0,,Flat,
+Newcastle,257500.0,,1.0,461.0,,Semi-Detached,Patio
+Morpeth,,2.0,2.0,,Freehold,Mansionette,Yes
+Consett,53400.0,2.0,1.0,407.0,,Mansionette,Yes
+Newcastle,268900.0,1.0,1.0,780.0,Leasehold,Detached,Not Specified
+Morpeth,124300.0,1.0,1.0,445.0,,Apartment,Yes
+Gateshead,383900.0,2.0,1.0,1258.0,,,
+Sunderland,103600.0,1.0,1.0,601.0,,Detached,Not Specified
+Newcastle,167100.0,2.0,1.0,440.0,,Semi-Detached,Patio
+Newcastle,,2.0,1.0,,Freehold,Semi-Detached,Yes
+Newcastle,230000.0,3.0,1.0,523.0,Co-operative Society,Semi-Detached,No
+Newcastle,206500.0,2.0,1.0,470.0,Leasehold,Terraced,Yes
+Sunderland,66500.0,2.0,2.0,411.0,Freehold,Detached,Yes
+Gateshead,163700.0,1.0,1.0,425.0,Freehold,Semi-Detached,Yes
+Gateshead,,3.0,1.0,,,Apartment,
+Newcastle,349700.0,5.0,1.0,581.0,Leasehold,Detached,
+Gateshead,150200.0,3.0,1.0,438.0,,Detached,Yes
+Newcastle,278600.0,4.0,1.0,500.0,,Terraced,Yes
+Newcastle,162000.0,2.0,1.0,513.0,Co-operative Society,Semi-Detached,No
+,,2.0,1.0,425.0,,Semi-Detached,Not Specified
+Gateshead,225400.0,3.0,1.0,674.0,,Not Specified,Yes
+Newcastle,206600.0,2.0,1.0,403.0,,Semi-Detached,
+Newcastle,251700.0,3.0,1.0,480.0,Co-operative Society,Mansionette,No
+Sunderland,100800.0,5.0,1.0,478.0,,,Yes
+Morpeth,57900.0,2.0,1.0,455.0,,Semi-Detached,Yes
+Sunderland,52700.0,3.0,1.0,531.0,Unknown,,Patio
+Gateshead,125100.0,3.0,1.0,476.0,,Terraced,Yes
+Gateshead,121800.0,1.0,1.0,484.0,Co-operative Society,,Yes
+Newcastle,356200.0,3.0,1.0,466.0,,Flat,No
+Gateshead,120700.0,7.0,1.0,439.0,,Mansionette,
+Newcastle,178300.0,3.0,1.0,399.0,,,Yes
+Newcastle,153600.0,3.0,1.0,458.0,,Not Specified,Patio
+Gateshead,150800.0,3.0,2.0,426.0,Freehold,,Not Specified
+Newcastle,926100.0,3.0,1.0,1826.0,,Mansionette,
+,,2.0,1.0,401.0,,,
+Gateshead,141500.0,3.0,1.0,482.0,Freehold,Semi-Detached,Yes
+Morpeth,103300.0,1.0,1.0,613.0,,Semi-Detached,Yes
+Morpeth,113900.0,3.0,2.0,499.0,,Detached,Yes
+Newcastle,,1.0,2.0,,,Not Specified,Yes
+Gateshead,160000.0,1.0,1.0,434.0,,Terraced,Yes
+Newcastle,145000.0,2.0,1.0,413.0,,Flat,Yes
+Sunderland,90800.0,4.0,1.0,528.0,,,No
+Sunderland,,3.0,2.0,,Co-operative Society,Apartment,Patio
+Gateshead,121300.0,3.0,1.0,424.0,,Semi-Detached,
+Gateshead,159600.0,3.0,1.0,410.0,,Detached,Not Specified
+Gateshead,120800.0,2.0,1.0,480.0,Co-operative Society,Terraced,Yes
+Gateshead,134400.0,3.0,1.0,436.0,,Detached,
+Newcastle,220400.0,2.0,1.0,501.0,,Detached,Not Specified
+Newcastle,184900.0,4.0,2.0,421.0,,Flat,Yes
+Newcastle,,3.0,1.0,,Leasehold,Detached,No
+Newcastle,173900.0,1.0,1.0,423.0,,,Yes
+Gateshead,145400.0,3.0,1.0,429.0,Leasehold,Not Specified,Not Specified
+,,2.0,1.0,420.0,,Detached,
+Gateshead,152300.0,2.0,1.0,476.0,,,Yes
+Gateshead,294300.0,,1.0,849.0,,Semi-Detached,Yes
+Newcastle,327400.0,3.0,1.0,821.0,Leasehold,Flat,No
+Gateshead,150100.0,2.0,1.0,449.0,Leasehold,Detached,No
+Newcastle,204200.0,5.0,1.0,447.0,,Terraced,
+,,2.0,1.0,496.0,,Not Specified,Yes
+Newcastle,266100.0,2.0,2.0,455.0,Unknown,Flat,Yes
+Newcastle,208700.0,2.0,1.0,557.0,Unknown,Not Specified,No
+Gateshead,167800.0,2.0,1.0,452.0,,Terraced,Patio
+Newcastle,291100.0,2.0,1.0,440.0,Freehold,Terraced,Yes
+Gateshead,145900.0,2.0,1.0,511.0,Freehold,Flat,Yes
+,,3.0,1.0,452.0,,Mansionette,Yes
+Gateshead,151800.0,2.0,1.0,453.0,Leasehold,,Yes
+Newcastle,206400.0,3.0,1.0,460.0,,Terraced,Yes
+Morpeth,95600.0,3.0,1.0,432.0,,Semi-Detached,Yes
+Newcastle,232000.0,1.0,1.0,489.0,Freehold,Not Specified,
+Newcastle,254500.0,3.0,1.0,427.0,,Semi-Detached,Yes
+Sunderland,84200.0,2.0,1.0,484.0,Leasehold,Semi-Detached,Yes
+Morpeth,36000.0,1.0,1.0,442.0,Freehold,Mansionette,Not Specified
+Gateshead,87900.0,2.0,1.0,454.0,Leasehold,Mansionette,Yes
+Newcastle,239700.0,2.0,1.0,656.0,Leasehold,Detached,No
+Sunderland,60900.0,1.0,1.0,424.0,,Apartment,No
+Newcastle,213400.0,4.0,1.0,428.0,,Semi-Detached,Yes
+Morpeth,118300.0,2.0,2.0,527.0,,Flat,Yes
+,,1.0,1.0,1091.0,,Semi-Detached,Yes
+Newcastle,208900.0,2.0,1.0,546.0,Unknown,Flat,No
+,,3.0,1.0,460.0,,,Yes
+Gateshead,,1.0,,505.0,,Semi-Detached,Yes
+Gateshead,120400.0,3.0,1.0,437.0,,Terraced,No
+Newcastle,130500.0,2.0,1.0,430.0,Unknown,Detached,No
+Newcastle,359200.0,3.0,2.0,440.0,Co-operative Society,Detached,
+Newcastle,467400.0,,1.0,506.0,,,Not Specified
+Morpeth,120000.0,2.0,1.0,418.0,,Detached,Yes
+Newcastle,186100.0,3.0,1.0,441.0,,Semi-Detached,Yes
+Gateshead,143200.0,2.0,1.0,423.0,,Not Specified,Yes
+Newcastle,230300.0,2.0,2.0,462.0,,,No
+Newcastle,404700.0,2.0,1.0,664.0,,Semi-Detached,No
+Morpeth,74400.0,3.0,1.0,507.0,Leasehold,,No
+Newcastle,233100.0,2.0,1.0,661.0,,,Not Specified
+Newcastle,164000.0,3.0,1.0,449.0,,Terraced,
+Gateshead,148200.0,2.0,1.0,458.0,Leasehold,Apartment,
+Gateshead,113200.0,1.0,1.0,478.0,Leasehold,Semi-Detached,Yes
+Morpeth,63200.0,4.0,1.0,429.0,,Terraced,Patio
+Newcastle,177300.0,2.0,1.0,402.0,,Flat,Yes
+Consett,43500.0,4.0,1.0,537.0,,Not Specified,Not Specified
+Gateshead,153500.0,2.0,1.0,424.0,Leasehold,Flat,No
+Morpeth,109400.0,1.0,1.0,808.0,,Detached,No
+Newcastle,,1.0,2.0,,,Semi-Detached,
+Newcastle,319300.0,2.0,2.0,705.0,Leasehold,,No
+Gateshead,182800.0,2.0,1.0,412.0,,Detached,Yes
+Newcastle,144300.0,2.0,1.0,465.0,Unknown,Semi-Detached,
+Gateshead,130700.0,2.0,1.0,436.0,,Semi-Detached,Not Specified
+Newcastle,235600.0,2.0,2.0,453.0,Freehold,Detached,Yes
+Gateshead,170600.0,,2.0,423.0,Freehold,Apartment,Patio
+Gateshead,138800.0,3.0,1.0,414.0,,Mansionette,Yes
+Newcastle,143000.0,3.0,1.0,468.0,Leasehold,Flat,Yes
+Gateshead,404100.0,2.0,1.0,1203.0,Unknown,Semi-Detached,No
+Sunderland,76400.0,2.0,1.0,444.0,Unknown,Mansionette,Yes
+Newcastle,232000.0,2.0,1.0,455.0,,Not Specified,No
+,,3.0,1.0,514.0,Freehold,Mansionette,No
+Gateshead,195000.0,2.0,1.0,442.0,Leasehold,Not Specified,Not Specified
+Gateshead,125400.0,3.0,1.0,427.0,Leasehold,Flat,
+Newcastle,112900.0,2.0,1.0,412.0,Co-operative Society,Semi-Detached,No
+Consett,,2.0,1.0,,Unknown,Terraced,Yes
+Newcastle,187700.0,1.0,2.0,436.0,,Not Specified,Patio
+Newcastle,258400.0,1.0,1.0,500.0,,Mansionette,Yes
+Newcastle,665300.0,2.0,1.0,1362.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,157000.0,2.0,1.0,649.0,,Semi-Detached,
+Gateshead,155000.0,2.0,1.0,460.0,,,
+Newcastle,195300.0,2.0,1.0,442.0,,Terraced,
+Sunderland,60400.0,4.0,1.0,434.0,,Terraced,Yes
+Gateshead,141700.0,5.0,1.0,412.0,,Terraced,Yes
+Gateshead,209800.0,2.0,1.0,767.0,Freehold,Detached,Patio
+Gateshead,149800.0,3.0,1.0,485.0,,Terraced,Yes
+Newcastle,195000.0,2.0,1.0,437.0,Co-operative Society,Not Specified,Yes
+Newcastle,291000.0,3.0,2.0,443.0,Freehold,Terraced,Yes
+Morpeth,64200.0,,1.0,438.0,,Apartment,Yes
+Sunderland,60900.0,2.0,1.0,456.0,,,No
+Gateshead,396700.0,2.0,1.0,1384.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,340300.0,1.0,1.0,579.0,,,Yes
+,,2.0,1.0,442.0,Freehold,Semi-Detached,No
+Sunderland,97200.0,3.0,1.0,482.0,,Detached,Yes
+Newcastle,135500.0,3.0,1.0,430.0,Unknown,Detached,Yes
+Newcastle,233700.0,4.0,1.0,458.0,Leasehold,Semi-Detached,Yes
+Newcastle,211500.0,2.0,1.0,482.0,,Terraced,Yes
+Morpeth,62300.0,2.0,1.0,425.0,Freehold,Flat,Yes
+Newcastle,157500.0,2.0,1.0,551.0,Freehold,Mansionette,
+Newcastle,215300.0,3.0,1.0,446.0,,Not Specified,Yes
+Gateshead,127500.0,3.0,1.0,434.0,,Mansionette,Patio
+Newcastle,136100.0,3.0,1.0,407.0,,Detached,Yes
+Gateshead,396600.0,,1.0,1441.0,Freehold,Terraced,Yes
+Newcastle,224600.0,5.0,2.0,501.0,,Apartment,No
+,,3.0,2.0,815.0,,Terraced,No
+Newcastle,188400.0,1.0,2.0,439.0,Unknown,Flat,Patio
+Gateshead,151000.0,3.0,1.0,405.0,Freehold,Semi-Detached,Yes
+Gateshead,128700.0,6.0,1.0,442.0,,Semi-Detached,Patio
+Gateshead,205000.0,6.0,1.0,535.0,Freehold,,
+Gateshead,163200.0,3.0,1.0,423.0,,Terraced,Yes
+Sunderland,155100.0,6.0,1.0,694.0,,Semi-Detached,Yes
+Gateshead,,4.0,,442.0,,Apartment,No
+Gateshead,181300.0,3.0,1.0,423.0,Freehold,Not Specified,Not Specified
+Gateshead,156000.0,4.0,1.0,513.0,Leasehold,Flat,Yes
+Newcastle,278300.0,4.0,1.0,558.0,,,Yes
+Morpeth,316400.0,3.0,1.0,1388.0,Co-operative Society,Semi-Detached,
+Newcastle,151000.0,2.0,1.0,482.0,,Flat,Patio
+Newcastle,,2.0,1.0,,,Terraced,Yes
+,,1.0,2.0,440.0,,Detached,Yes
+Newcastle,275700.0,2.0,1.0,532.0,,Semi-Detached,Yes
+Newcastle,252100.0,2.0,1.0,428.0,,Flat,No
+Morpeth,,3.0,1.0,,,Terraced,Yes
+Morpeth,111000.0,2.0,2.0,439.0,,,Yes
+Newcastle,156500.0,1.0,1.0,448.0,,Terraced,Yes
+Gateshead,,1.0,1.0,,,Semi-Detached,Yes
+Gateshead,182700.0,3.0,1.0,458.0,,Terraced,
+Newcastle,304200.0,2.0,1.0,431.0,,Flat,
+Gateshead,167000.0,2.0,1.0,459.0,,Not Specified,Yes
+Gateshead,135500.0,1.0,2.0,422.0,,Terraced,Yes
+Newcastle,131400.0,2.0,1.0,562.0,Leasehold,Mansionette,No
+Newcastle,148200.0,2.0,1.0,450.0,Freehold,Mansionette,No
+Newcastle,,3.0,,533.0,,Flat,Not Specified
+Gateshead,156500.0,4.0,2.0,442.0,Freehold,Flat,Yes
+Consett,,2.0,1.0,,Unknown,,Yes
+Sunderland,110600.0,3.0,1.0,447.0,,Semi-Detached,No
+Newcastle,256900.0,3.0,1.0,601.0,,Apartment,No
+Sunderland,62200.0,2.0,1.0,418.0,Leasehold,Semi-Detached,No
+Gateshead,191800.0,2.0,1.0,451.0,,Semi-Detached,Yes
+Gateshead,141900.0,2.0,1.0,494.0,,Terraced,Yes
+Gateshead,559500.0,2.0,1.0,1328.0,,Not Specified,No
+Gateshead,183800.0,2.0,1.0,608.0,Freehold,Apartment,Not Specified
+Gateshead,137000.0,2.0,1.0,430.0,,,Not Specified
+Gateshead,115600.0,3.0,1.0,440.0,Leasehold,Terraced,Patio
+Gateshead,,,1.0,,,Not Specified,Yes
+Newcastle,,3.0,,519.0,,Detached,No
+Newcastle,233000.0,3.0,2.0,435.0,Freehold,Mansionette,Yes
+Gateshead,192600.0,5.0,2.0,428.0,,Flat,No
+Gateshead,146400.0,3.0,1.0,479.0,,Apartment,Yes
+Newcastle,285800.0,3.0,1.0,1063.0,Unknown,Terraced,Yes
+Newcastle,243800.0,1.0,1.0,470.0,Unknown,,Not Specified
+Sunderland,96300.0,3.0,1.0,426.0,,Terraced,No
+Gateshead,197500.0,2.0,1.0,434.0,,Semi-Detached,
+Gateshead,270300.0,3.0,1.0,984.0,,Semi-Detached,Yes
+Newcastle,251700.0,2.0,1.0,424.0,,,Not Specified
+Gateshead,231100.0,1.0,2.0,625.0,,Semi-Detached,No
+Sunderland,95300.0,3.0,1.0,564.0,Leasehold,,No
+Newcastle,196500.0,2.0,1.0,501.0,,,Not Specified
+Gateshead,,3.0,,407.0,,Flat,Yes
+Newcastle,,2.0,,954.0,,Semi-Detached,
+Newcastle,208900.0,1.0,1.0,430.0,,,Patio
+Morpeth,107700.0,1.0,1.0,464.0,Freehold,Semi-Detached,Not Specified
+Gateshead,227900.0,3.0,2.0,591.0,,,
+Sunderland,54300.0,,1.0,413.0,Co-operative Society,Terraced,Yes
+Gateshead,137500.0,2.0,1.0,450.0,Freehold,Semi-Detached,No
+Gateshead,131900.0,2.0,1.0,432.0,,Apartment,Yes
+Newcastle,303800.0,2.0,1.0,632.0,Freehold,Terraced,Not Specified
+Newcastle,239400.0,1.0,1.0,429.0,,Detached,
+Newcastle,149900.0,1.0,1.0,511.0,,Detached,Yes
+Gateshead,164100.0,2.0,2.0,435.0,Leasehold,Semi-Detached,Yes
+,,3.0,1.0,482.0,,Mansionette,No
+Newcastle,417400.0,3.0,2.0,589.0,Leasehold,Mansionette,No
+Gateshead,140500.0,2.0,1.0,425.0,,Detached,Not Specified
+Gateshead,154300.0,1.0,1.0,555.0,,Semi-Detached,Not Specified
+Gateshead,,3.0,,408.0,Freehold,Semi-Detached,No
+Gateshead,146200.0,2.0,2.0,491.0,,,No
+Gateshead,126500.0,3.0,1.0,460.0,,Semi-Detached,Yes
+Gateshead,211300.0,3.0,1.0,526.0,,Semi-Detached,Yes
+,,3.0,1.0,430.0,,Terraced,Yes
+,,2.0,1.0,605.0,Unknown,Flat,Yes
+Newcastle,478600.0,1.0,2.0,1378.0,Leasehold,Detached,Yes
+Sunderland,118100.0,3.0,2.0,442.0,Leasehold,Semi-Detached,Yes
+Gateshead,158400.0,3.0,1.0,428.0,,Semi-Detached,Yes
+Gateshead,167900.0,3.0,1.0,450.0,Freehold,Semi-Detached,Yes
+Gateshead,,1.0,2.0,,,Not Specified,Yes
+Newcastle,,3.0,2.0,,Co-operative Society,Not Specified,No
+Gateshead,,2.0,1.0,,Leasehold,Semi-Detached,Yes
+Morpeth,100500.0,3.0,1.0,516.0,,,Yes
+Morpeth,,3.0,2.0,,Co-operative Society,Semi-Detached,No
+Gateshead,158700.0,2.0,1.0,423.0,,Semi-Detached,
+Sunderland,100700.0,6.0,1.0,424.0,Leasehold,Semi-Detached,Yes
+Newcastle,252900.0,2.0,1.0,453.0,Freehold,Flat,Yes
+Newcastle,147300.0,4.0,2.0,479.0,Freehold,Semi-Detached,
+,,2.0,0.0,644.0,,Flat,Yes
+Consett,,4.0,,414.0,,Not Specified,Yes
+,,2.0,1.0,454.0,,Mansionette,No
+Gateshead,234500.0,2.0,1.0,950.0,,,Yes
+Newcastle,164100.0,2.0,1.0,485.0,,,
+Newcastle,243500.0,3.0,2.0,442.0,Freehold,,No
+Newcastle,267800.0,3.0,1.0,643.0,Co-operative Society,Not Specified,Yes
+Newcastle,302000.0,1.0,1.0,913.0,,Terraced,Yes
+Sunderland,83400.0,2.0,1.0,425.0,,Mansionette,Yes
+Newcastle,303500.0,2.0,1.0,825.0,,Semi-Detached,
+Newcastle,,3.0,1.0,,,Detached,Yes
+Morpeth,142100.0,4.0,1.0,496.0,Co-operative Society,Mansionette,No
+Gateshead,,2.0,1.0,,Leasehold,Terraced,No
+Sunderland,102900.0,2.0,1.0,450.0,,Flat,Patio
+Gateshead,116200.0,2.0,1.0,464.0,Co-operative Society,,No
+,,1.0,1.0,483.0,Leasehold,Terraced,Yes
+Sunderland,109200.0,2.0,2.0,452.0,,Terraced,No
+Newcastle,143500.0,,2.0,438.0,Leasehold,Terraced,Not Specified
+Gateshead,180900.0,3.0,1.0,545.0,,,No
+Newcastle,,4.0,,954.0,Leasehold,,No
+Newcastle,,2.0,,397.0,,Detached,Yes
+Gateshead,164100.0,2.0,1.0,405.0,Co-operative Society,,Yes
+,,1.0,1.0,415.0,Co-operative Society,Semi-Detached,No
+Newcastle,252600.0,1.0,1.0,485.0,Leasehold,Flat,Yes
+Newcastle,183400.0,2.0,1.0,427.0,Freehold,,Yes
+Newcastle,118900.0,2.0,1.0,429.0,Leasehold,Mansionette,Yes
+Morpeth,86900.0,3.0,1.0,452.0,,,Yes
+Morpeth,87300.0,3.0,1.0,409.0,,Detached,Not Specified
+Newcastle,255200.0,3.0,2.0,429.0,,Detached,Yes
+Newcastle,,2.0,1.0,,,Not Specified,Yes
+Gateshead,127900.0,2.0,1.0,416.0,,Semi-Detached,
+Gateshead,153000.0,1.0,1.0,449.0,,Terraced,Patio
+Gateshead,172900.0,4.0,1.0,759.0,Unknown,,Yes
+Sunderland,81200.0,3.0,1.0,434.0,,Semi-Detached,No
+Sunderland,120800.0,2.0,1.0,483.0,Freehold,Semi-Detached,Yes
+Newcastle,263200.0,2.0,1.0,831.0,Leasehold,Apartment,Yes
+Newcastle,175200.0,2.0,1.0,465.0,,Semi-Detached,Yes
+Morpeth,83200.0,2.0,1.0,407.0,,Semi-Detached,Yes
+Gateshead,99300.0,4.0,1.0,433.0,,Detached,No
+Newcastle,168500.0,3.0,1.0,411.0,,Detached,Yes
+Gateshead,180200.0,2.0,1.0,458.0,,Semi-Detached,No
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,129700.0,3.0,1.0,408.0,,Flat,No
+Newcastle,204500.0,2.0,1.0,420.0,,Flat,Yes
+Sunderland,64000.0,2.0,1.0,417.0,Co-operative Society,Apartment,Yes
+Gateshead,223800.0,1.0,1.0,770.0,,,Yes
+Newcastle,160800.0,2.0,1.0,558.0,,,Yes
+Gateshead,136800.0,2.0,1.0,497.0,,Not Specified,
+Newcastle,219500.0,2.0,1.0,443.0,,Detached,No
+Gateshead,232400.0,,1.0,596.0,,Semi-Detached,Yes
+Sunderland,63500.0,3.0,1.0,429.0,Leasehold,Semi-Detached,Yes
+Newcastle,223500.0,2.0,1.0,439.0,,Mansionette,Yes
+Newcastle,204800.0,4.0,1.0,431.0,,Semi-Detached,Yes
+Morpeth,69000.0,5.0,1.0,516.0,,Detached,Yes
+Gateshead,154400.0,2.0,1.0,451.0,,Semi-Detached,Yes
+,,3.0,1.0,418.0,Leasehold,Detached,
+Sunderland,74600.0,3.0,1.0,470.0,Co-operative Society,Mansionette,
+Gateshead,110700.0,5.0,1.0,454.0,,Mansionette,Yes
+,,3.0,1.0,409.0,,Terraced,
+Newcastle,200400.0,2.0,1.0,429.0,,Flat,Yes
+Newcastle,,2.0,1.0,,,Flat,Yes
+,,3.0,1.0,469.0,,,No
+Newcastle,137200.0,3.0,1.0,424.0,,Detached,No
+Sunderland,91000.0,1.0,1.0,485.0,,Terraced,Yes
+Newcastle,156700.0,3.0,1.0,439.0,,,Yes
+Newcastle,268900.0,3.0,1.0,674.0,,,Yes
+Gateshead,389700.0,3.0,1.0,1025.0,Co-operative Society,Semi-Detached,
+Newcastle,129500.0,2.0,1.0,416.0,,Terraced,Yes
+Newcastle,250400.0,3.0,1.0,412.0,Freehold,Semi-Detached,Yes
+Gateshead,311200.0,3.0,1.0,806.0,Freehold,Detached,No
+Sunderland,266800.0,2.0,1.0,1039.0,,Flat,Yes
+Newcastle,367800.0,1.0,1.0,719.0,,,Yes
+Gateshead,189500.0,3.0,1.0,412.0,,Terraced,
+Newcastle,173600.0,3.0,2.0,428.0,Freehold,Terraced,Patio
+Gateshead,145900.0,2.0,1.0,438.0,Freehold,Terraced,Yes
+Gateshead,222800.0,1.0,1.0,655.0,,Semi-Detached,No
+Gateshead,133500.0,1.0,1.0,445.0,,Apartment,
+Newcastle,,2.0,1.0,,,Detached,Not Specified
+Newcastle,203700.0,2.0,1.0,476.0,,Flat,
+Newcastle,169300.0,2.0,1.0,445.0,,Terraced,Yes
+Newcastle,433300.0,5.0,1.0,548.0,Freehold,Semi-Detached,Yes
+,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,,2.0,1.0,,Leasehold,Detached,No
+Newcastle,,2.0,,652.0,Leasehold,Semi-Detached,Yes
+Newcastle,115500.0,2.0,1.0,437.0,Freehold,,Yes
+Sunderland,93900.0,2.0,1.0,537.0,,Semi-Detached,Yes
+Newcastle,194400.0,3.0,1.0,436.0,Leasehold,Semi-Detached,
+Gateshead,114500.0,1.0,1.0,533.0,,,Yes
+Sunderland,77100.0,3.0,1.0,637.0,,Terraced,Yes
+Consett,79500.0,3.0,1.0,462.0,,Semi-Detached,No
+,,3.0,1.0,421.0,,Flat,Not Specified
+Newcastle,206400.0,2.0,1.0,444.0,Freehold,Flat,Yes
+Consett,55000.0,1.0,1.0,481.0,Unknown,Detached,No
+Gateshead,199700.0,1.0,2.0,677.0,,Terraced,Yes
+Gateshead,,3.0,1.0,,,Terraced,Yes
+Gateshead,150800.0,2.0,1.0,503.0,,Semi-Detached,No
+Newcastle,221300.0,1.0,2.0,466.0,,Detached,Yes
+Gateshead,126900.0,4.0,1.0,517.0,,Semi-Detached,No
+Gateshead,183300.0,4.0,1.0,404.0,Freehold,,Patio
+Gateshead,133500.0,2.0,1.0,421.0,Co-operative Society,,Patio
+Newcastle,262900.0,1.0,1.0,404.0,,Detached,No
+Newcastle,287300.0,1.0,1.0,474.0,,Semi-Detached,Yes
+Sunderland,93200.0,4.0,1.0,431.0,,Not Specified,Yes
+Gateshead,232500.0,3.0,2.0,555.0,,,No
+Newcastle,278100.0,2.0,1.0,471.0,Leasehold,Semi-Detached,No
+Newcastle,232400.0,4.0,1.0,460.0,,Semi-Detached,Yes
+Newcastle,201500.0,2.0,1.0,644.0,,Flat,Yes
+Newcastle,183300.0,2.0,1.0,427.0,,Flat,Yes
+Newcastle,,2.0,1.0,,,Flat,No
+Newcastle,295500.0,3.0,1.0,447.0,,Apartment,Not Specified
+Gateshead,153700.0,2.0,2.0,444.0,,Flat,Yes
+Gateshead,,3.0,1.0,,,Terraced,No
+Newcastle,,1.0,1.0,,,Detached,
+Morpeth,127200.0,2.0,1.0,428.0,Freehold,Flat,
+Newcastle,338800.0,1.0,1.0,609.0,,Not Specified,Yes
+Gateshead,114200.0,1.0,1.0,434.0,,Flat,Not Specified
+,,1.0,1.0,439.0,,Terraced,Not Specified
+Consett,,2.0,,435.0,Freehold,Terraced,Yes
+Gateshead,139800.0,1.0,1.0,424.0,,Apartment,Yes
+Gateshead,229900.0,2.0,1.0,493.0,,Flat,No
+Gateshead,149000.0,1.0,1.0,482.0,Freehold,Mansionette,
+Gateshead,,2.0,1.0,,,Flat,Yes
+Newcastle,234400.0,2.0,1.0,517.0,Freehold,Semi-Detached,Yes
+Newcastle,208900.0,1.0,1.0,456.0,,Semi-Detached,Patio
+,,5.0,1.0,447.0,,Semi-Detached,Yes
+Newcastle,226800.0,4.0,1.0,463.0,Leasehold,Flat,Yes
+Gateshead,113100.0,4.0,1.0,423.0,,Semi-Detached,Patio
+Newcastle,253600.0,1.0,1.0,512.0,Freehold,Semi-Detached,
+Newcastle,,1.0,,476.0,Leasehold,Semi-Detached,No
+Newcastle,155600.0,2.0,1.0,494.0,Freehold,Semi-Detached,Patio
+Newcastle,,1.0,1.0,,,Detached,Yes
+Sunderland,,3.0,,833.0,,Apartment,Yes
+Newcastle,461500.0,2.0,1.0,847.0,,Semi-Detached,Yes
+Newcastle,290400.0,2.0,1.0,505.0,Leasehold,Mansionette,Yes
+Consett,27500.0,,1.0,437.0,,Mansionette,Not Specified
+Newcastle,166100.0,3.0,1.0,505.0,,Semi-Detached,Not Specified
+Sunderland,74200.0,3.0,1.0,534.0,,Apartment,Yes
+Gateshead,183700.0,3.0,2.0,716.0,Freehold,Terraced,
+Gateshead,150300.0,1.0,2.0,411.0,,,Yes
+,,2.0,1.0,428.0,,Terraced,
+Gateshead,158600.0,3.0,1.0,418.0,,Not Specified,Not Specified
+Newcastle,,2.0,,425.0,Freehold,,No
+Sunderland,68700.0,2.0,1.0,405.0,Freehold,Semi-Detached,Patio
+Gateshead,151800.0,2.0,1.0,463.0,,Flat,No
+Consett,37700.0,3.0,1.0,485.0,Leasehold,Flat,Yes
+Newcastle,,2.0,,418.0,,Terraced,Patio
+,,1.0,1.0,458.0,Leasehold,Mansionette,No
+Newcastle,205100.0,3.0,1.0,847.0,Unknown,Detached,Yes
+Gateshead,182800.0,2.0,1.0,448.0,,,
+Newcastle,268100.0,2.0,1.0,820.0,,Semi-Detached,Patio
+Newcastle,139900.0,3.0,1.0,474.0,Leasehold,,Not Specified
+Gateshead,,2.0,1.0,,,Flat,Yes
+Gateshead,179500.0,3.0,1.0,488.0,Leasehold,,
+Newcastle,299400.0,1.0,1.0,495.0,,Flat,Not Specified
+Morpeth,62200.0,3.0,1.0,514.0,,Terraced,Yes
+Newcastle,203600.0,2.0,1.0,449.0,,Not Specified,Not Specified
+Newcastle,283900.0,5.0,1.0,487.0,,Semi-Detached,
+Newcastle,224300.0,2.0,1.0,454.0,,Detached,No
+Newcastle,310300.0,2.0,1.0,432.0,Freehold,Terraced,
+Gateshead,116300.0,1.0,1.0,446.0,,Terraced,
+Newcastle,204000.0,2.0,2.0,468.0,,Semi-Detached,No
+Newcastle,121100.0,4.0,1.0,421.0,,Flat,Yes
+Newcastle,149000.0,4.0,1.0,408.0,Unknown,Semi-Detached,Yes
+Gateshead,195000.0,2.0,1.0,634.0,,Terraced,Yes
+Newcastle,255400.0,1.0,1.0,722.0,Freehold,,Yes
+Gateshead,173700.0,3.0,1.0,426.0,,,No
+Newcastle,183200.0,2.0,1.0,510.0,Co-operative Society,,Yes
+Gateshead,121900.0,2.0,1.0,459.0,,Semi-Detached,
+Newcastle,345000.0,2.0,1.0,482.0,,Detached,Yes
+Gateshead,162300.0,2.0,1.0,539.0,,Terraced,Yes
+Newcastle,337500.0,3.0,1.0,436.0,,Semi-Detached,Yes
+Sunderland,78700.0,3.0,1.0,438.0,,Mansionette,Yes
+Gateshead,295200.0,2.0,1.0,1294.0,,Flat,Yes
+Gateshead,,3.0,,437.0,Leasehold,Semi-Detached,No
+Gateshead,202300.0,3.0,1.0,493.0,Co-operative Society,Terraced,Yes
+Gateshead,190700.0,3.0,2.0,636.0,,Semi-Detached,Yes
+Newcastle,168000.0,6.0,1.0,461.0,,Terraced,No
+Gateshead,151300.0,1.0,1.0,456.0,,,Yes
+Newcastle,202700.0,2.0,2.0,423.0,,Semi-Detached,Yes
+Newcastle,,3.0,,789.0,,Terraced,No
+Newcastle,239200.0,2.0,1.0,409.0,Freehold,Flat,
+Morpeth,169900.0,4.0,1.0,1076.0,Freehold,Flat,Yes
+Newcastle,175200.0,2.0,1.0,487.0,Leasehold,Detached,No
+Gateshead,135100.0,2.0,1.0,436.0,,Terraced,Yes
+Gateshead,193500.0,2.0,1.0,658.0,,Detached,Yes
+Newcastle,217100.0,2.0,1.0,556.0,,Semi-Detached,
+Gateshead,145300.0,1.0,1.0,437.0,,Not Specified,Yes
+Sunderland,117900.0,4.0,1.0,437.0,,,Patio
+Gateshead,159500.0,3.0,2.0,419.0,,,No
+Morpeth,74100.0,4.0,1.0,481.0,Leasehold,Not Specified,Yes
+Newcastle,134600.0,2.0,1.0,417.0,,Semi-Detached,Yes
+Gateshead,123100.0,3.0,1.0,450.0,,Apartment,Yes
+Gateshead,135600.0,2.0,1.0,453.0,,,
+Gateshead,186600.0,1.0,1.0,481.0,Leasehold,Flat,
+Gateshead,137300.0,1.0,1.0,542.0,Leasehold,Apartment,No
+Gateshead,226600.0,,1.0,608.0,Leasehold,Detached,Not Specified
+Newcastle,236900.0,2.0,1.0,611.0,,Not Specified,Yes
+Gateshead,200100.0,3.0,1.0,710.0,Leasehold,Terraced,
+,,3.0,1.0,462.0,Freehold,Not Specified,Yes
+Gateshead,186500.0,4.0,1.0,425.0,,Flat,
+Consett,,2.0,2.0,,,,Yes
+Newcastle,203600.0,3.0,2.0,544.0,,Terraced,Yes
+,,3.0,1.0,428.0,Leasehold,Semi-Detached,Yes
+Newcastle,263800.0,1.0,1.0,504.0,Unknown,Terraced,
+Gateshead,192100.0,2.0,2.0,490.0,Freehold,Detached,Yes
+Newcastle,,3.0,,452.0,Freehold,Terraced,
+Newcastle,,3.0,,427.0,Freehold,Flat,Yes
+Newcastle,134100.0,2.0,1.0,481.0,Leasehold,Apartment,Patio
+,,3.0,1.0,456.0,,Not Specified,Yes
+Newcastle,146700.0,3.0,1.0,422.0,Freehold,Terraced,Yes
+Newcastle,325200.0,3.0,2.0,834.0,,Flat,Yes
+Sunderland,,4.0,,423.0,Co-operative Society,Semi-Detached,
+Gateshead,202700.0,3.0,1.0,603.0,,Semi-Detached,Not Specified
+Newcastle,219800.0,4.0,1.0,544.0,,Semi-Detached,Yes
+Gateshead,190200.0,3.0,1.0,440.0,Freehold,,Yes
+Newcastle,218100.0,2.0,2.0,499.0,,Semi-Detached,Patio
+Morpeth,109600.0,2.0,1.0,431.0,,Terraced,No
+Gateshead,188600.0,2.0,1.0,504.0,,Semi-Detached,No
+Morpeth,83600.0,1.0,1.0,458.0,Freehold,Flat,Yes
+Newcastle,204200.0,2.0,2.0,464.0,Leasehold,Semi-Detached,Yes
+Morpeth,110500.0,3.0,2.0,442.0,Leasehold,Semi-Detached,
+Gateshead,112900.0,2.0,1.0,427.0,Leasehold,Semi-Detached,Yes
+Newcastle,,2.0,2.0,,,Flat,Yes
+Newcastle,202000.0,4.0,1.0,416.0,,Not Specified,No
+Morpeth,86700.0,1.0,1.0,421.0,Freehold,Semi-Detached,Not Specified
+Sunderland,,2.0,1.0,,,Terraced,Patio
+,,2.0,1.0,449.0,,Flat,
+Gateshead,,2.0,1.0,,Freehold,Not Specified,Yes
+Gateshead,183900.0,3.0,2.0,409.0,,Not Specified,Yes
+Gateshead,219500.0,2.0,1.0,683.0,,Terraced,Yes
+Newcastle,,2.0,,430.0,,,
+Sunderland,122900.0,2.0,1.0,643.0,,Detached,No
+Newcastle,247200.0,5.0,1.0,436.0,,Semi-Detached,Yes
+Newcastle,411600.0,2.0,1.0,1006.0,,Semi-Detached,Yes
+Newcastle,,2.0,,424.0,,Terraced,Yes
+Sunderland,79300.0,2.0,1.0,485.0,,Flat,Yes
+Gateshead,150200.0,2.0,1.0,460.0,,,Yes
+Gateshead,176700.0,3.0,1.0,468.0,Freehold,Flat,
+,,2.0,1.0,430.0,Freehold,Semi-Detached,Yes
+Gateshead,150500.0,2.0,1.0,459.0,,Apartment,Not Specified
+Gateshead,170100.0,2.0,1.0,429.0,Leasehold,Flat,Patio
+Sunderland,106800.0,2.0,1.0,452.0,Freehold,Terraced,Not Specified
+Gateshead,295500.0,3.0,2.0,880.0,,,Patio
+Gateshead,197300.0,3.0,1.0,492.0,,Mansionette,Not Specified
+Morpeth,78000.0,2.0,1.0,445.0,Leasehold,Semi-Detached,Yes
+Sunderland,,2.0,1.0,,Freehold,Semi-Detached,Patio
+Morpeth,82800.0,,1.0,704.0,,Detached,
+Gateshead,99800.0,1.0,1.0,412.0,,,Yes
+Gateshead,178700.0,2.0,1.0,601.0,,,Yes
+Gateshead,222200.0,1.0,1.0,628.0,,Semi-Detached,Yes
+Gateshead,183300.0,1.0,1.0,575.0,,Detached,
+Consett,101700.0,2.0,1.0,540.0,Freehold,Detached,
+Gateshead,169100.0,1.0,1.0,418.0,,Terraced,No
+Newcastle,121200.0,3.0,1.0,475.0,,,No
+Sunderland,96100.0,3.0,1.0,524.0,,Semi-Detached,
+Gateshead,157500.0,4.0,1.0,411.0,Freehold,,Not Specified
+Gateshead,173300.0,2.0,2.0,432.0,Freehold,Semi-Detached,Yes
+Newcastle,,2.0,,421.0,,Semi-Detached,Not Specified
+Gateshead,,1.0,1.0,,Leasehold,Terraced,Yes
+Newcastle,280300.0,2.0,1.0,714.0,Co-operative Society,,No
+Newcastle,302300.0,2.0,1.0,719.0,Leasehold,,Yes
+Gateshead,343900.0,1.0,2.0,670.0,,Detached,No
+Gateshead,177500.0,3.0,1.0,471.0,Freehold,Flat,Yes
+Gateshead,,3.0,,972.0,Freehold,Semi-Detached,No
+Morpeth,107400.0,3.0,1.0,491.0,Freehold,Mansionette,Yes
+Gateshead,144700.0,3.0,2.0,451.0,Leasehold,Detached,No
+Newcastle,171700.0,2.0,1.0,425.0,Freehold,Semi-Detached,No
+Newcastle,234200.0,3.0,1.0,452.0,Unknown,Terraced,Yes
+Newcastle,178200.0,5.0,2.0,454.0,,,Yes
+Gateshead,162500.0,2.0,1.0,490.0,,Detached,No
+Morpeth,88900.0,2.0,1.0,469.0,,Terraced,Yes
+Gateshead,176100.0,1.0,1.0,446.0,Freehold,,Yes
+Gateshead,141300.0,1.0,1.0,422.0,,Detached,No
+Sunderland,69200.0,3.0,1.0,434.0,,Semi-Detached,Patio
+Newcastle,303300.0,3.0,1.0,470.0,,Semi-Detached,Yes
+Newcastle,206400.0,1.0,1.0,444.0,,Flat,Yes
+Consett,50000.0,2.0,1.0,457.0,,Terraced,
+Newcastle,173400.0,3.0,1.0,450.0,,Terraced,Not Specified
+Newcastle,232100.0,1.0,2.0,443.0,Freehold,Semi-Detached,Yes
+Gateshead,138000.0,3.0,1.0,419.0,Leasehold,Terraced,No
+Morpeth,161900.0,3.0,1.0,403.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,140300.0,1.0,1.0,408.0,,Detached,Yes
+Newcastle,,3.0,2.0,,,Terraced,Yes
+Gateshead,104300.0,1.0,1.0,423.0,Leasehold,Mansionette,Patio
+Gateshead,114500.0,2.0,1.0,409.0,,Flat,
+Newcastle,136700.0,1.0,1.0,418.0,,Semi-Detached,Not Specified
+Newcastle,135500.0,2.0,1.0,552.0,,Terraced,Yes
+Sunderland,107200.0,3.0,1.0,439.0,,Mansionette,Patio
+Gateshead,169200.0,1.0,2.0,502.0,,Mansionette,No
+,,2.0,1.0,423.0,,Terraced,Yes
+Newcastle,141100.0,3.0,1.0,422.0,Freehold,Semi-Detached,No
+Gateshead,113000.0,3.0,1.0,444.0,Freehold,Semi-Detached,Yes
+Newcastle,,2.0,2.0,,,Semi-Detached,Yes
+Sunderland,148400.0,,1.0,428.0,Freehold,Detached,Yes
+Sunderland,104300.0,2.0,1.0,436.0,Freehold,,Yes
+Sunderland,85600.0,2.0,1.0,427.0,Freehold,Terraced,Yes
+Morpeth,102000.0,2.0,1.0,437.0,,,Yes
+Morpeth,64500.0,1.0,1.0,470.0,,Apartment,Yes
+Consett,45800.0,3.0,1.0,437.0,,Apartment,Yes
+Gateshead,149200.0,2.0,1.0,482.0,,Terraced,Yes
+Gateshead,216700.0,2.0,1.0,567.0,,Semi-Detached,Yes
+Gateshead,242000.0,2.0,1.0,728.0,Freehold,Semi-Detached,Yes
+Gateshead,111700.0,3.0,1.0,402.0,,Detached,No
+Newcastle,208800.0,2.0,1.0,504.0,,Flat,Yes
+Gateshead,,2.0,,448.0,,Semi-Detached,
+Gateshead,,2.0,1.0,,,Terraced,No
+Newcastle,,3.0,,448.0,,Semi-Detached,Yes
+Gateshead,132400.0,1.0,2.0,442.0,,Flat,Yes
+Morpeth,73400.0,1.0,1.0,430.0,,Semi-Detached,Yes
+Morpeth,109600.0,1.0,2.0,454.0,Freehold,Not Specified,Yes
+Newcastle,421100.0,2.0,1.0,641.0,Freehold,,
+Gateshead,130100.0,3.0,1.0,439.0,Leasehold,Terraced,Yes
+,,3.0,2.0,445.0,,Terraced,Yes
+Consett,,2.0,,1182.0,Freehold,Detached,
+Sunderland,86300.0,2.0,1.0,613.0,,Detached,Yes
+Gateshead,131100.0,2.0,1.0,430.0,Leasehold,Terraced,Not Specified
+Gateshead,222100.0,2.0,1.0,504.0,,Semi-Detached,Not Specified
+Newcastle,144900.0,3.0,1.0,534.0,,,Yes
+Gateshead,151200.0,1.0,1.0,421.0,,Flat,Yes
+Newcastle,159300.0,3.0,1.0,421.0,,Not Specified,
+Gateshead,150700.0,3.0,1.0,443.0,,,
+Sunderland,57600.0,2.0,1.0,427.0,,Semi-Detached,Not Specified
+Newcastle,217400.0,4.0,2.0,474.0,,Flat,Not Specified
+Newcastle,255700.0,,1.0,465.0,,Terraced,No
+Gateshead,181200.0,3.0,1.0,542.0,,,Yes
+Morpeth,102700.0,2.0,1.0,477.0,,Terraced,Yes
+Newcastle,101800.0,4.0,1.0,439.0,,Terraced,Yes
+Newcastle,130200.0,2.0,1.0,416.0,,Detached,Not Specified
+Sunderland,113400.0,4.0,1.0,454.0,,,
+Gateshead,141400.0,3.0,1.0,431.0,,Semi-Detached,Not Specified
+Morpeth,104800.0,1.0,1.0,676.0,Unknown,,Yes
+Gateshead,133700.0,2.0,1.0,513.0,Unknown,Semi-Detached,Yes
+Gateshead,136600.0,1.0,1.0,438.0,,Semi-Detached,No
+Newcastle,152800.0,4.0,1.0,530.0,Leasehold,,No
+Gateshead,188400.0,3.0,1.0,665.0,,Mansionette,Yes
+Gateshead,169500.0,1.0,1.0,523.0,Leasehold,Terraced,Yes
+Newcastle,326900.0,2.0,0.0,680.0,,Semi-Detached,Yes
+Gateshead,115100.0,2.0,1.0,405.0,Freehold,Flat,Yes
+Gateshead,166300.0,2.0,1.0,435.0,Leasehold,Terraced,Not Specified
+Newcastle,108600.0,1.0,1.0,532.0,Leasehold,Semi-Detached,Yes
+Gateshead,168200.0,2.0,1.0,620.0,,,
+Newcastle,226400.0,2.0,1.0,559.0,,Not Specified,Yes
+Newcastle,271100.0,2.0,1.0,525.0,Leasehold,Semi-Detached,Not Specified
+Gateshead,180900.0,1.0,1.0,621.0,Co-operative Society,Flat,
+,,2.0,1.0,554.0,,Terraced,Not Specified
+Newcastle,264300.0,3.0,1.0,409.0,,Flat,No
+Gateshead,112900.0,2.0,1.0,435.0,Leasehold,Detached,No
+Gateshead,135800.0,2.0,1.0,445.0,,Apartment,Not Specified
+Consett,77100.0,3.0,1.0,481.0,Leasehold,Flat,Patio
+Newcastle,232300.0,3.0,1.0,412.0,,Semi-Detached,
+Gateshead,143200.0,2.0,1.0,461.0,,Flat,No
+Sunderland,110200.0,6.0,2.0,442.0,,Detached,No
+Newcastle,281300.0,3.0,1.0,467.0,Freehold,Terraced,Yes
+Newcastle,247100.0,3.0,1.0,525.0,,,Patio
+Newcastle,302900.0,2.0,1.0,735.0,Leasehold,Semi-Detached,Patio
+Newcastle,225300.0,1.0,1.0,519.0,,Mansionette,Yes
+Sunderland,,3.0,1.0,,Co-operative Society,Terraced,
+Gateshead,172700.0,4.0,1.0,424.0,,Not Specified,No
+Newcastle,320900.0,3.0,1.0,441.0,,Semi-Detached,Yes
+Gateshead,165700.0,1.0,1.0,537.0,,Detached,Not Specified
+Consett,61600.0,3.0,2.0,438.0,,Flat,Yes
+Newcastle,334800.0,3.0,1.0,478.0,,Flat,Yes
+Newcastle,295500.0,5.0,1.0,551.0,,Semi-Detached,
+Newcastle,320700.0,3.0,1.0,526.0,,Not Specified,No
+Sunderland,102500.0,2.0,1.0,435.0,,,Yes
+Gateshead,,3.0,2.0,,,Mansionette,Yes
+,,2.0,1.0,459.0,,Apartment,Yes
+Consett,70400.0,3.0,0.0,432.0,Unknown,,Yes
+Gateshead,217100.0,1.0,1.0,653.0,Leasehold,,Not Specified
+Newcastle,319300.0,2.0,1.0,485.0,,Semi-Detached,
+Newcastle,224400.0,1.0,1.0,435.0,,Semi-Detached,
+Gateshead,133000.0,1.0,1.0,526.0,Freehold,,Not Specified
+Sunderland,70900.0,1.0,1.0,553.0,,Semi-Detached,Not Specified
+Gateshead,302000.0,2.0,1.0,838.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,205000.0,1.0,1.0,631.0,,Semi-Detached,
+Newcastle,218800.0,1.0,2.0,428.0,,Semi-Detached,No
+Newcastle,138500.0,2.0,1.0,494.0,Freehold,Flat,No
+Gateshead,122700.0,2.0,2.0,433.0,Freehold,Terraced,No
+,,3.0,1.0,416.0,,,
+Sunderland,75000.0,2.0,1.0,484.0,Leasehold,Not Specified,Yes
+Newcastle,,3.0,,441.0,,,
+Gateshead,191900.0,1.0,1.0,413.0,,Semi-Detached,Yes
+Gateshead,168800.0,2.0,2.0,536.0,,Detached,Yes
+Newcastle,602500.0,2.0,1.0,891.0,,Detached,Yes
+Sunderland,73300.0,6.0,1.0,519.0,,Flat,Yes
+Consett,32900.0,3.0,1.0,464.0,Freehold,Flat,Yes
+Gateshead,279200.0,1.0,1.0,634.0,,Flat,Yes
+Gateshead,101300.0,2.0,1.0,436.0,,Terraced,Yes
+Gateshead,96900.0,,1.0,454.0,Freehold,Detached,Yes
+Gateshead,,3.0,,420.0,,Detached,Not Specified
+Gateshead,132400.0,3.0,1.0,535.0,Leasehold,Semi-Detached,Yes
+Newcastle,165500.0,3.0,1.0,439.0,,Semi-Detached,No
+Gateshead,135000.0,2.0,1.0,481.0,Unknown,,Yes
+Gateshead,169600.0,3.0,1.0,465.0,,Detached,Yes
+Gateshead,141600.0,2.0,1.0,484.0,,Not Specified,
+Gateshead,166100.0,1.0,1.0,426.0,Co-operative Society,Mansionette,Yes
+Sunderland,186800.0,3.0,2.0,605.0,,Flat,No
+Gateshead,2202300.0,3.0,1.0,6220.0,Freehold,Semi-Detached,Not Specified
+Sunderland,213800.0,3.0,2.0,985.0,,Terraced,
+Newcastle,237600.0,2.0,1.0,470.0,,Terraced,Yes
+Newcastle,255300.0,2.0,1.0,500.0,Leasehold,Apartment,Yes
+Newcastle,235400.0,,1.0,485.0,Unknown,Mansionette,
+Newcastle,279100.0,3.0,1.0,953.0,,Flat,
+Gateshead,183500.0,2.0,1.0,496.0,,Detached,Yes
+Newcastle,236200.0,3.0,1.0,435.0,,,Yes
+Sunderland,72200.0,2.0,1.0,456.0,,Apartment,No
+Gateshead,164900.0,1.0,1.0,517.0,,Mansionette,Yes
+Sunderland,74400.0,2.0,2.0,463.0,,,
+Sunderland,95000.0,2.0,1.0,449.0,,Detached,Yes
+Consett,57500.0,1.0,1.0,649.0,,,Not Specified
+Newcastle,372600.0,2.0,1.0,711.0,Co-operative Society,Flat,No
+Newcastle,248700.0,2.0,1.0,416.0,,,No
+Consett,36800.0,2.0,1.0,475.0,,Mansionette,Yes
+Newcastle,210300.0,3.0,2.0,407.0,Freehold,Semi-Detached,
+,,3.0,2.0,416.0,,Semi-Detached,Yes
+Sunderland,68000.0,2.0,1.0,440.0,,,Patio
+Newcastle,209800.0,1.0,1.0,435.0,Freehold,Semi-Detached,Yes
+Newcastle,190400.0,2.0,1.0,457.0,Leasehold,Detached,No
+Newcastle,427300.0,2.0,2.0,850.0,,,Yes
+Gateshead,127000.0,2.0,1.0,474.0,,Terraced,
+Newcastle,,2.0,1.0,,,Terraced,No
+Gateshead,202700.0,2.0,2.0,409.0,,Semi-Detached,Yes
+,,2.0,1.0,419.0,,Semi-Detached,Yes
+Newcastle,277300.0,2.0,1.0,510.0,Freehold,Not Specified,Not Specified
+Morpeth,93400.0,3.0,1.0,429.0,,Terraced,No
+Morpeth,,2.0,1.0,,Freehold,Flat,Yes
+Newcastle,225800.0,2.0,1.0,831.0,,Apartment,Yes
+Gateshead,387200.0,3.0,1.0,914.0,,Apartment,No
+,,4.0,1.0,449.0,,Not Specified,Not Specified
+Morpeth,142200.0,2.0,1.0,488.0,,,
+Gateshead,178900.0,2.0,2.0,534.0,,Semi-Detached,Yes
+Newcastle,323300.0,4.0,2.0,469.0,,Flat,
+Newcastle,146000.0,2.0,1.0,511.0,,Apartment,Yes
+Gateshead,,2.0,1.0,,,Semi-Detached,No
+Newcastle,180500.0,2.0,1.0,488.0,,Flat,
+Gateshead,148200.0,2.0,1.0,434.0,,Terraced,
+Newcastle,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,125800.0,1.0,1.0,433.0,Unknown,Flat,Yes
+Newcastle,325800.0,3.0,1.0,509.0,,Mansionette,No
+Newcastle,228700.0,4.0,2.0,466.0,Freehold,Flat,Patio
+Gateshead,150300.0,2.0,2.0,451.0,,Detached,Yes
+Newcastle,230200.0,1.0,2.0,516.0,Freehold,Terraced,Yes
+Gateshead,162300.0,2.0,1.0,460.0,Freehold,Semi-Detached,Yes
+Newcastle,216100.0,2.0,1.0,429.0,,Apartment,Yes
+Gateshead,185000.0,2.0,1.0,442.0,,Terraced,
+Newcastle,190600.0,2.0,1.0,454.0,,Apartment,Yes
+,,4.0,2.0,484.0,,Apartment,Yes
+Gateshead,165200.0,4.0,1.0,434.0,,Not Specified,Yes
+Gateshead,227700.0,2.0,1.0,521.0,Leasehold,,Yes
+Gateshead,138000.0,2.0,1.0,410.0,,Terraced,Yes
+Morpeth,55000.0,3.0,1.0,458.0,,Terraced,Not Specified
+Newcastle,270700.0,2.0,2.0,436.0,,Terraced,Yes
+Gateshead,498800.0,1.0,1.0,1260.0,,Not Specified,
+Newcastle,251100.0,2.0,1.0,428.0,,Flat,No
+Newcastle,377700.0,3.0,2.0,443.0,Co-operative Society,Terraced,Yes
+Gateshead,148000.0,3.0,1.0,435.0,,Not Specified,
+Morpeth,101400.0,2.0,2.0,492.0,Freehold,Terraced,
+Morpeth,121100.0,3.0,1.0,456.0,,Terraced,Yes
+Gateshead,153000.0,3.0,1.0,450.0,Co-operative Society,Detached,No
+Sunderland,72800.0,3.0,1.0,413.0,Leasehold,,Not Specified
+Gateshead,491900.0,1.0,1.0,1610.0,,Semi-Detached,Yes
+Newcastle,214200.0,2.0,1.0,444.0,Unknown,Flat,Yes
+Newcastle,171800.0,4.0,1.0,448.0,,Semi-Detached,No
+Sunderland,74400.0,3.0,1.0,412.0,,Not Specified,No
+Newcastle,319100.0,2.0,1.0,517.0,,Semi-Detached,Yes
+Sunderland,95000.0,4.0,1.0,438.0,,Semi-Detached,Yes
+Sunderland,107600.0,2.0,2.0,464.0,,Detached,Yes
+Sunderland,102300.0,2.0,1.0,442.0,Freehold,Not Specified,Yes
+Newcastle,162600.0,2.0,1.0,448.0,,,Yes
+Newcastle,239100.0,4.0,1.0,501.0,Freehold,,No
+Newcastle,238500.0,1.0,2.0,546.0,,,Yes
+Newcastle,249600.0,3.0,1.0,447.0,Co-operative Society,Terraced,Yes
+Newcastle,199200.0,3.0,2.0,434.0,Freehold,Mansionette,Yes
+Consett,57000.0,2.0,1.0,446.0,,Semi-Detached,No
+,,4.0,1.0,414.0,Freehold,Terraced,No
+Gateshead,163300.0,3.0,1.0,475.0,Freehold,Semi-Detached,No
+Newcastle,156100.0,1.0,1.0,434.0,,Semi-Detached,Yes
+Newcastle,144200.0,4.0,1.0,463.0,Leasehold,Mansionette,Yes
+Gateshead,164800.0,1.0,1.0,470.0,Freehold,Mansionette,
+Gateshead,124800.0,2.0,1.0,475.0,Unknown,Semi-Detached,Yes
+Newcastle,219100.0,4.0,2.0,455.0,Freehold,Apartment,Yes
+,,3.0,1.0,437.0,,Semi-Detached,Patio
+Newcastle,148700.0,2.0,1.0,510.0,Leasehold,Flat,Yes
+Sunderland,81700.0,2.0,1.0,456.0,Unknown,Terraced,Yes
+Newcastle,306500.0,2.0,2.0,407.0,,Semi-Detached,Yes
+Gateshead,128800.0,2.0,1.0,429.0,Freehold,Detached,Yes
+Gateshead,161100.0,3.0,2.0,583.0,Freehold,Mansionette,Yes
+,,1.0,1.0,708.0,,,Yes
+Newcastle,197800.0,2.0,1.0,403.0,Freehold,,No
+Newcastle,,3.0,2.0,,,Flat,No
+Newcastle,298000.0,3.0,1.0,450.0,Leasehold,Apartment,
+Newcastle,251000.0,2.0,2.0,633.0,,Detached,No
+Newcastle,421300.0,2.0,1.0,1089.0,Leasehold,Not Specified,Yes
+Newcastle,169000.0,4.0,1.0,423.0,,Semi-Detached,Yes
+Morpeth,132100.0,4.0,1.0,421.0,Leasehold,Not Specified,Not Specified
+Morpeth,137600.0,2.0,1.0,624.0,Freehold,Mansionette,Yes
+Newcastle,,2.0,2.0,,Co-operative Society,,Yes
+Gateshead,135500.0,3.0,1.0,426.0,Leasehold,Detached,Yes
+Newcastle,201800.0,3.0,1.0,489.0,Freehold,Semi-Detached,Yes
+Sunderland,90000.0,5.0,1.0,429.0,,Detached,Not Specified
+Newcastle,168200.0,5.0,1.0,424.0,Co-operative Society,Apartment,
+Newcastle,127200.0,2.0,1.0,467.0,,Semi-Detached,Yes
+Newcastle,1326000.0,3.0,1.0,2854.0,,Semi-Detached,Not Specified
+Newcastle,250700.0,,1.0,474.0,,Semi-Detached,No
+Newcastle,394700.0,1.0,2.0,1129.0,,,Yes
+Newcastle,245700.0,2.0,1.0,401.0,Leasehold,Semi-Detached,No
+Newcastle,,4.0,,,Leasehold,Semi-Detached,
+Gateshead,,3.0,1.0,,,Flat,No
+Gateshead,150300.0,2.0,1.0,431.0,,Semi-Detached,Yes
+Gateshead,273600.0,1.0,1.0,877.0,,,
+Gateshead,173200.0,1.0,1.0,454.0,,Terraced,Not Specified
+Sunderland,95100.0,3.0,1.0,577.0,,Mansionette,Yes
+Newcastle,210300.0,2.0,1.0,542.0,,Not Specified,Yes
+Newcastle,,1.0,1.0,,,Terraced,Patio
+Gateshead,218100.0,2.0,1.0,548.0,Freehold,Semi-Detached,No
+Morpeth,78300.0,2.0,2.0,428.0,,Terraced,Yes
+Gateshead,,2.0,,440.0,Freehold,Detached,
+Newcastle,235400.0,2.0,1.0,484.0,Freehold,Semi-Detached,
+Sunderland,133400.0,2.0,1.0,431.0,,Terraced,No
+Sunderland,150500.0,2.0,2.0,528.0,,Flat,No
+Newcastle,,2.0,,432.0,,Semi-Detached,No
+Gateshead,130400.0,4.0,1.0,449.0,,Flat,No
+Gateshead,179600.0,3.0,2.0,567.0,,Detached,Yes
+Newcastle,214800.0,1.0,1.0,404.0,Freehold,,
+Newcastle,182600.0,2.0,1.0,438.0,,,Patio
+Newcastle,,2.0,1.0,,,,No
+Newcastle,193400.0,2.0,1.0,407.0,Leasehold,Semi-Detached,No
+Morpeth,,3.0,,460.0,Freehold,Semi-Detached,Yes
+,,1.0,1.0,414.0,,Detached,Yes
+Gateshead,167500.0,6.0,2.0,430.0,Freehold,,Yes
+Sunderland,54800.0,2.0,1.0,422.0,,Not Specified,No
+Gateshead,138300.0,,2.0,450.0,,Semi-Detached,Not Specified
+Sunderland,,3.0,1.0,,Leasehold,Detached,Yes
+Gateshead,118900.0,1.0,1.0,459.0,,,Yes
+Gateshead,156500.0,3.0,1.0,465.0,Leasehold,Semi-Detached,No
+Newcastle,162400.0,4.0,1.0,446.0,,Semi-Detached,Yes
+Newcastle,338200.0,5.0,1.0,485.0,Freehold,Detached,Yes
+Newcastle,,2.0,2.0,,,Apartment,No
+Newcastle,273100.0,1.0,1.0,561.0,Unknown,,No
+Newcastle,153200.0,4.0,1.0,457.0,,Apartment,No
+Gateshead,175300.0,6.0,1.0,626.0,Freehold,Not Specified,No
+Newcastle,211000.0,3.0,1.0,509.0,Leasehold,Detached,Yes
+Sunderland,65600.0,1.0,1.0,430.0,Leasehold,Terraced,Yes
+Gateshead,166900.0,3.0,1.0,585.0,,Flat,Yes
+Gateshead,117300.0,3.0,1.0,440.0,Freehold,,No
+Consett,61500.0,1.0,1.0,454.0,Freehold,Semi-Detached,No
+Newcastle,204900.0,3.0,1.0,423.0,,Terraced,
+Newcastle,220200.0,3.0,1.0,478.0,,Semi-Detached,Not Specified
+Morpeth,56800.0,2.0,1.0,438.0,,Semi-Detached,
+Newcastle,222400.0,4.0,1.0,443.0,,Not Specified,Yes
+Gateshead,134800.0,3.0,1.0,448.0,,Flat,Yes
+Gateshead,147000.0,2.0,1.0,432.0,,Semi-Detached,Yes
+Newcastle,214300.0,2.0,1.0,566.0,,Not Specified,Yes
+Newcastle,,2.0,,419.0,,Semi-Detached,No
+,,1.0,2.0,437.0,Unknown,Flat,Yes
+Newcastle,,2.0,,485.0,,Not Specified,Patio
+Gateshead,150600.0,3.0,2.0,435.0,Freehold,Mansionette,Yes
+Newcastle,285100.0,1.0,2.0,555.0,,Semi-Detached,Patio
+Newcastle,216200.0,2.0,1.0,533.0,Unknown,Terraced,
+Newcastle,202200.0,2.0,2.0,451.0,Unknown,Terraced,Yes
+Newcastle,149900.0,2.0,1.0,437.0,,Flat,Yes
+,,2.0,1.0,453.0,Co-operative Society,,Not Specified
+Gateshead,174000.0,2.0,1.0,416.0,Unknown,Terraced,Yes
+Gateshead,137300.0,4.0,2.0,414.0,Freehold,Semi-Detached,Yes
+Newcastle,542700.0,3.0,1.0,817.0,,Semi-Detached,Yes
+Newcastle,,3.0,,421.0,,Not Specified,
+Gateshead,223400.0,2.0,1.0,669.0,Freehold,Apartment,Yes
+Sunderland,94600.0,3.0,1.0,455.0,,,
+Gateshead,,1.0,,548.0,,Apartment,Not Specified
+Gateshead,124000.0,3.0,1.0,472.0,Leasehold,Semi-Detached,Not Specified
+Gateshead,211300.0,1.0,1.0,456.0,,Semi-Detached,Patio
+Newcastle,145600.0,3.0,1.0,430.0,Freehold,Semi-Detached,No
+Newcastle,138200.0,5.0,1.0,457.0,,Not Specified,Yes
+Sunderland,63700.0,2.0,1.0,413.0,Freehold,Apartment,No
+Newcastle,268600.0,3.0,2.0,419.0,,Terraced,Yes
+Gateshead,149100.0,3.0,1.0,455.0,,,
+Gateshead,422700.0,3.0,2.0,835.0,,Mansionette,Patio
+Gateshead,525600.0,2.0,1.0,1693.0,,Not Specified,Yes
+Newcastle,129600.0,2.0,1.0,427.0,,Apartment,Yes
+Newcastle,156200.0,1.0,1.0,493.0,,Detached,
+Newcastle,163000.0,1.0,1.0,449.0,,,Yes
+Gateshead,,2.0,,444.0,,Semi-Detached,
+Morpeth,123600.0,1.0,1.0,583.0,,Semi-Detached,Not Specified
+Newcastle,250200.0,3.0,1.0,429.0,Freehold,Flat,Not Specified
+Gateshead,193800.0,2.0,1.0,495.0,,Detached,No
+Gateshead,222900.0,2.0,2.0,633.0,Freehold,Flat,Yes
+Gateshead,164300.0,1.0,1.0,412.0,Freehold,Semi-Detached,No
+Gateshead,186300.0,2.0,1.0,459.0,Freehold,Semi-Detached,Yes
+Gateshead,147400.0,3.0,2.0,443.0,,Semi-Detached,
+Sunderland,141200.0,3.0,2.0,443.0,Leasehold,Semi-Detached,Patio
+Gateshead,127800.0,3.0,1.0,411.0,,,No
+Gateshead,150400.0,2.0,2.0,410.0,,Terraced,Yes
+Newcastle,228200.0,2.0,1.0,432.0,,Detached,Yes
+Gateshead,94100.0,2.0,1.0,441.0,Freehold,,Patio
+,,2.0,1.0,429.0,,Flat,Yes
+,,2.0,1.0,423.0,,Mansionette,Yes
+Newcastle,,2.0,,476.0,Unknown,Semi-Detached,Yes
+Morpeth,82000.0,2.0,1.0,809.0,,Semi-Detached,Yes
+Sunderland,85900.0,2.0,1.0,487.0,,Flat,Yes
+Gateshead,202600.0,3.0,1.0,429.0,,Not Specified,Yes
+Gateshead,140400.0,2.0,1.0,441.0,,Semi-Detached,Yes
+Gateshead,,5.0,1.0,,,Mansionette,No
+Morpeth,45900.0,2.0,1.0,548.0,Co-operative Society,Semi-Detached,
+Gateshead,135600.0,3.0,1.0,460.0,Leasehold,Terraced,No
+Newcastle,227300.0,2.0,1.0,449.0,Leasehold,,Yes
+Newcastle,169600.0,2.0,1.0,459.0,,Detached,
+Newcastle,177000.0,2.0,2.0,433.0,,Semi-Detached,Yes
+,,1.0,1.0,453.0,Unknown,Detached,No
+Newcastle,,2.0,,634.0,,,Patio
+Newcastle,193100.0,2.0,1.0,577.0,,Flat,
+Newcastle,,3.0,1.0,,,Detached,Yes
+Gateshead,208800.0,3.0,1.0,610.0,,,No
+Newcastle,,3.0,,,,Semi-Detached,Yes
+Consett,54500.0,3.0,1.0,443.0,Freehold,Semi-Detached,Not Specified
+Newcastle,257600.0,2.0,1.0,778.0,,Flat,Patio
+Newcastle,192200.0,2.0,1.0,448.0,,Semi-Detached,Yes
+Newcastle,231900.0,2.0,2.0,468.0,,Semi-Detached,Yes
+Newcastle,96800.0,3.0,1.0,416.0,,Terraced,Yes
+Gateshead,148900.0,2.0,2.0,424.0,Co-operative Society,Not Specified,Yes
+Morpeth,64800.0,2.0,1.0,491.0,,Apartment,Yes
+Newcastle,,2.0,1.0,,,Apartment,
+Gateshead,133700.0,2.0,1.0,441.0,,Semi-Detached,Yes
+Newcastle,211600.0,4.0,1.0,445.0,Leasehold,Semi-Detached,Yes
+Newcastle,339600.0,1.0,2.0,561.0,,Not Specified,Yes
+Newcastle,197400.0,3.0,2.0,420.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,155700.0,2.0,1.0,436.0,,Flat,No
+Newcastle,385600.0,2.0,1.0,477.0,Unknown,Semi-Detached,Yes
+Gateshead,170100.0,2.0,1.0,428.0,Unknown,Apartment,Not Specified
+Newcastle,218800.0,2.0,1.0,477.0,,Semi-Detached,Yes
+Newcastle,128400.0,1.0,2.0,419.0,,Terraced,No
+,,2.0,,802.0,,Semi-Detached,Not Specified
+Newcastle,254000.0,3.0,2.0,578.0,Leasehold,Flat,
+Newcastle,161200.0,2.0,1.0,423.0,Freehold,Detached,No
+Gateshead,251400.0,2.0,1.0,669.0,,Semi-Detached,Yes
+Gateshead,136300.0,2.0,1.0,492.0,Freehold,Detached,Yes
+Newcastle,197500.0,4.0,1.0,492.0,,Flat,Yes
+Gateshead,158600.0,3.0,1.0,456.0,,Semi-Detached,Yes
+Newcastle,295200.0,2.0,2.0,448.0,,Semi-Detached,No
+Newcastle,166300.0,2.0,1.0,420.0,,Flat,
+Newcastle,148100.0,2.0,2.0,443.0,,Detached,Yes
+Newcastle,323800.0,2.0,1.0,1216.0,Unknown,Flat,No
+Sunderland,88800.0,2.0,1.0,450.0,,Apartment,Patio
+Gateshead,192000.0,4.0,1.0,499.0,Leasehold,Flat,Patio
+Gateshead,169600.0,3.0,1.0,427.0,,,No
+,,2.0,1.0,450.0,,Semi-Detached,Not Specified
+Gateshead,252600.0,2.0,2.0,477.0,,Semi-Detached,Yes
+Newcastle,261500.0,2.0,2.0,451.0,,,Yes
+Gateshead,123100.0,5.0,1.0,491.0,,Mansionette,Yes
+Newcastle,230100.0,3.0,1.0,466.0,,Detached,
+Newcastle,,3.0,2.0,,,Terraced,Patio
+Newcastle,,1.0,,642.0,,Semi-Detached,Yes
+Newcastle,229300.0,2.0,2.0,502.0,,,Yes
+Gateshead,186700.0,3.0,1.0,529.0,,Semi-Detached,Not Specified
+Gateshead,135200.0,1.0,1.0,428.0,Freehold,,No
+Newcastle,201300.0,1.0,1.0,513.0,,Flat,Not Specified
+Gateshead,132700.0,3.0,1.0,461.0,,Semi-Detached,Patio
+Gateshead,145000.0,2.0,1.0,428.0,Freehold,Terraced,Not Specified
+Newcastle,245100.0,2.0,1.0,415.0,Leasehold,Mansionette,Yes
+Gateshead,170300.0,4.0,1.0,473.0,Freehold,Terraced,Yes
+Sunderland,90200.0,5.0,1.0,518.0,,Not Specified,Yes
+Gateshead,169900.0,1.0,1.0,464.0,,Semi-Detached,Yes
+,,1.0,2.0,441.0,Unknown,Terraced,Not Specified
+Sunderland,60700.0,3.0,1.0,406.0,,Detached,Yes
+Gateshead,246700.0,2.0,1.0,767.0,,Semi-Detached,Not Specified
+Gateshead,111500.0,3.0,1.0,405.0,Freehold,Not Specified,Yes
+Newcastle,210300.0,3.0,1.0,425.0,,Flat,Yes
+Gateshead,124300.0,4.0,1.0,573.0,,Flat,Yes
+Gateshead,,3.0,1.0,,,Detached,Not Specified
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,183200.0,2.0,2.0,422.0,,Semi-Detached,Yes
+Consett,81700.0,2.0,2.0,438.0,,Flat,Yes
+Newcastle,202100.0,3.0,1.0,443.0,,Semi-Detached,Yes
+Newcastle,167900.0,4.0,2.0,450.0,,,Yes
+Sunderland,91000.0,2.0,1.0,479.0,,Semi-Detached,
+Newcastle,222300.0,1.0,1.0,432.0,,Terraced,Yes
+Newcastle,224700.0,2.0,1.0,442.0,Leasehold,Terraced,Yes
+Newcastle,195200.0,2.0,1.0,413.0,,,Not Specified
+,,3.0,1.0,433.0,,,
+Newcastle,219700.0,3.0,1.0,437.0,Freehold,Semi-Detached,
+Gateshead,147200.0,2.0,1.0,436.0,,Semi-Detached,Yes
+Morpeth,178500.0,4.0,1.0,651.0,,,
+Gateshead,214100.0,2.0,1.0,513.0,,Semi-Detached,Yes
+Newcastle,249800.0,1.0,1.0,448.0,,Apartment,Yes
+Gateshead,108700.0,3.0,1.0,455.0,,Detached,Not Specified
+Gateshead,129000.0,2.0,1.0,425.0,Leasehold,Semi-Detached,Yes
+Newcastle,382900.0,4.0,1.0,733.0,,Mansionette,Not Specified
+Morpeth,184400.0,2.0,2.0,491.0,,Terraced,Not Specified
+Morpeth,80300.0,1.0,1.0,636.0,Leasehold,Terraced,Yes
+Newcastle,563400.0,2.0,1.0,706.0,,Semi-Detached,Yes
+Newcastle,178000.0,2.0,1.0,544.0,,Semi-Detached,
+Gateshead,179100.0,2.0,1.0,408.0,,Mansionette,Yes
+Gateshead,173200.0,2.0,1.0,640.0,Leasehold,Apartment,Yes
+Gateshead,,3.0,,448.0,,Semi-Detached,
+Gateshead,181500.0,2.0,1.0,498.0,,Detached,No
+Newcastle,162400.0,2.0,1.0,413.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,353800.0,4.0,1.0,742.0,,Flat,Yes
+Gateshead,200800.0,3.0,2.0,430.0,Co-operative Society,Apartment,No
+Sunderland,80000.0,2.0,1.0,431.0,,Terraced,Not Specified
+Newcastle,248100.0,1.0,1.0,522.0,,,No
+Newcastle,332300.0,1.0,1.0,440.0,Freehold,Terraced,Yes
+Newcastle,,2.0,,474.0,Freehold,Semi-Detached,Yes
+Gateshead,266800.0,2.0,2.0,628.0,Unknown,Flat,No
+Newcastle,,3.0,,406.0,Unknown,,No
+Gateshead,180800.0,2.0,1.0,465.0,Leasehold,Semi-Detached,Yes
+Gateshead,162300.0,2.0,1.0,403.0,Leasehold,Terraced,Yes
+Newcastle,233000.0,3.0,1.0,468.0,Freehold,Semi-Detached,Yes
+Newcastle,247000.0,1.0,2.0,459.0,Leasehold,Not Specified,
+Newcastle,341400.0,2.0,1.0,852.0,Co-operative Society,Detached,No
+Newcastle,,2.0,1.0,,,Semi-Detached,
+Newcastle,219500.0,2.0,1.0,457.0,,,Patio
+Gateshead,,2.0,,473.0,,Not Specified,No
+Gateshead,,3.0,,428.0,Leasehold,Terraced,No
+Newcastle,223200.0,2.0,1.0,449.0,Leasehold,,No
+Newcastle,161300.0,3.0,2.0,502.0,Leasehold,Terraced,No
+Newcastle,254400.0,,1.0,469.0,Leasehold,Mansionette,Yes
+Gateshead,216200.0,2.0,2.0,748.0,Freehold,Detached,Yes
+Newcastle,359800.0,2.0,1.0,832.0,,Semi-Detached,Not Specified
+Newcastle,110800.0,3.0,1.0,462.0,,Detached,Yes
+Gateshead,148100.0,5.0,1.0,453.0,,Not Specified,No
+Sunderland,,2.0,,423.0,,Flat,
+Newcastle,160900.0,2.0,1.0,416.0,,,Yes
+Gateshead,178400.0,3.0,1.0,441.0,,,Not Specified
+Gateshead,132800.0,2.0,1.0,460.0,Leasehold,Terraced,
+Consett,61400.0,3.0,2.0,434.0,,Mansionette,Yes
+Newcastle,186400.0,4.0,1.0,461.0,,Semi-Detached,Yes
+Newcastle,153500.0,2.0,1.0,432.0,,Semi-Detached,
+Gateshead,,2.0,,424.0,,Flat,Yes
+Newcastle,317400.0,2.0,2.0,465.0,,Semi-Detached,Patio
+Newcastle,152000.0,2.0,1.0,407.0,,Terraced,Yes
+Newcastle,189200.0,2.0,2.0,425.0,Freehold,Terraced,Yes
+Newcastle,178700.0,3.0,1.0,492.0,,Semi-Detached,Yes
+Morpeth,53600.0,2.0,1.0,487.0,,Terraced,Yes
+Morpeth,79500.0,3.0,1.0,446.0,Leasehold,Semi-Detached,No
+,,3.0,1.0,420.0,Leasehold,Semi-Detached,Not Specified
+Gateshead,196300.0,1.0,2.0,507.0,,Semi-Detached,Yes
+Newcastle,188900.0,4.0,1.0,649.0,Leasehold,,Yes
+Gateshead,343800.0,1.0,1.0,1053.0,,Semi-Detached,Not Specified
+Newcastle,144900.0,2.0,1.0,408.0,Freehold,Semi-Detached,Yes
+Newcastle,191000.0,5.0,2.0,459.0,,Semi-Detached,
+Newcastle,108700.0,2.0,1.0,411.0,Freehold,Semi-Detached,Yes
+Sunderland,78200.0,2.0,1.0,477.0,Freehold,Terraced,
+Gateshead,137700.0,2.0,2.0,437.0,,,Yes
+Sunderland,119700.0,2.0,1.0,841.0,,Mansionette,No
+Gateshead,120000.0,1.0,1.0,415.0,Co-operative Society,Flat,Not Specified
+Sunderland,88900.0,2.0,1.0,478.0,,Flat,Yes
+Gateshead,141000.0,1.0,1.0,561.0,,Terraced,No
+,,3.0,1.0,450.0,,Semi-Detached,No
+Gateshead,223500.0,3.0,1.0,441.0,Leasehold,Detached,Not Specified
+Gateshead,241600.0,2.0,1.0,772.0,,Terraced,Yes
+Newcastle,261800.0,1.0,1.0,409.0,,,Patio
+Gateshead,144700.0,1.0,1.0,428.0,,Apartment,Yes
+Newcastle,166100.0,4.0,1.0,449.0,Leasehold,Mansionette,Yes
+Gateshead,131200.0,1.0,1.0,446.0,Leasehold,,No
+Newcastle,276600.0,2.0,1.0,431.0,Freehold,Terraced,Yes
+Newcastle,158300.0,2.0,1.0,437.0,Freehold,Not Specified,Not Specified
+Gateshead,257900.0,3.0,1.0,1096.0,,Semi-Detached,Yes
+Gateshead,148700.0,4.0,1.0,406.0,,Terraced,
+Newcastle,219800.0,2.0,2.0,408.0,Freehold,Not Specified,Yes
+Consett,157800.0,2.0,1.0,547.0,Co-operative Society,Semi-Detached,Not Specified
+Gateshead,160400.0,2.0,1.0,447.0,Unknown,Flat,Yes
+Gateshead,,3.0,,450.0,Freehold,Apartment,No
+Newcastle,276000.0,3.0,1.0,449.0,,Semi-Detached,Yes
+Newcastle,,2.0,1.0,,,Not Specified,Yes
+Gateshead,,2.0,2.0,,,Semi-Detached,
+Gateshead,153400.0,3.0,1.0,433.0,,Semi-Detached,Yes
+Gateshead,178700.0,1.0,1.0,456.0,Unknown,Terraced,Yes
+Gateshead,159200.0,2.0,1.0,437.0,,Terraced,Not Specified
+Sunderland,127700.0,3.0,1.0,1106.0,Leasehold,Terraced,
+Newcastle,151900.0,2.0,1.0,474.0,,Terraced,Yes
+Newcastle,208100.0,1.0,1.0,473.0,,Terraced,No
+Newcastle,225100.0,4.0,1.0,428.0,,Flat,Patio
+Gateshead,197500.0,2.0,2.0,562.0,,Terraced,No
+Newcastle,325700.0,6.0,2.0,450.0,,Mansionette,Not Specified
+Sunderland,89000.0,1.0,1.0,434.0,,Detached,Not Specified
+Gateshead,178800.0,2.0,1.0,443.0,Co-operative Society,Detached,Not Specified
+Sunderland,81100.0,2.0,2.0,417.0,Freehold,,Yes
+Newcastle,201100.0,1.0,1.0,422.0,Unknown,,Yes
+Newcastle,194100.0,4.0,2.0,422.0,Leasehold,Semi-Detached,Yes
+Gateshead,164400.0,3.0,1.0,498.0,,Semi-Detached,Yes
+Morpeth,76600.0,3.0,1.0,447.0,Freehold,Terraced,
+Gateshead,,3.0,1.0,,,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,Co-operative Society,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,,Terraced,No
+Newcastle,122200.0,2.0,1.0,506.0,Freehold,Flat,Yes
+Newcastle,262100.0,3.0,1.0,428.0,,,
+Gateshead,367300.0,3.0,1.0,847.0,Co-operative Society,Mansionette,Yes
+,,4.0,1.0,441.0,Freehold,Flat,
+,,2.0,1.0,581.0,,Semi-Detached,Not Specified
+Sunderland,116200.0,2.0,1.0,477.0,Freehold,Semi-Detached,Not Specified
+Newcastle,121800.0,4.0,2.0,403.0,,Flat,Yes
+Consett,54400.0,2.0,2.0,421.0,Freehold,Detached,
+Gateshead,173400.0,3.0,2.0,445.0,Freehold,,Yes
+Newcastle,,3.0,2.0,,Unknown,Not Specified,Yes
+Newcastle,229000.0,1.0,1.0,443.0,,Detached,Yes
+Gateshead,159800.0,2.0,2.0,431.0,,Semi-Detached,No
+Morpeth,123100.0,2.0,1.0,628.0,,,No
+Gateshead,130200.0,3.0,1.0,420.0,Leasehold,Flat,Yes
+Gateshead,167900.0,1.0,1.0,530.0,,Apartment,Patio
+Newcastle,250700.0,1.0,1.0,462.0,,,No
+Gateshead,312500.0,5.0,1.0,1040.0,,Semi-Detached,No
+Gateshead,,1.0,,683.0,Unknown,Flat,Not Specified
+Newcastle,146400.0,2.0,1.0,427.0,,Terraced,No
+Morpeth,142200.0,2.0,2.0,496.0,,Semi-Detached,Yes
+Newcastle,,2.0,2.0,,,Flat,No
+Gateshead,149100.0,1.0,1.0,550.0,,Flat,Yes
+Newcastle,238800.0,2.0,2.0,498.0,,Mansionette,No
+Gateshead,175300.0,5.0,1.0,450.0,Freehold,Terraced,Yes
+Morpeth,157800.0,2.0,2.0,693.0,Leasehold,,No
+Newcastle,170200.0,2.0,1.0,405.0,,Terraced,Yes
+Newcastle,144000.0,6.0,1.0,443.0,,Detached,Yes
+Gateshead,182500.0,5.0,1.0,536.0,,Not Specified,Yes
+Newcastle,221300.0,3.0,1.0,409.0,,Mansionette,No
+Gateshead,133800.0,,1.0,470.0,Leasehold,Detached,Yes
+Newcastle,216700.0,2.0,1.0,436.0,,,
+Sunderland,106900.0,3.0,1.0,614.0,Freehold,Terraced,Yes
+Newcastle,198000.0,2.0,1.0,548.0,Co-operative Society,Not Specified,Yes
+Gateshead,175300.0,,1.0,442.0,Co-operative Society,,
+Newcastle,,2.0,,,Leasehold,Flat,Patio
+Gateshead,338000.0,2.0,1.0,851.0,,Semi-Detached,Yes
+Gateshead,107400.0,1.0,1.0,407.0,Leasehold,Terraced,Yes
+Gateshead,457000.0,3.0,2.0,1167.0,Leasehold,Terraced,
+Gateshead,128200.0,2.0,2.0,435.0,Freehold,Semi-Detached,Yes
+Morpeth,121500.0,2.0,1.0,519.0,Leasehold,Flat,No
+,,3.0,1.0,,,Terraced,Not Specified
+Newcastle,,3.0,1.0,,,Detached,Yes
+Newcastle,242900.0,3.0,1.0,437.0,Unknown,Not Specified,Yes
+,,4.0,1.0,588.0,Co-operative Society,Terraced,Yes
+Morpeth,161900.0,2.0,1.0,533.0,,Semi-Detached,Yes
+Gateshead,136100.0,3.0,1.0,446.0,Leasehold,Flat,No
+Gateshead,,2.0,1.0,,,Terraced,Yes
+Gateshead,207000.0,1.0,2.0,455.0,,Semi-Detached,Yes
+Newcastle,328500.0,2.0,1.0,841.0,,Semi-Detached,Yes
+Sunderland,145200.0,2.0,1.0,561.0,,Apartment,
+,,3.0,1.0,509.0,,Detached,No
+Gateshead,128100.0,2.0,1.0,419.0,,Terraced,Yes
+Newcastle,272900.0,2.0,1.0,448.0,Unknown,Terraced,Yes
+Newcastle,113800.0,4.0,1.0,432.0,Co-operative Society,Flat,No
+Newcastle,147200.0,2.0,1.0,404.0,Freehold,Terraced,Yes
+Morpeth,303500.0,1.0,1.0,542.0,Freehold,Not Specified,
+Newcastle,199300.0,3.0,1.0,493.0,,,
+Morpeth,80600.0,3.0,1.0,419.0,,Semi-Detached,Patio
+Gateshead,188000.0,2.0,1.0,458.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,169800.0,1.0,1.0,402.0,,Semi-Detached,No
+Newcastle,220000.0,2.0,1.0,427.0,,Not Specified,No
+,,3.0,2.0,452.0,Freehold,Terraced,No
+Gateshead,149300.0,3.0,1.0,428.0,,Semi-Detached,Yes
+Gateshead,148900.0,3.0,1.0,432.0,,Not Specified,
+Consett,116300.0,3.0,1.0,409.0,Leasehold,Semi-Detached,Yes
+Newcastle,220700.0,2.0,1.0,460.0,,Detached,Not Specified
+Newcastle,203600.0,3.0,2.0,465.0,,Terraced,Yes
+Newcastle,263700.0,4.0,2.0,455.0,,Semi-Detached,Yes
+Gateshead,163900.0,1.0,1.0,471.0,Freehold,Mansionette,Yes
+Gateshead,162000.0,1.0,2.0,442.0,,Detached,Not Specified
+Morpeth,41500.0,2.0,1.0,407.0,,Semi-Detached,Yes
+Gateshead,151900.0,1.0,1.0,434.0,,Terraced,Not Specified
+Newcastle,356000.0,,2.0,668.0,,,No
+Gateshead,292300.0,2.0,1.0,704.0,Leasehold,Terraced,Yes
+Gateshead,175100.0,1.0,1.0,455.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,206400.0,5.0,2.0,487.0,,Flat,Not Specified
+Newcastle,136800.0,3.0,1.0,437.0,,,
+Morpeth,128700.0,2.0,1.0,548.0,Leasehold,Semi-Detached,Yes
+Newcastle,,4.0,,600.0,,Semi-Detached,
+Gateshead,163100.0,2.0,1.0,417.0,,Not Specified,Yes
+Sunderland,130700.0,3.0,1.0,485.0,,Flat,Not Specified
+Gateshead,223900.0,2.0,1.0,521.0,Co-operative Society,Terraced,
+Sunderland,101300.0,3.0,1.0,504.0,,Terraced,
+Newcastle,,1.0,,441.0,,,Patio
+Gateshead,135400.0,1.0,1.0,446.0,Leasehold,Not Specified,Not Specified
+Newcastle,227000.0,2.0,2.0,421.0,,Semi-Detached,No
+Gateshead,113600.0,1.0,1.0,430.0,,Semi-Detached,Yes
+Gateshead,137200.0,3.0,1.0,471.0,Freehold,Semi-Detached,No
+Newcastle,178500.0,3.0,1.0,436.0,,Apartment,
+Newcastle,201300.0,2.0,1.0,598.0,,Flat,Yes
+Newcastle,289200.0,3.0,1.0,541.0,Freehold,Semi-Detached,No
+Gateshead,138900.0,2.0,1.0,495.0,Freehold,Semi-Detached,Not Specified
+Newcastle,241500.0,3.0,1.0,486.0,Leasehold,Terraced,No
+Newcastle,229000.0,3.0,1.0,420.0,Freehold,Semi-Detached,Yes
+,,2.0,1.0,534.0,,Semi-Detached,
+,,2.0,1.0,419.0,,,No
+Newcastle,173400.0,2.0,1.0,433.0,,Flat,Yes
+Sunderland,126200.0,2.0,1.0,838.0,,Flat,Yes
+,,2.0,1.0,611.0,,Detached,No
+Morpeth,92800.0,2.0,1.0,550.0,Freehold,Flat,Yes
+Gateshead,263100.0,3.0,2.0,465.0,Freehold,Detached,
+,,2.0,1.0,888.0,,Flat,
+Newcastle,327100.0,1.0,2.0,688.0,,Semi-Detached,Yes
+Gateshead,87200.0,2.0,1.0,436.0,Leasehold,Flat,No
+Gateshead,82900.0,2.0,1.0,459.0,Freehold,Not Specified,No
+Newcastle,,2.0,1.0,,,Terraced,Yes
+Gateshead,226300.0,1.0,1.0,613.0,Leasehold,Flat,
+Gateshead,198000.0,1.0,2.0,430.0,,Semi-Detached,Yes
+Newcastle,299200.0,3.0,1.0,620.0,,Semi-Detached,Yes
+,,2.0,1.0,,,Terraced,Yes
+Gateshead,208100.0,2.0,1.0,506.0,Freehold,,
+,,3.0,1.0,452.0,Freehold,Semi-Detached,
+Newcastle,206900.0,4.0,1.0,500.0,Freehold,Apartment,No
+Newcastle,,2.0,,471.0,,Detached,Not Specified
+Newcastle,279600.0,2.0,2.0,460.0,,Semi-Detached,Not Specified
+Gateshead,106400.0,3.0,1.0,444.0,,Mansionette,Yes
+Newcastle,775100.0,2.0,1.0,1373.0,Freehold,Semi-Detached,No
+Newcastle,,3.0,1.0,,,Detached,
+Newcastle,,,,,Leasehold,Semi-Detached,No
+Sunderland,85000.0,4.0,1.0,451.0,,Semi-Detached,Yes
+Sunderland,95900.0,1.0,1.0,523.0,,Semi-Detached,Yes
+Gateshead,171800.0,2.0,1.0,524.0,Freehold,Semi-Detached,Yes
+Gateshead,164700.0,2.0,1.0,451.0,,Semi-Detached,
+Newcastle,230900.0,2.0,1.0,452.0,Freehold,,No
+Morpeth,184500.0,3.0,1.0,438.0,Freehold,Mansionette,Yes
+Newcastle,160200.0,2.0,1.0,427.0,Freehold,Semi-Detached,Not Specified
+Gateshead,226800.0,2.0,1.0,512.0,,Flat,No
+Gateshead,172800.0,3.0,1.0,468.0,Freehold,,Yes
+Gateshead,162700.0,2.0,1.0,425.0,,,No
+Consett,62400.0,1.0,1.0,422.0,Leasehold,Detached,Yes
+,,3.0,1.0,445.0,,Semi-Detached,No
+,,3.0,1.0,461.0,Leasehold,Semi-Detached,Yes
+Gateshead,153000.0,3.0,1.0,489.0,,Terraced,Patio
+Morpeth,,3.0,1.0,,,Detached,
+Newcastle,369900.0,3.0,2.0,426.0,,Not Specified,No
+Morpeth,98100.0,2.0,1.0,657.0,,Detached,No
+Consett,39200.0,2.0,1.0,414.0,,Detached,No
+Newcastle,1166800.0,3.0,1.0,3208.0,,Semi-Detached,No
+Gateshead,218100.0,3.0,1.0,446.0,,,
+Gateshead,,2.0,,464.0,Leasehold,Semi-Detached,No
+Newcastle,246300.0,3.0,1.0,435.0,Co-operative Society,Terraced,Yes
+Sunderland,88200.0,1.0,1.0,483.0,,Terraced,Yes
+Newcastle,226100.0,3.0,1.0,436.0,,Not Specified,No
+Newcastle,203600.0,1.0,1.0,429.0,Freehold,Terraced,Yes
+Gateshead,,1.0,,428.0,,Terraced,
+Gateshead,175700.0,2.0,1.0,505.0,,Semi-Detached,Not Specified
+Newcastle,229600.0,2.0,1.0,535.0,,Terraced,Yes
+Newcastle,172400.0,2.0,1.0,458.0,,Detached,Yes
+Gateshead,184400.0,4.0,1.0,566.0,,Detached,Yes
+Gateshead,137600.0,3.0,1.0,444.0,Freehold,Semi-Detached,Yes
+Newcastle,163300.0,2.0,2.0,419.0,,Semi-Detached,Yes
+,,3.0,1.0,507.0,,Detached,Yes
+Gateshead,162800.0,1.0,2.0,478.0,Unknown,Semi-Detached,Not Specified
+Newcastle,214500.0,3.0,1.0,442.0,,Semi-Detached,Not Specified
+Consett,57000.0,3.0,2.0,544.0,,Mansionette,Yes
+Newcastle,135400.0,2.0,1.0,413.0,,Detached,Yes
+Gateshead,161000.0,1.0,2.0,407.0,,Semi-Detached,Patio
+Newcastle,235000.0,1.0,1.0,437.0,,Terraced,Yes
+Newcastle,277800.0,1.0,1.0,682.0,,,No
+Gateshead,237500.0,2.0,1.0,789.0,,Flat,Yes
+Gateshead,159400.0,1.0,1.0,439.0,,,Yes
+Sunderland,74500.0,3.0,1.0,411.0,,Apartment,
+Gateshead,129800.0,3.0,1.0,445.0,,Detached,Yes
+Newcastle,235500.0,2.0,1.0,457.0,,Terraced,Not Specified
+Sunderland,70900.0,2.0,1.0,406.0,,Apartment,Not Specified
+Sunderland,95300.0,2.0,1.0,764.0,,Mansionette,
+Gateshead,,2.0,,491.0,,Semi-Detached,No
+Newcastle,267800.0,3.0,1.0,833.0,Freehold,Flat,Yes
+Newcastle,97600.0,1.0,1.0,473.0,,Flat,Yes
+Newcastle,206400.0,1.0,1.0,432.0,Freehold,Semi-Detached,No
+Newcastle,212300.0,3.0,1.0,448.0,,Not Specified,Yes
+Newcastle,274900.0,2.0,2.0,631.0,Leasehold,Semi-Detached,Not Specified
+Gateshead,133000.0,1.0,1.0,405.0,Leasehold,Not Specified,No
+Newcastle,173900.0,2.0,1.0,459.0,,Terraced,
+Newcastle,117700.0,3.0,1.0,442.0,,Semi-Detached,Yes
+Consett,57100.0,1.0,1.0,433.0,Leasehold,Semi-Detached,No
+Gateshead,137100.0,3.0,1.0,456.0,Leasehold,Detached,Yes
+Sunderland,109000.0,2.0,1.0,641.0,,Detached,Yes
+Sunderland,73900.0,2.0,1.0,405.0,,Semi-Detached,
+Newcastle,193600.0,1.0,1.0,469.0,,Semi-Detached,Yes
+Gateshead,129400.0,2.0,2.0,472.0,,Terraced,
+Gateshead,113300.0,2.0,1.0,567.0,,Flat,Yes
+Newcastle,198800.0,1.0,1.0,545.0,Unknown,Not Specified,Not Specified
+Gateshead,173300.0,2.0,1.0,517.0,Freehold,Flat,Yes
+Newcastle,148100.0,2.0,1.0,458.0,,Apartment,Yes
+Gateshead,156000.0,2.0,1.0,420.0,,Mansionette,Yes
+Newcastle,148400.0,2.0,1.0,604.0,,Detached,
+Newcastle,305200.0,4.0,1.0,595.0,Leasehold,Flat,No
+Gateshead,229900.0,2.0,1.0,463.0,,Semi-Detached,Patio
+Gateshead,142000.0,4.0,1.0,454.0,,,Yes
+Sunderland,72800.0,3.0,1.0,472.0,,Detached,Yes
+Gateshead,304600.0,2.0,1.0,1056.0,,Terraced,Yes
+Gateshead,202500.0,2.0,1.0,788.0,Leasehold,,Patio
+Gateshead,,2.0,,420.0,,Semi-Detached,Yes
+Gateshead,154300.0,1.0,1.0,470.0,,Semi-Detached,Yes
+Newcastle,388200.0,3.0,1.0,770.0,,Mansionette,Yes
+,,3.0,1.0,479.0,,Semi-Detached,No
+Sunderland,92600.0,2.0,1.0,416.0,,Semi-Detached,No
+Gateshead,193100.0,2.0,1.0,545.0,,Flat,Yes
+Consett,46900.0,2.0,1.0,461.0,,,Yes
+Newcastle,480800.0,2.0,1.0,828.0,,Detached,Not Specified
+Newcastle,164300.0,4.0,1.0,457.0,Unknown,,
+Newcastle,237300.0,3.0,1.0,410.0,,Mansionette,Yes
+Gateshead,198100.0,3.0,1.0,465.0,,Terraced,No
+Newcastle,239600.0,2.0,2.0,442.0,Freehold,,No
+Newcastle,168700.0,4.0,1.0,494.0,Unknown,Semi-Detached,Yes
+Morpeth,223200.0,2.0,1.0,428.0,,Flat,Yes
+Sunderland,82400.0,2.0,1.0,418.0,,Semi-Detached,Not Specified
+Newcastle,212900.0,2.0,1.0,510.0,Unknown,Terraced,
+Gateshead,151800.0,3.0,1.0,588.0,Leasehold,Terraced,
+Newcastle,182700.0,2.0,1.0,424.0,,Semi-Detached,Yes
+Gateshead,188900.0,2.0,2.0,432.0,,,Yes
+Gateshead,139000.0,2.0,1.0,410.0,Co-operative Society,,Yes
+Newcastle,265500.0,3.0,1.0,823.0,Leasehold,Not Specified,Yes
+Gateshead,156600.0,3.0,1.0,461.0,,Terraced,
+Gateshead,,3.0,1.0,,,Flat,Yes
+Newcastle,,2.0,1.0,,,,Not Specified
+Gateshead,111200.0,2.0,1.0,419.0,,Detached,Yes
+Consett,53700.0,3.0,1.0,519.0,,,Yes
+Gateshead,203900.0,2.0,1.0,437.0,,Terraced,Yes
+Gateshead,162300.0,3.0,1.0,445.0,,Semi-Detached,Yes
+Gateshead,154500.0,2.0,1.0,426.0,Unknown,,No
+Gateshead,128400.0,1.0,1.0,461.0,,Semi-Detached,Patio
+Newcastle,,1.0,1.0,,,Terraced,Yes
+Morpeth,89500.0,2.0,1.0,501.0,,Terraced,
+Gateshead,187800.0,4.0,1.0,481.0,Freehold,Terraced,Yes
+Newcastle,246900.0,2.0,1.0,448.0,,Semi-Detached,Yes
+,,2.0,1.0,482.0,,Semi-Detached,Not Specified
+Newcastle,285200.0,2.0,1.0,440.0,,Mansionette,Not Specified
+Newcastle,138800.0,1.0,1.0,423.0,Freehold,Not Specified,Yes
+Newcastle,,2.0,2.0,,Freehold,Mansionette,Yes
+Newcastle,234500.0,4.0,1.0,503.0,,Flat,Not Specified
+Gateshead,112200.0,3.0,1.0,453.0,Leasehold,Detached,No
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Newcastle,257900.0,1.0,1.0,435.0,,,Yes
+Gateshead,240500.0,4.0,1.0,528.0,,,Not Specified
+Sunderland,172000.0,3.0,2.0,1062.0,,Not Specified,Yes
+Gateshead,148300.0,3.0,1.0,446.0,Leasehold,Semi-Detached,Yes
+Gateshead,206300.0,3.0,1.0,645.0,Leasehold,Mansionette,No
+Newcastle,122700.0,2.0,1.0,457.0,Leasehold,,Yes
+Newcastle,225100.0,2.0,1.0,412.0,,,No
+Newcastle,188400.0,1.0,1.0,484.0,,Flat,Yes
+Newcastle,274700.0,2.0,1.0,535.0,Leasehold,,No
+Gateshead,123700.0,2.0,1.0,429.0,Unknown,Semi-Detached,Yes
+Sunderland,112100.0,3.0,2.0,492.0,,Flat,Not Specified
+Gateshead,153400.0,2.0,1.0,503.0,,Terraced,
+Newcastle,104800.0,2.0,1.0,475.0,,Semi-Detached,
+Gateshead,138300.0,2.0,1.0,431.0,,Semi-Detached,Patio
+Newcastle,308600.0,3.0,2.0,672.0,,Mansionette,Yes
+Sunderland,53200.0,4.0,1.0,465.0,,Terraced,
+Newcastle,,3.0,1.0,,,Flat,
+Newcastle,180400.0,3.0,1.0,537.0,Freehold,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,,Semi-Detached,No
+Gateshead,159600.0,3.0,2.0,429.0,,,Yes
+Gateshead,182000.0,3.0,1.0,436.0,Freehold,,Yes
+Newcastle,202800.0,1.0,1.0,434.0,Freehold,Semi-Detached,Yes
+Gateshead,169000.0,3.0,1.0,671.0,,Semi-Detached,
+Consett,45500.0,2.0,1.0,432.0,,Terraced,Yes
+Newcastle,347600.0,3.0,2.0,823.0,,Flat,Patio
+Gateshead,124300.0,1.0,1.0,465.0,Leasehold,Flat,Yes
+Gateshead,623700.0,2.0,1.0,1797.0,Leasehold,Mansionette,Not Specified
+Newcastle,,3.0,,468.0,,Apartment,Patio
+,,2.0,1.0,413.0,Freehold,Terraced,Yes
+Newcastle,228600.0,1.0,1.0,447.0,,Flat,Not Specified
+Gateshead,,2.0,,468.0,,Terraced,
+Newcastle,,4.0,2.0,,,Terraced,Not Specified
+Newcastle,176400.0,3.0,1.0,461.0,,Flat,
+Newcastle,147700.0,3.0,2.0,446.0,,,
+Newcastle,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,,2.0,1.0,,,Terraced,Not Specified
+Gateshead,152800.0,4.0,1.0,450.0,,Semi-Detached,Yes
+Morpeth,80900.0,3.0,1.0,422.0,,Flat,Yes
+Gateshead,172100.0,2.0,1.0,540.0,Leasehold,,Yes
+Sunderland,58300.0,2.0,1.0,416.0,Freehold,Not Specified,Not Specified
+Gateshead,185400.0,2.0,1.0,509.0,,Semi-Detached,Patio
+Newcastle,,2.0,1.0,,,Terraced,Yes
+Newcastle,,3.0,2.0,,Freehold,Terraced,Yes
+Newcastle,,2.0,,456.0,Unknown,Terraced,Not Specified
+Newcastle,307700.0,3.0,1.0,439.0,,,Yes
+Newcastle,186700.0,2.0,1.0,446.0,,Detached,
+Newcastle,204100.0,2.0,1.0,414.0,,Mansionette,Yes
+Gateshead,173600.0,3.0,1.0,433.0,,,Yes
+Gateshead,209300.0,2.0,1.0,424.0,Freehold,Semi-Detached,Not Specified
+Gateshead,176100.0,2.0,2.0,473.0,Leasehold,Terraced,No
+Gateshead,149600.0,2.0,1.0,449.0,,Not Specified,No
+Sunderland,81100.0,5.0,1.0,429.0,,Apartment,Patio
+Newcastle,233500.0,2.0,1.0,740.0,,Mansionette,
+Newcastle,272700.0,2.0,1.0,428.0,,Terraced,Not Specified
+Newcastle,,2.0,1.0,,Freehold,Not Specified,Yes
+Gateshead,302100.0,1.0,2.0,862.0,,Detached,
+Newcastle,,3.0,,468.0,,Semi-Detached,Patio
+Gateshead,162000.0,4.0,2.0,411.0,,Semi-Detached,
+Newcastle,225100.0,3.0,1.0,445.0,,Apartment,No
+Gateshead,121000.0,3.0,1.0,406.0,,Flat,Patio
+Newcastle,,3.0,,426.0,,Flat,Yes
+Newcastle,181000.0,2.0,1.0,400.0,,Detached,Yes
+Gateshead,119500.0,2.0,1.0,424.0,Freehold,Semi-Detached,Yes
+Newcastle,155300.0,2.0,2.0,441.0,,Detached,Yes
+Gateshead,146100.0,2.0,1.0,438.0,Freehold,Flat,No
+Newcastle,162900.0,2.0,1.0,422.0,Co-operative Society,Terraced,Not Specified
+Sunderland,54000.0,2.0,1.0,415.0,,Detached,Patio
+Newcastle,283700.0,3.0,1.0,569.0,Co-operative Society,Flat,No
+Newcastle,141900.0,3.0,1.0,425.0,Unknown,,Yes
+Newcastle,201600.0,1.0,1.0,602.0,,Semi-Detached,Not Specified
+Gateshead,175600.0,2.0,2.0,451.0,,Terraced,Yes
+Newcastle,,1.0,1.0,,Freehold,Not Specified,Yes
+Gateshead,224700.0,,1.0,936.0,,Semi-Detached,Yes
+Newcastle,179200.0,3.0,1.0,426.0,Freehold,Terraced,Not Specified
+Gateshead,132400.0,3.0,1.0,432.0,Freehold,,No
+Morpeth,72100.0,3.0,1.0,497.0,,Terraced,Yes
+Gateshead,222100.0,3.0,1.0,453.0,,Terraced,No
+Gateshead,170300.0,2.0,1.0,494.0,,,Yes
+Newcastle,232400.0,3.0,1.0,458.0,,,Patio
+Newcastle,178100.0,2.0,1.0,484.0,,Semi-Detached,Yes
+Newcastle,386200.0,1.0,1.0,640.0,,Terraced,Yes
+,,2.0,1.0,452.0,Unknown,Mansionette,Yes
+Sunderland,64600.0,3.0,1.0,554.0,,,Yes
+Newcastle,214600.0,3.0,1.0,546.0,Freehold,Detached,Yes
+Newcastle,143100.0,1.0,1.0,437.0,,Semi-Detached,Patio
+Gateshead,101600.0,1.0,1.0,408.0,Unknown,Semi-Detached,No
+Newcastle,150100.0,2.0,1.0,406.0,,Detached,Yes
+Newcastle,,2.0,1.0,,,Semi-Detached,No
+Newcastle,,1.0,1.0,,Leasehold,Semi-Detached,Yes
+Newcastle,183300.0,3.0,1.0,544.0,,Detached,Not Specified
+Gateshead,274900.0,3.0,1.0,764.0,,Detached,Yes
+Gateshead,147800.0,1.0,1.0,407.0,Co-operative Society,Detached,
+Gateshead,143200.0,2.0,1.0,494.0,,,Yes
+Gateshead,165000.0,5.0,1.0,432.0,,,Yes
+Sunderland,71100.0,2.0,2.0,448.0,Freehold,Semi-Detached,Yes
+Gateshead,,5.0,1.0,,,Apartment,Not Specified
+Gateshead,,4.0,1.0,,Freehold,Terraced,Yes
+Newcastle,687000.0,1.0,1.0,1470.0,Leasehold,Apartment,Yes
+Newcastle,235300.0,2.0,1.0,569.0,Freehold,Semi-Detached,Not Specified
+Gateshead,136400.0,2.0,1.0,453.0,Unknown,Terraced,Patio
+Newcastle,286000.0,2.0,2.0,479.0,,Semi-Detached,No
+Sunderland,103800.0,1.0,1.0,420.0,Leasehold,Flat,
+Newcastle,286800.0,2.0,2.0,592.0,Leasehold,Semi-Detached,No
+Sunderland,,3.0,,413.0,Freehold,Flat,Patio
+Newcastle,188000.0,3.0,2.0,429.0,,,Yes
+Newcastle,,2.0,1.0,,,Terraced,Not Specified
+Gateshead,189800.0,5.0,1.0,435.0,,Terraced,
+Consett,42100.0,2.0,1.0,436.0,,Flat,No
+Gateshead,161300.0,3.0,1.0,435.0,Freehold,Terraced,Yes
+Gateshead,211300.0,5.0,2.0,545.0,,,Yes
+Sunderland,142200.0,3.0,1.0,767.0,Freehold,Flat,No
+Newcastle,201800.0,3.0,1.0,472.0,,Semi-Detached,Yes
+Gateshead,91400.0,2.0,1.0,433.0,,Terraced,Yes
+Gateshead,141100.0,2.0,1.0,461.0,Unknown,Flat,Yes
+Gateshead,126300.0,2.0,2.0,538.0,,Semi-Detached,No
+Newcastle,182600.0,2.0,1.0,454.0,,Semi-Detached,Yes
+Consett,70100.0,3.0,1.0,478.0,,Detached,Yes
+Gateshead,169300.0,2.0,2.0,446.0,Freehold,Detached,Not Specified
+Morpeth,197600.0,4.0,1.0,634.0,,,Yes
+Newcastle,293700.0,1.0,1.0,447.0,Co-operative Society,Terraced,
+Newcastle,153700.0,1.0,1.0,421.0,Freehold,Mansionette,Yes
+Sunderland,113700.0,1.0,2.0,441.0,,Flat,Patio
+Gateshead,158700.0,2.0,1.0,523.0,,,
+Sunderland,163900.0,2.0,1.0,1019.0,Freehold,Semi-Detached,Not Specified
+Gateshead,192000.0,3.0,1.0,418.0,,,No
+Newcastle,555600.0,1.0,1.0,1566.0,Freehold,Not Specified,
+Gateshead,162400.0,3.0,1.0,478.0,,Semi-Detached,Patio
+Morpeth,115700.0,,1.0,578.0,Leasehold,Apartment,
+Gateshead,164700.0,3.0,1.0,438.0,,Detached,
+Newcastle,242300.0,2.0,1.0,451.0,Freehold,Apartment,Yes
+Newcastle,459900.0,1.0,1.0,743.0,Freehold,,Yes
+Gateshead,165100.0,1.0,1.0,403.0,,Terraced,Yes
+Gateshead,184700.0,2.0,1.0,447.0,,Terraced,
+Gateshead,130200.0,3.0,1.0,420.0,Freehold,Semi-Detached,Yes
+Newcastle,331800.0,2.0,1.0,584.0,,Not Specified,Yes
+Gateshead,333800.0,3.0,1.0,1046.0,,Semi-Detached,Yes
+Newcastle,392900.0,4.0,2.0,443.0,,Terraced,Yes
+Newcastle,255000.0,2.0,1.0,425.0,,Semi-Detached,Yes
+Sunderland,89300.0,1.0,2.0,411.0,,,No
+Morpeth,128800.0,2.0,1.0,442.0,Unknown,,Patio
+Newcastle,205400.0,3.0,1.0,520.0,Unknown,,No
+Gateshead,150200.0,2.0,1.0,442.0,,Mansionette,Yes
+Gateshead,248100.0,2.0,1.0,622.0,,Apartment,Not Specified
+Newcastle,284800.0,2.0,1.0,492.0,Freehold,Semi-Detached,Yes
+Newcastle,254800.0,3.0,1.0,457.0,,Semi-Detached,
+Newcastle,267400.0,4.0,2.0,561.0,,Mansionette,No
+Newcastle,,2.0,,423.0,,Detached,Yes
+Gateshead,157900.0,1.0,1.0,451.0,Unknown,Apartment,Yes
+Newcastle,239100.0,2.0,1.0,464.0,,Apartment,Yes
+Gateshead,,2.0,,458.0,,Semi-Detached,Yes
+Gateshead,176100.0,3.0,1.0,432.0,Co-operative Society,Flat,
+Gateshead,147900.0,4.0,2.0,426.0,,Semi-Detached,Yes
+Gateshead,151800.0,2.0,1.0,485.0,,Flat,No
+Newcastle,282100.0,3.0,2.0,471.0,,Flat,
+Gateshead,165800.0,5.0,1.0,429.0,,Detached,Yes
+Gateshead,120000.0,4.0,1.0,409.0,,Mansionette,Yes
+Sunderland,,2.0,,408.0,,Semi-Detached,No
+Gateshead,136400.0,1.0,1.0,404.0,,Semi-Detached,No
+Gateshead,143200.0,2.0,2.0,416.0,,Semi-Detached,No
+Consett,,2.0,,732.0,,Not Specified,No
+Sunderland,74300.0,1.0,1.0,518.0,,Semi-Detached,No
+Sunderland,83900.0,2.0,1.0,534.0,Freehold,Terraced,No
+Gateshead,195300.0,1.0,1.0,655.0,,Detached,No
+Newcastle,,2.0,1.0,,,Terraced,No
+Newcastle,164900.0,2.0,1.0,492.0,Leasehold,Semi-Detached,Yes
+Newcastle,194200.0,1.0,1.0,415.0,,Terraced,
+Newcastle,,3.0,1.0,,,Detached,Yes
+Gateshead,,5.0,1.0,,,Apartment,Patio
+Newcastle,219400.0,1.0,2.0,443.0,,Semi-Detached,Yes
+Newcastle,341000.0,2.0,2.0,464.0,,Not Specified,Not Specified
+Gateshead,167500.0,3.0,1.0,456.0,,,Yes
+Newcastle,239600.0,4.0,1.0,500.0,,Flat,Yes
+Gateshead,218400.0,3.0,1.0,462.0,,Semi-Detached,Yes
+Sunderland,,3.0,,476.0,,Semi-Detached,Not Specified
+Newcastle,,1.0,,,Freehold,Semi-Detached,Yes
+Gateshead,129600.0,4.0,1.0,456.0,,Semi-Detached,Not Specified
+Gateshead,254200.0,3.0,1.0,447.0,,Semi-Detached,Yes
+Newcastle,162100.0,5.0,1.0,454.0,,Flat,No
+Morpeth,100600.0,2.0,2.0,439.0,,Semi-Detached,No
+Newcastle,297800.0,2.0,1.0,564.0,,Terraced,Patio
+Gateshead,161100.0,2.0,1.0,464.0,Leasehold,Terraced,No
+Consett,78100.0,3.0,1.0,456.0,,Detached,Yes
+Newcastle,260000.0,2.0,1.0,480.0,,Terraced,
+Newcastle,1029200.0,2.0,1.0,1691.0,,Flat,Yes
+Gateshead,131100.0,1.0,1.0,454.0,Freehold,Mansionette,Yes
+Newcastle,170800.0,2.0,2.0,514.0,Co-operative Society,Semi-Detached,
+Newcastle,201200.0,2.0,1.0,426.0,Freehold,Semi-Detached,Yes
+,,2.0,1.0,440.0,,Detached,Yes
+Newcastle,265200.0,1.0,1.0,434.0,,Semi-Detached,Yes
+,,2.0,1.0,477.0,Unknown,,Yes
+Sunderland,,2.0,1.0,,,Detached,
+Gateshead,159000.0,4.0,1.0,495.0,Freehold,Detached,No
+Newcastle,192400.0,2.0,1.0,427.0,Freehold,Detached,Yes
+Gateshead,149000.0,1.0,1.0,419.0,,Mansionette,
+Newcastle,223300.0,3.0,1.0,630.0,Leasehold,Detached,Yes
+Gateshead,136300.0,2.0,1.0,448.0,,Semi-Detached,Yes
+,,2.0,1.0,1151.0,Leasehold,Semi-Detached,Yes
+Gateshead,131300.0,2.0,1.0,487.0,,Semi-Detached,No
+Morpeth,,2.0,,435.0,,,Not Specified
+Newcastle,137900.0,1.0,1.0,420.0,,Semi-Detached,
+Newcastle,254500.0,4.0,1.0,554.0,Freehold,Semi-Detached,Yes
+Newcastle,381700.0,4.0,2.0,1012.0,,Mansionette,Not Specified
+Gateshead,,1.0,,527.0,,,Yes
+Gateshead,163700.0,3.0,1.0,488.0,Unknown,Not Specified,No
+Gateshead,122800.0,3.0,2.0,486.0,,Terraced,No
+Morpeth,87100.0,3.0,1.0,503.0,,Not Specified,Not Specified
+Sunderland,88100.0,2.0,1.0,533.0,,Mansionette,No
+Newcastle,,4.0,1.0,,,Terraced,Yes
+Newcastle,298900.0,3.0,1.0,821.0,,Mansionette,Yes
+Newcastle,249400.0,3.0,1.0,407.0,,Flat,Yes
+Newcastle,332100.0,1.0,1.0,534.0,,Apartment,Yes
+Newcastle,186400.0,2.0,1.0,433.0,,Detached,No
+Newcastle,183600.0,1.0,1.0,431.0,Unknown,Flat,
+Gateshead,167700.0,2.0,2.0,410.0,,Semi-Detached,Not Specified
+Gateshead,145200.0,1.0,1.0,491.0,Leasehold,Apartment,Patio
+Sunderland,145400.0,2.0,1.0,484.0,Unknown,Semi-Detached,Not Specified
+Newcastle,187800.0,2.0,1.0,413.0,,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,,,Yes
+Gateshead,129700.0,4.0,1.0,469.0,,Detached,Not Specified
+Newcastle,182500.0,1.0,1.0,435.0,,Detached,Yes
+Newcastle,277200.0,2.0,1.0,517.0,Leasehold,Terraced,Yes
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,173800.0,1.0,1.0,542.0,Freehold,,No
+Newcastle,173100.0,2.0,1.0,422.0,,Semi-Detached,
+Gateshead,138400.0,3.0,1.0,451.0,,Semi-Detached,Yes
+Sunderland,96500.0,2.0,1.0,672.0,,Detached,Yes
+Gateshead,118900.0,2.0,1.0,449.0,,Terraced,Yes
+Gateshead,113800.0,1.0,1.0,428.0,Leasehold,Terraced,Not Specified
+Newcastle,280000.0,4.0,1.0,528.0,,Semi-Detached,Not Specified
+Sunderland,99500.0,1.0,1.0,445.0,Freehold,Semi-Detached,Yes
+Newcastle,316500.0,3.0,1.0,590.0,,Terraced,Not Specified
+Gateshead,109300.0,2.0,1.0,464.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,169300.0,2.0,1.0,549.0,,Semi-Detached,No
+Sunderland,83800.0,3.0,1.0,513.0,,Terraced,Yes
+Gateshead,204200.0,4.0,1.0,674.0,Unknown,Flat,
+Newcastle,169400.0,4.0,2.0,402.0,,Terraced,No
+Gateshead,,2.0,2.0,,,Mansionette,
+Gateshead,212600.0,2.0,1.0,458.0,Freehold,Detached,Yes
+Gateshead,215700.0,3.0,2.0,458.0,,Semi-Detached,Yes
+Newcastle,178800.0,1.0,2.0,453.0,,Terraced,Yes
+Sunderland,94400.0,3.0,2.0,453.0,,Apartment,Not Specified
+Newcastle,317400.0,1.0,1.0,441.0,,,No
+,,5.0,1.0,1583.0,,Semi-Detached,Yes
+Gateshead,143300.0,1.0,1.0,413.0,,Semi-Detached,No
+Gateshead,165100.0,3.0,1.0,428.0,,Terraced,Yes
+Newcastle,224200.0,4.0,1.0,418.0,,,Not Specified
+Newcastle,,1.0,1.0,,,Terraced,No
+Newcastle,284500.0,2.0,1.0,449.0,,Terraced,No
+Newcastle,201200.0,1.0,1.0,451.0,,Detached,
+Consett,142300.0,,2.0,462.0,,Terraced,Yes
+Gateshead,143800.0,2.0,1.0,432.0,,Not Specified,Patio
+,,2.0,1.0,581.0,Freehold,,No
+Gateshead,142700.0,2.0,1.0,449.0,,Semi-Detached,Yes
+Sunderland,86800.0,2.0,1.0,414.0,Leasehold,Detached,Yes
+Newcastle,355400.0,2.0,1.0,453.0,,Not Specified,Yes
+Morpeth,75400.0,6.0,2.0,423.0,,Flat,Yes
+Gateshead,114600.0,5.0,1.0,427.0,,Detached,Yes
+Gateshead,177000.0,2.0,1.0,424.0,,Mansionette,Not Specified
+Gateshead,182900.0,1.0,2.0,444.0,,,Yes
+Gateshead,124400.0,1.0,1.0,437.0,Freehold,Terraced,Not Specified
+Gateshead,184300.0,2.0,1.0,463.0,,Terraced,No
+Gateshead,337100.0,2.0,2.0,813.0,Freehold,Terraced,
+,,3.0,2.0,402.0,,,Yes
+Newcastle,595200.0,2.0,1.0,950.0,,Terraced,No
+Sunderland,110200.0,3.0,1.0,441.0,Freehold,Detached,
+Gateshead,186700.0,2.0,1.0,416.0,Freehold,Semi-Detached,No
+Newcastle,244400.0,3.0,1.0,619.0,,Semi-Detached,No
+Newcastle,152200.0,2.0,1.0,416.0,,Semi-Detached,No
+Newcastle,236100.0,2.0,1.0,473.0,,Mansionette,No
+Sunderland,,4.0,,442.0,Freehold,Flat,No
+Sunderland,58700.0,2.0,1.0,408.0,,,
+Newcastle,317700.0,2.0,1.0,624.0,Freehold,,
+Sunderland,107500.0,1.0,1.0,668.0,,Detached,
+Newcastle,216600.0,2.0,1.0,420.0,,Semi-Detached,Yes
+Gateshead,296300.0,4.0,1.0,693.0,Leasehold,Semi-Detached,Yes
+Newcastle,197100.0,1.0,2.0,428.0,Leasehold,Semi-Detached,No
+Gateshead,223300.0,3.0,1.0,558.0,Freehold,Terraced,Not Specified
+Consett,50700.0,4.0,1.0,431.0,,Terraced,Yes
+Gateshead,170400.0,2.0,1.0,433.0,,Mansionette,Yes
+Newcastle,172200.0,2.0,1.0,437.0,,,Yes
+Gateshead,122300.0,2.0,1.0,433.0,,Terraced,Yes
+Gateshead,187100.0,2.0,1.0,440.0,,Terraced,Not Specified
+Gateshead,338800.0,3.0,1.0,1160.0,,,Yes
+Morpeth,101800.0,2.0,1.0,407.0,Co-operative Society,Semi-Detached,Not Specified
+Morpeth,70000.0,2.0,2.0,646.0,,Flat,No
+Newcastle,,2.0,,439.0,,Terraced,Yes
+Gateshead,169000.0,3.0,1.0,429.0,Freehold,Semi-Detached,
+Newcastle,197400.0,2.0,2.0,449.0,Freehold,,
+Gateshead,,1.0,1.0,,,Flat,Yes
+,,2.0,1.0,417.0,,Semi-Detached,Yes
+Morpeth,72400.0,1.0,1.0,426.0,,Semi-Detached,No
+Gateshead,128500.0,3.0,1.0,451.0,Freehold,,Yes
+Sunderland,49100.0,1.0,1.0,432.0,Freehold,Terraced,Not Specified
+Newcastle,242100.0,2.0,1.0,484.0,Unknown,Detached,Yes
+Newcastle,213900.0,1.0,1.0,413.0,Leasehold,Mansionette,Not Specified
+Gateshead,175500.0,4.0,1.0,452.0,,Flat,
+Newcastle,138300.0,2.0,1.0,401.0,,Apartment,Yes
+Morpeth,67500.0,2.0,1.0,441.0,,Detached,No
+Gateshead,223000.0,2.0,1.0,546.0,Unknown,Semi-Detached,No
+Newcastle,194000.0,2.0,1.0,422.0,,Semi-Detached,Yes
+Gateshead,159300.0,2.0,2.0,429.0,Freehold,,Yes
+Newcastle,170000.0,2.0,1.0,515.0,,Semi-Detached,No
+Newcastle,284500.0,,1.0,447.0,Leasehold,,Yes
+Sunderland,,2.0,,438.0,,Detached,Yes
+Sunderland,112200.0,3.0,1.0,464.0,,Semi-Detached,Yes
+Sunderland,66300.0,1.0,1.0,475.0,,Semi-Detached,No
+Newcastle,188100.0,2.0,1.0,418.0,,Flat,Yes
+Newcastle,182300.0,3.0,1.0,441.0,Unknown,Mansionette,No
+Gateshead,173900.0,3.0,2.0,420.0,Leasehold,Terraced,No
+Newcastle,386100.0,2.0,2.0,758.0,,,Not Specified
+Gateshead,105900.0,3.0,1.0,427.0,,Terraced,No
+,,2.0,1.0,434.0,,,Yes
+Newcastle,330100.0,2.0,1.0,480.0,,Semi-Detached,Yes
+Gateshead,,1.0,,521.0,,Not Specified,Yes
+Newcastle,314300.0,2.0,1.0,469.0,,Flat,Patio
+Gateshead,140900.0,2.0,1.0,412.0,,Terraced,
+Morpeth,104900.0,3.0,1.0,1113.0,Freehold,Semi-Detached,Yes
+Newcastle,105100.0,2.0,1.0,498.0,Leasehold,Semi-Detached,Yes
+Newcastle,269800.0,4.0,1.0,431.0,,Terraced,Yes
+Newcastle,598000.0,4.0,1.0,859.0,,Mansionette,Not Specified
+Gateshead,356900.0,3.0,1.0,887.0,Leasehold,Semi-Detached,Yes
+Newcastle,104000.0,2.0,1.0,402.0,,Mansionette,Not Specified
+Newcastle,,2.0,1.0,,Leasehold,Semi-Detached,
+Gateshead,194900.0,2.0,1.0,531.0,Freehold,Mansionette,Yes
+Newcastle,158400.0,3.0,1.0,469.0,Leasehold,Apartment,
+Morpeth,80800.0,1.0,2.0,441.0,,Terraced,Yes
+Newcastle,584400.0,3.0,2.0,1012.0,,Semi-Detached,No
+Morpeth,83900.0,2.0,1.0,458.0,Leasehold,Semi-Detached,Yes
+Sunderland,,3.0,,,Unknown,,
+Gateshead,102400.0,2.0,2.0,423.0,,Not Specified,No
+Morpeth,76600.0,3.0,1.0,409.0,Freehold,Semi-Detached,Yes
+Morpeth,101200.0,3.0,1.0,472.0,,,No
+Newcastle,262600.0,5.0,1.0,560.0,,Flat,No
+Newcastle,229500.0,2.0,1.0,512.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,,1.0,,429.0,,Terraced,No
+Gateshead,295700.0,1.0,2.0,489.0,,Detached,Yes
+Sunderland,,2.0,,430.0,,Not Specified,Yes
+Newcastle,144100.0,2.0,1.0,407.0,,Terraced,
+Newcastle,361000.0,3.0,2.0,500.0,,Terraced,No
+Newcastle,160800.0,2.0,1.0,500.0,,Terraced,No
+Sunderland,90000.0,2.0,1.0,415.0,Freehold,Terraced,Patio
+Morpeth,53400.0,2.0,1.0,463.0,Freehold,Terraced,Yes
+Morpeth,89600.0,2.0,1.0,406.0,,,Yes
+Gateshead,194700.0,2.0,1.0,444.0,,Mansionette,Yes
+Newcastle,246200.0,2.0,1.0,490.0,,Mansionette,
+Newcastle,178400.0,1.0,1.0,425.0,,Flat,Yes
+Newcastle,273400.0,3.0,1.0,428.0,Leasehold,Mansionette,Yes
+Gateshead,,2.0,,432.0,,Not Specified,Not Specified
+Newcastle,205900.0,3.0,1.0,435.0,,Semi-Detached,Not Specified
+Newcastle,210500.0,2.0,2.0,415.0,,Mansionette,Yes
+Gateshead,195800.0,6.0,1.0,457.0,,Semi-Detached,Yes
+,,2.0,1.0,417.0,,,
+Newcastle,276900.0,2.0,1.0,448.0,,Semi-Detached,Yes
+Newcastle,242400.0,2.0,2.0,443.0,Freehold,Not Specified,Yes
+,,,1.0,458.0,,Terraced,Yes
+Newcastle,184200.0,3.0,1.0,485.0,,Flat,Yes
+Consett,74400.0,2.0,1.0,449.0,Leasehold,,No
+Newcastle,,1.0,1.0,,,Detached,Yes
+Newcastle,179500.0,2.0,1.0,412.0,Freehold,Semi-Detached,No
+Gateshead,129700.0,2.0,1.0,400.0,Freehold,Semi-Detached,Yes
+Newcastle,297000.0,2.0,1.0,460.0,,Flat,Yes
+Newcastle,328000.0,3.0,2.0,544.0,,,Not Specified
+,,2.0,1.0,452.0,,Semi-Detached,
+Newcastle,202600.0,2.0,1.0,421.0,,Semi-Detached,Yes
+Sunderland,99500.0,2.0,1.0,448.0,,Semi-Detached,
+Gateshead,163800.0,2.0,2.0,416.0,Freehold,Semi-Detached,Yes
+Gateshead,172000.0,2.0,1.0,459.0,,,Yes
+Gateshead,152800.0,2.0,1.0,434.0,,Not Specified,Yes
+Newcastle,182300.0,1.0,1.0,439.0,Leasehold,Semi-Detached,Yes
+,,1.0,1.0,412.0,,Detached,Yes
+Newcastle,248600.0,2.0,1.0,547.0,,Semi-Detached,Yes
+Newcastle,172000.0,1.0,1.0,413.0,,Flat,Yes
+Newcastle,267700.0,2.0,1.0,407.0,,Terraced,No
+Gateshead,315300.0,2.0,2.0,980.0,Leasehold,,No
+Newcastle,283300.0,2.0,2.0,491.0,,,Yes
+Newcastle,172900.0,4.0,1.0,459.0,,Detached,No
+Gateshead,184600.0,2.0,2.0,506.0,,Apartment,Not Specified
+Gateshead,232300.0,2.0,1.0,524.0,,Semi-Detached,Yes
+Newcastle,236400.0,3.0,1.0,455.0,Leasehold,Flat,No
+Sunderland,87900.0,3.0,1.0,434.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,136000.0,3.0,1.0,446.0,,Apartment,Yes
+Gateshead,209000.0,3.0,1.0,500.0,Freehold,Detached,
+Newcastle,276100.0,2.0,2.0,1002.0,,,
+Morpeth,150100.0,2.0,1.0,646.0,,,Yes
+Newcastle,,2.0,1.0,,,,No
+Gateshead,189100.0,3.0,1.0,539.0,,Detached,Yes
+Newcastle,251400.0,2.0,1.0,429.0,,Detached,Yes
+Newcastle,307500.0,3.0,1.0,809.0,Freehold,Semi-Detached,Not Specified
+Newcastle,,2.0,,424.0,,Semi-Detached,Yes
+Gateshead,133000.0,2.0,2.0,426.0,Leasehold,,Yes
+,,2.0,2.0,419.0,,Detached,Yes
+Morpeth,148600.0,2.0,1.0,598.0,,Flat,No
+Gateshead,255900.0,2.0,1.0,724.0,Leasehold,Flat,No
+Newcastle,154800.0,2.0,1.0,455.0,,,
+Sunderland,,2.0,1.0,,,,Yes
+Gateshead,124600.0,1.0,1.0,443.0,,Flat,Yes
+,,2.0,1.0,458.0,,Detached,Yes
+Newcastle,366400.0,2.0,2.0,927.0,,Detached,Yes
+Newcastle,333100.0,2.0,1.0,436.0,,Semi-Detached,Yes
+Newcastle,571300.0,1.0,2.0,1240.0,,Semi-Detached,No
+Morpeth,72600.0,3.0,1.0,422.0,,,Yes
+Newcastle,231600.0,2.0,1.0,442.0,,Flat,Yes
+Gateshead,,4.0,,653.0,Freehold,Detached,
+Newcastle,174200.0,3.0,1.0,467.0,,Detached,No
+Newcastle,127600.0,1.0,1.0,417.0,,Flat,No
+,,2.0,1.0,642.0,Leasehold,,Patio
+Morpeth,36300.0,2.0,1.0,424.0,,Semi-Detached,Yes
+Newcastle,146300.0,2.0,1.0,436.0,,Semi-Detached,No
+Newcastle,232600.0,3.0,2.0,426.0,Co-operative Society,Detached,
+Newcastle,128000.0,1.0,1.0,480.0,,Semi-Detached,Yes
+Sunderland,75400.0,2.0,1.0,410.0,,Apartment,Not Specified
+Gateshead,,2.0,,1615.0,Freehold,Semi-Detached,Yes
+Gateshead,153400.0,1.0,1.0,458.0,Leasehold,,
+Gateshead,179200.0,1.0,1.0,461.0,Freehold,,Yes
+Gateshead,,1.0,1.0,,Freehold,Detached,Not Specified
+Sunderland,124500.0,3.0,1.0,430.0,Co-operative Society,Not Specified,No
+Gateshead,270400.0,,1.0,613.0,,Semi-Detached,Yes
+Gateshead,158100.0,3.0,1.0,520.0,,Semi-Detached,Yes
+,,1.0,1.0,444.0,,Terraced,Patio
+Newcastle,,1.0,,,,Mansionette,
+Newcastle,237100.0,2.0,2.0,414.0,,Semi-Detached,Yes
+Gateshead,138400.0,2.0,1.0,529.0,Freehold,Terraced,Yes
+Gateshead,168200.0,2.0,1.0,649.0,,,Yes
+Newcastle,171900.0,3.0,1.0,455.0,Unknown,Flat,Not Specified
+Newcastle,378400.0,3.0,1.0,432.0,,,No
+Gateshead,140500.0,3.0,2.0,426.0,Leasehold,Terraced,Yes
+Gateshead,419600.0,2.0,1.0,895.0,,Apartment,
+Newcastle,161300.0,2.0,1.0,438.0,,Not Specified,Patio
+Gateshead,,3.0,,431.0,,Flat,No
+Newcastle,300600.0,2.0,2.0,628.0,Freehold,Detached,Yes
+Newcastle,134300.0,2.0,1.0,448.0,Freehold,Mansionette,No
+Newcastle,215400.0,2.0,1.0,530.0,Freehold,Flat,No
+Newcastle,126100.0,3.0,1.0,431.0,Freehold,Flat,
+Sunderland,148500.0,4.0,1.0,884.0,Leasehold,Terraced,No
+Morpeth,58900.0,3.0,1.0,473.0,,Semi-Detached,Patio
+Morpeth,48600.0,2.0,1.0,519.0,,Mansionette,Yes
+Gateshead,,3.0,1.0,,Freehold,Flat,Yes
+Gateshead,154100.0,2.0,1.0,454.0,Freehold,Mansionette,Yes
+Newcastle,364500.0,4.0,1.0,436.0,,Detached,Yes
+Gateshead,143400.0,3.0,1.0,465.0,,Terraced,Yes
+Morpeth,81500.0,1.0,1.0,546.0,,Semi-Detached,Not Specified
+Morpeth,154400.0,3.0,1.0,569.0,,Semi-Detached,Patio
+Sunderland,,1.0,1.0,,Freehold,Flat,Yes
+Gateshead,167200.0,2.0,1.0,423.0,,,No
+Newcastle,204800.0,2.0,1.0,429.0,Leasehold,Semi-Detached,No
+Gateshead,,6.0,1.0,,,,Yes
+Gateshead,191900.0,4.0,2.0,473.0,,,No
+Newcastle,204700.0,2.0,2.0,574.0,,Terraced,Not Specified
+Gateshead,221900.0,3.0,1.0,451.0,,Semi-Detached,Yes
+Gateshead,156900.0,2.0,1.0,430.0,,,Patio
+Newcastle,119600.0,3.0,1.0,432.0,,Apartment,No
+Gateshead,143500.0,3.0,1.0,439.0,,Apartment,Yes
+Newcastle,135000.0,2.0,2.0,447.0,,Semi-Detached,Yes
+Sunderland,79000.0,1.0,1.0,447.0,,Mansionette,Yes
+Newcastle,224000.0,2.0,1.0,464.0,Unknown,Semi-Detached,Not Specified
+Gateshead,210900.0,2.0,2.0,499.0,Leasehold,Flat,Yes
+Newcastle,194000.0,2.0,1.0,529.0,,Flat,Patio
+Newcastle,391800.0,1.0,2.0,483.0,Freehold,Mansionette,Yes
+Newcastle,641000.0,2.0,2.0,1069.0,,,
+Gateshead,153600.0,2.0,2.0,470.0,,Flat,
+Gateshead,149800.0,1.0,1.0,445.0,Leasehold,Semi-Detached,
+Morpeth,69700.0,3.0,1.0,420.0,Co-operative Society,,No
+Newcastle,144300.0,3.0,1.0,438.0,,Semi-Detached,Yes
+Newcastle,247100.0,1.0,2.0,431.0,,Detached,Patio
+Gateshead,138100.0,2.0,1.0,459.0,,Terraced,
+Gateshead,363700.0,1.0,2.0,1087.0,,Semi-Detached,
+Morpeth,137900.0,4.0,1.0,691.0,Leasehold,Mansionette,No
+Gateshead,200800.0,2.0,2.0,405.0,,Semi-Detached,Yes
+Newcastle,240700.0,2.0,1.0,406.0,,Detached,Yes
+Newcastle,157200.0,2.0,2.0,445.0,Freehold,,No
+Sunderland,53700.0,4.0,1.0,438.0,,Terraced,Yes
+Morpeth,39500.0,1.0,1.0,434.0,,Semi-Detached,Yes
+Sunderland,61500.0,2.0,1.0,482.0,Freehold,Flat,
+Sunderland,110200.0,4.0,1.0,662.0,Freehold,Terraced,Yes
+Gateshead,140400.0,2.0,1.0,448.0,,Flat,Yes
+Newcastle,136500.0,2.0,1.0,438.0,,,Yes
+Gateshead,111300.0,1.0,1.0,419.0,Co-operative Society,Flat,Patio
+Gateshead,142600.0,3.0,1.0,410.0,Freehold,Terraced,Yes
+Gateshead,137000.0,2.0,2.0,435.0,,Semi-Detached,Yes
+Gateshead,155600.0,3.0,1.0,441.0,,Detached,Yes
+Gateshead,217000.0,3.0,1.0,634.0,,Semi-Detached,
+Gateshead,187200.0,2.0,1.0,469.0,Leasehold,Flat,
+Sunderland,76900.0,3.0,1.0,437.0,Unknown,Semi-Detached,Yes
+,,4.0,1.0,507.0,,Terraced,Not Specified
+Gateshead,185800.0,2.0,1.0,588.0,,Terraced,Yes
+,,3.0,1.0,440.0,,Flat,Yes
+Newcastle,186400.0,1.0,1.0,438.0,,Semi-Detached,Not Specified
+Gateshead,227200.0,5.0,2.0,509.0,,Semi-Detached,Yes
+Newcastle,285000.0,4.0,1.0,450.0,,Semi-Detached,Yes
+Newcastle,161100.0,2.0,1.0,426.0,,Detached,No
+Gateshead,147700.0,4.0,1.0,449.0,,Terraced,
+Newcastle,,4.0,1.0,,,Semi-Detached,Yes
+Gateshead,170500.0,3.0,1.0,419.0,,Detached,Yes
+Newcastle,551400.0,3.0,2.0,843.0,,Apartment,
+Gateshead,147200.0,2.0,1.0,445.0,,Semi-Detached,Yes
+Gateshead,147500.0,3.0,1.0,441.0,,Detached,Patio
+Gateshead,103800.0,2.0,1.0,423.0,,Flat,No
+Gateshead,122800.0,2.0,1.0,473.0,Unknown,Semi-Detached,
+Newcastle,238100.0,3.0,1.0,445.0,Unknown,Flat,Not Specified
+Newcastle,295700.0,1.0,1.0,568.0,,Detached,Yes
+Sunderland,,2.0,1.0,,Freehold,,No
+Morpeth,70200.0,2.0,1.0,411.0,Leasehold,Apartment,Yes
+Newcastle,254300.0,2.0,1.0,430.0,,,Yes
+Newcastle,287800.0,3.0,1.0,435.0,,Terraced,No
+Newcastle,229200.0,1.0,2.0,468.0,Freehold,Semi-Detached,No
+Newcastle,178100.0,1.0,1.0,436.0,,Detached,Yes
+Gateshead,,2.0,,476.0,Freehold,Semi-Detached,
+Morpeth,80100.0,2.0,1.0,429.0,,Terraced,Yes
+Gateshead,141000.0,2.0,1.0,465.0,,Semi-Detached,Yes
+Newcastle,339300.0,3.0,1.0,692.0,,Mansionette,Yes
+Newcastle,154900.0,3.0,1.0,437.0,,Mansionette,Yes
+Newcastle,,2.0,,550.0,,,No
+Gateshead,147000.0,3.0,1.0,426.0,,Terraced,No
+Newcastle,120300.0,3.0,2.0,403.0,Leasehold,Semi-Detached,No
+Newcastle,240000.0,2.0,1.0,481.0,,Semi-Detached,Yes
+Gateshead,147800.0,1.0,1.0,436.0,,,No
+Newcastle,,3.0,,438.0,Leasehold,Terraced,Patio
+Gateshead,169400.0,1.0,1.0,593.0,,Flat,Yes
+Newcastle,,1.0,,416.0,,Flat,Yes
+Newcastle,152200.0,2.0,1.0,418.0,Freehold,Semi-Detached,Yes
+Sunderland,57800.0,3.0,1.0,421.0,Leasehold,Mansionette,Yes
+Consett,180700.0,4.0,1.0,489.0,,Semi-Detached,Yes
+Newcastle,160400.0,4.0,1.0,404.0,,,Patio
+Newcastle,198200.0,2.0,1.0,422.0,,Mansionette,No
+Newcastle,413700.0,2.0,1.0,972.0,Freehold,Not Specified,Patio
+Morpeth,185400.0,2.0,2.0,650.0,,Semi-Detached,No
+Gateshead,139900.0,1.0,1.0,468.0,Unknown,Semi-Detached,Yes
+Gateshead,129500.0,4.0,1.0,468.0,,Semi-Detached,Yes
+Gateshead,193400.0,1.0,1.0,605.0,,,Not Specified
+Newcastle,266700.0,3.0,1.0,454.0,Freehold,Flat,Yes
+Gateshead,214200.0,3.0,1.0,508.0,,Detached,Yes
+Newcastle,,3.0,,436.0,,Semi-Detached,No
+Sunderland,111400.0,2.0,1.0,610.0,,,Yes
+Sunderland,88100.0,3.0,1.0,435.0,Freehold,Terraced,Yes
+Morpeth,64800.0,2.0,1.0,401.0,Freehold,Apartment,Yes
+Newcastle,230900.0,2.0,2.0,482.0,,Detached,Not Specified
+,,3.0,,515.0,,Terraced,Yes
+Gateshead,157700.0,1.0,1.0,568.0,,Semi-Detached,Yes
+Gateshead,152300.0,4.0,1.0,528.0,,Semi-Detached,
+Newcastle,213800.0,2.0,1.0,468.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,141200.0,2.0,1.0,442.0,,,Patio
+Gateshead,214400.0,3.0,1.0,447.0,,Not Specified,Yes
+Sunderland,146500.0,6.0,1.0,443.0,Freehold,Terraced,Yes
+Gateshead,160600.0,3.0,1.0,468.0,,Detached,Not Specified
+Gateshead,123600.0,2.0,1.0,500.0,Leasehold,Flat,Yes
+Gateshead,122200.0,2.0,1.0,420.0,Unknown,Detached,Not Specified
+Gateshead,117300.0,2.0,1.0,420.0,,Not Specified,Yes
+Gateshead,138600.0,,1.0,443.0,,Semi-Detached,Yes
+Gateshead,153600.0,1.0,1.0,445.0,,Terraced,Yes
+Gateshead,124700.0,2.0,1.0,438.0,,Apartment,
+Gateshead,,3.0,1.0,,Freehold,Terraced,Yes
+Newcastle,262800.0,1.0,1.0,497.0,,Terraced,Yes
+Sunderland,74400.0,3.0,1.0,448.0,,,Yes
+Newcastle,110100.0,2.0,1.0,462.0,Freehold,Not Specified,Yes
+Gateshead,205000.0,3.0,1.0,513.0,,Terraced,No
+Sunderland,,3.0,1.0,,Freehold,,Yes
+Gateshead,171300.0,2.0,1.0,654.0,Freehold,Semi-Detached,
+Gateshead,114100.0,5.0,1.0,422.0,,Terraced,No
+Newcastle,174800.0,2.0,1.0,424.0,Freehold,Flat,Yes
+Newcastle,370000.0,2.0,1.0,627.0,,,Yes
+Gateshead,171600.0,3.0,1.0,483.0,,Semi-Detached,Yes
+Gateshead,155800.0,4.0,2.0,403.0,,Semi-Detached,Yes
+Gateshead,175600.0,2.0,1.0,417.0,,Semi-Detached,
+Newcastle,287500.0,1.0,1.0,573.0,,Not Specified,Yes
+Gateshead,197200.0,3.0,1.0,494.0,,Terraced,Not Specified
+Gateshead,223800.0,3.0,1.0,594.0,,Semi-Detached,Yes
+Gateshead,196300.0,2.0,1.0,430.0,,,No
+Gateshead,193000.0,2.0,2.0,481.0,,Semi-Detached,Yes
+Sunderland,183500.0,2.0,1.0,969.0,,Mansionette,Not Specified
+Gateshead,201500.0,3.0,1.0,605.0,Freehold,Terraced,Not Specified
+Gateshead,127800.0,2.0,1.0,525.0,,Mansionette,No
+Newcastle,210600.0,3.0,2.0,522.0,Co-operative Society,Not Specified,No
+Newcastle,227500.0,2.0,1.0,547.0,,Flat,
+Gateshead,146400.0,2.0,1.0,447.0,Freehold,Mansionette,Yes
+Sunderland,171000.0,2.0,1.0,473.0,Freehold,Semi-Detached,No
+Newcastle,270200.0,2.0,1.0,545.0,Freehold,Flat,No
+Morpeth,107000.0,5.0,1.0,425.0,,Detached,Yes
+Newcastle,252400.0,3.0,1.0,422.0,Leasehold,Semi-Detached,Yes
+Newcastle,168800.0,2.0,1.0,478.0,Freehold,Not Specified,Not Specified
+Morpeth,84300.0,1.0,1.0,434.0,,Semi-Detached,
+Morpeth,66200.0,1.0,1.0,463.0,,Detached,No
+Sunderland,98900.0,1.0,2.0,402.0,Unknown,Terraced,Not Specified
+Newcastle,243100.0,3.0,2.0,419.0,,Flat,
+Morpeth,117500.0,3.0,1.0,461.0,Freehold,,Not Specified
+Newcastle,,2.0,1.0,,,Terraced,Patio
+Newcastle,196000.0,2.0,2.0,501.0,Freehold,,Yes
+Newcastle,174500.0,1.0,1.0,428.0,Leasehold,Terraced,Yes
+Newcastle,437600.0,2.0,1.0,1079.0,Freehold,Semi-Detached,Yes
+Newcastle,212400.0,,1.0,422.0,,Not Specified,No
+Gateshead,182200.0,3.0,1.0,439.0,,Detached,Yes
+Sunderland,80600.0,4.0,1.0,446.0,,Terraced,Yes
+Gateshead,,2.0,,554.0,,Detached,No
+Consett,45400.0,2.0,1.0,453.0,Unknown,Not Specified,No
+Newcastle,190800.0,4.0,1.0,453.0,,,Yes
+Gateshead,154300.0,4.0,1.0,487.0,,Semi-Detached,Yes
+Newcastle,204800.0,2.0,1.0,478.0,Co-operative Society,Semi-Detached,No
+Newcastle,433200.0,2.0,1.0,910.0,,Semi-Detached,
+Gateshead,201600.0,1.0,1.0,656.0,,Apartment,Yes
+Newcastle,170000.0,4.0,1.0,510.0,,Terraced,Patio
+Sunderland,146200.0,2.0,2.0,492.0,Leasehold,Flat,Not Specified
+Morpeth,,1.0,,453.0,Freehold,Apartment,Patio
+Morpeth,189400.0,3.0,1.0,442.0,,Flat,Yes
+Sunderland,73400.0,2.0,1.0,426.0,,Not Specified,Yes
+Gateshead,202100.0,3.0,1.0,501.0,,Terraced,Yes
+Gateshead,,3.0,,426.0,,,No
+Gateshead,147400.0,2.0,1.0,479.0,Leasehold,Semi-Detached,No
+Gateshead,153900.0,1.0,1.0,411.0,,Semi-Detached,Yes
+Newcastle,230100.0,2.0,1.0,452.0,Leasehold,Semi-Detached,No
+Newcastle,301300.0,3.0,1.0,550.0,,Semi-Detached,No
+Gateshead,148200.0,2.0,1.0,436.0,,Semi-Detached,
+Gateshead,228400.0,2.0,1.0,497.0,,Flat,Yes
+Gateshead,135700.0,3.0,1.0,411.0,,Apartment,No
+Newcastle,295800.0,1.0,1.0,492.0,,Terraced,
+Newcastle,250400.0,3.0,1.0,437.0,Co-operative Society,Mansionette,Yes
+Gateshead,103200.0,3.0,1.0,405.0,,Semi-Detached,Yes
+,,5.0,1.0,486.0,Freehold,Semi-Detached,Yes
+Gateshead,150200.0,2.0,1.0,404.0,,,Yes
+Morpeth,69700.0,1.0,1.0,433.0,,Terraced,
+Gateshead,199500.0,1.0,1.0,459.0,,Detached,Yes
+Gateshead,131100.0,2.0,1.0,411.0,,Semi-Detached,
+Newcastle,250100.0,3.0,1.0,497.0,Freehold,Terraced,Yes
+Gateshead,310100.0,3.0,1.0,972.0,,Semi-Detached,Not Specified
+Gateshead,,2.0,1.0,,,,Patio
+Newcastle,264100.0,3.0,1.0,437.0,,Semi-Detached,Yes
+Newcastle,293100.0,2.0,1.0,519.0,,Terraced,Not Specified
+Sunderland,82200.0,2.0,1.0,472.0,,Semi-Detached,Yes
+Gateshead,160900.0,4.0,1.0,462.0,,Semi-Detached,No
+Gateshead,169500.0,2.0,1.0,469.0,Freehold,Flat,Yes
+Gateshead,116700.0,2.0,1.0,439.0,Unknown,Apartment,
+Gateshead,126100.0,3.0,1.0,415.0,Freehold,Flat,Yes
+Newcastle,166200.0,3.0,1.0,426.0,Leasehold,Semi-Detached,Yes
+Newcastle,249100.0,1.0,2.0,435.0,,Detached,Yes
+Sunderland,143100.0,3.0,2.0,427.0,,Not Specified,Yes
+Gateshead,176600.0,3.0,2.0,462.0,Freehold,,Not Specified
+Newcastle,,2.0,1.0,,Leasehold,Semi-Detached,
+Sunderland,86100.0,2.0,1.0,440.0,,Semi-Detached,Yes
+Gateshead,171400.0,,1.0,550.0,Freehold,Semi-Detached,Yes
+Newcastle,150300.0,3.0,1.0,431.0,Freehold,Terraced,Not Specified
+Newcastle,239700.0,1.0,1.0,507.0,Freehold,Flat,Not Specified
+Gateshead,183100.0,3.0,1.0,420.0,,Semi-Detached,Yes
+Newcastle,112500.0,5.0,1.0,432.0,Leasehold,,No
+Newcastle,152000.0,4.0,1.0,499.0,Freehold,Mansionette,
+Gateshead,141900.0,1.0,1.0,429.0,,Semi-Detached,Yes
+Newcastle,,4.0,2.0,,,,No
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Newcastle,255400.0,5.0,1.0,591.0,,Semi-Detached,Not Specified
+Sunderland,218700.0,2.0,1.0,1476.0,Freehold,Semi-Detached,No
+Newcastle,,2.0,,,,Semi-Detached,Patio
+Newcastle,237900.0,2.0,1.0,520.0,Freehold,Terraced,No
+Newcastle,,2.0,1.0,,,Detached,No
+Newcastle,288300.0,3.0,1.0,436.0,Leasehold,Apartment,No
+Sunderland,123800.0,1.0,1.0,534.0,,Semi-Detached,Yes
+Gateshead,84400.0,3.0,1.0,412.0,,Semi-Detached,Yes
+Newcastle,164200.0,1.0,1.0,446.0,,Terraced,No
+Gateshead,205200.0,3.0,1.0,486.0,Leasehold,Flat,Yes
+Newcastle,204700.0,1.0,1.0,413.0,,Mansionette,No
+Newcastle,164800.0,2.0,1.0,446.0,,,Yes
+Sunderland,,2.0,1.0,,,Detached,
+Newcastle,280400.0,3.0,2.0,467.0,Freehold,Semi-Detached,Yes
+Gateshead,152800.0,2.0,1.0,496.0,,Not Specified,No
+Newcastle,158200.0,2.0,1.0,423.0,Leasehold,Terraced,Not Specified
+Gateshead,199400.0,2.0,1.0,574.0,Unknown,Not Specified,Yes
+Newcastle,138600.0,4.0,1.0,571.0,Leasehold,Semi-Detached,Yes
+Newcastle,221500.0,2.0,1.0,480.0,,Semi-Detached,
+Sunderland,,3.0,1.0,,Freehold,Semi-Detached,No
+Gateshead,147300.0,2.0,1.0,487.0,,Semi-Detached,Yes
+Newcastle,313600.0,1.0,1.0,845.0,Freehold,Semi-Detached,Yes
+Newcastle,186300.0,3.0,1.0,435.0,Freehold,,
+Consett,126700.0,2.0,1.0,436.0,,Terraced,
+Gateshead,289200.0,1.0,1.0,681.0,,Mansionette,Not Specified
+Gateshead,,2.0,1.0,,Freehold,Semi-Detached,No
+Gateshead,126200.0,2.0,1.0,481.0,,Semi-Detached,Yes
+Gateshead,149900.0,2.0,1.0,480.0,,Terraced,Not Specified
+Sunderland,82200.0,4.0,1.0,457.0,Co-operative Society,Semi-Detached,No
+Newcastle,,3.0,,442.0,,Mansionette,Yes
+Newcastle,,1.0,1.0,,Leasehold,,Yes
+Newcastle,323000.0,4.0,1.0,477.0,Freehold,Semi-Detached,Not Specified
+Gateshead,174300.0,1.0,1.0,454.0,Freehold,Not Specified,No
+Consett,115300.0,3.0,1.0,1576.0,Co-operative Society,Mansionette,Yes
+Gateshead,226100.0,2.0,1.0,426.0,,,Yes
+Newcastle,246900.0,2.0,1.0,501.0,Freehold,Semi-Detached,No
+Newcastle,,2.0,,428.0,,,
+Consett,61500.0,2.0,1.0,502.0,Co-operative Society,Detached,
+Newcastle,275800.0,2.0,2.0,665.0,Freehold,Flat,Yes
+Gateshead,142200.0,2.0,1.0,437.0,,Detached,Yes
+Gateshead,117600.0,2.0,1.0,425.0,,Semi-Detached,Yes
+Newcastle,126900.0,2.0,2.0,423.0,,,Yes
+Newcastle,328300.0,2.0,1.0,540.0,Leasehold,,
+Newcastle,235500.0,3.0,1.0,486.0,,Semi-Detached,Yes
+Gateshead,107900.0,3.0,1.0,423.0,,Not Specified,Yes
+Gateshead,134700.0,1.0,0.0,420.0,,Flat,
+Gateshead,162000.0,1.0,1.0,458.0,,Flat,Yes
+Sunderland,170300.0,2.0,1.0,605.0,,Semi-Detached,Yes
+Sunderland,171400.0,2.0,1.0,859.0,,Semi-Detached,No
+Morpeth,101100.0,2.0,1.0,862.0,Freehold,Not Specified,No
+Sunderland,298600.0,1.0,1.0,3062.0,Freehold,Mansionette,No
+Sunderland,75600.0,2.0,1.0,496.0,,Terraced,
+Newcastle,134200.0,3.0,1.0,437.0,Freehold,,Patio
+Gateshead,227100.0,2.0,2.0,424.0,Freehold,Not Specified,Yes
+Gateshead,161900.0,1.0,2.0,422.0,Freehold,,Yes
+Gateshead,172900.0,2.0,1.0,408.0,,Detached,Not Specified
+,,2.0,1.0,444.0,,Flat,Not Specified
+Newcastle,206400.0,3.0,1.0,478.0,,,
+Gateshead,,2.0,1.0,,Unknown,Flat,Yes
+Gateshead,168500.0,3.0,1.0,553.0,,Semi-Detached,Not Specified
+Gateshead,157000.0,,1.0,465.0,Freehold,Terraced,Not Specified
+Newcastle,423300.0,4.0,2.0,532.0,Leasehold,Semi-Detached,
+Newcastle,208900.0,2.0,2.0,470.0,,Flat,Yes
+Gateshead,137300.0,2.0,1.0,495.0,,Semi-Detached,Yes
+,,2.0,1.0,,Leasehold,Semi-Detached,Yes
+Newcastle,,2.0,,515.0,,,Yes
+Gateshead,,3.0,,442.0,Freehold,Semi-Detached,No
+Newcastle,184000.0,3.0,2.0,443.0,,Not Specified,No
+Gateshead,180700.0,2.0,1.0,474.0,Co-operative Society,Detached,Yes
+Gateshead,117200.0,3.0,1.0,443.0,Leasehold,Apartment,Yes
+Gateshead,159300.0,2.0,1.0,437.0,,,No
+Gateshead,178300.0,3.0,1.0,429.0,,,Yes
+Gateshead,164300.0,2.0,1.0,449.0,,Flat,Yes
+Newcastle,325200.0,3.0,1.0,1365.0,Leasehold,Terraced,No
+Gateshead,101300.0,3.0,1.0,411.0,,,
+,,2.0,1.0,459.0,Leasehold,,Patio
+Newcastle,421600.0,2.0,1.0,1115.0,Freehold,Mansionette,
+Morpeth,171900.0,1.0,1.0,790.0,,Semi-Detached,Yes
+Morpeth,74300.0,2.0,1.0,472.0,,Not Specified,Yes
+Morpeth,161900.0,2.0,1.0,447.0,,Semi-Detached,No
+Morpeth,61100.0,1.0,1.0,436.0,Leasehold,Terraced,Yes
+Gateshead,176800.0,3.0,2.0,450.0,,Terraced,Yes
+Consett,80100.0,2.0,1.0,463.0,,Terraced,Yes
+Sunderland,121700.0,2.0,1.0,444.0,,Semi-Detached,Yes
+Morpeth,46700.0,2.0,1.0,512.0,,Flat,Yes
+Gateshead,189100.0,2.0,1.0,446.0,Leasehold,Apartment,Patio
+Newcastle,227600.0,2.0,1.0,424.0,,Not Specified,Yes
+Newcastle,140700.0,2.0,1.0,452.0,,Semi-Detached,Not Specified
+Gateshead,194000.0,3.0,1.0,785.0,,Not Specified,No
+Gateshead,153700.0,3.0,1.0,545.0,Leasehold,Terraced,
+Gateshead,160300.0,3.0,1.0,475.0,Co-operative Society,,Yes
+,,2.0,1.0,442.0,Unknown,Semi-Detached,No
+Morpeth,89400.0,4.0,1.0,447.0,Freehold,Semi-Detached,No
+Consett,48400.0,2.0,1.0,467.0,Unknown,Semi-Detached,Yes
+Gateshead,128900.0,2.0,1.0,461.0,Leasehold,Flat,No
+Gateshead,168000.0,1.0,1.0,461.0,Freehold,Terraced,No
+Newcastle,141500.0,2.0,1.0,438.0,,Terraced,No
+Gateshead,,3.0,,413.0,,Terraced,Not Specified
+Gateshead,127700.0,3.0,1.0,414.0,Leasehold,Terraced,Yes
+Newcastle,252100.0,4.0,1.0,701.0,,Flat,Yes
+Newcastle,379200.0,3.0,1.0,434.0,Leasehold,Semi-Detached,Patio
+Newcastle,361800.0,2.0,1.0,523.0,,,Yes
+Newcastle,268100.0,2.0,1.0,902.0,,Mansionette,No
+Gateshead,127700.0,2.0,1.0,430.0,Freehold,,No
+Gateshead,178600.0,3.0,1.0,438.0,,Not Specified,No
+Newcastle,163900.0,3.0,1.0,425.0,Leasehold,Semi-Detached,Yes
+Newcastle,184500.0,2.0,1.0,441.0,Freehold,Detached,Yes
+Newcastle,,3.0,1.0,,,Semi-Detached,Yes
+Newcastle,276300.0,4.0,1.0,447.0,Unknown,Detached,No
+Gateshead,115300.0,2.0,1.0,473.0,,Mansionette,Yes
+Sunderland,93700.0,3.0,1.0,660.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,137700.0,1.0,1.0,503.0,Freehold,Detached,Yes
+Newcastle,,4.0,,478.0,Freehold,Semi-Detached,Yes
+Gateshead,484400.0,3.0,2.0,1532.0,,Flat,Not Specified
+Newcastle,,2.0,1.0,,Unknown,,Yes
+Morpeth,178800.0,2.0,2.0,895.0,,,Yes
+Morpeth,,1.0,1.0,,,Terraced,Yes
+Newcastle,125000.0,4.0,1.0,415.0,,Not Specified,Yes
+Gateshead,132200.0,2.0,1.0,440.0,,Mansionette,Yes
+Newcastle,119200.0,2.0,1.0,459.0,,Detached,Yes
+Gateshead,169900.0,1.0,2.0,415.0,Co-operative Society,Terraced,Yes
+Morpeth,,2.0,,491.0,,Flat,
+Newcastle,194000.0,,1.0,532.0,Unknown,,Yes
+Sunderland,95700.0,1.0,2.0,469.0,,Terraced,Not Specified
+Newcastle,427600.0,2.0,2.0,675.0,Leasehold,Semi-Detached,Yes
+Gateshead,156000.0,5.0,1.0,431.0,,Semi-Detached,Yes
+Gateshead,156000.0,2.0,1.0,420.0,Freehold,Semi-Detached,Not Specified
+Newcastle,190600.0,5.0,1.0,504.0,,Apartment,Yes
+Gateshead,203300.0,2.0,2.0,443.0,,,No
+Newcastle,328000.0,2.0,1.0,703.0,,Not Specified,Not Specified
+Gateshead,96800.0,3.0,1.0,407.0,Freehold,Apartment,Yes
+Gateshead,210100.0,2.0,1.0,444.0,Leasehold,,Patio
+Gateshead,162200.0,3.0,2.0,527.0,,Semi-Detached,Yes
+Gateshead,148200.0,1.0,1.0,422.0,,Detached,No
+Newcastle,171000.0,,1.0,494.0,,Semi-Detached,No
+Newcastle,214900.0,2.0,1.0,460.0,Leasehold,Semi-Detached,Yes
+Gateshead,153100.0,2.0,1.0,411.0,Freehold,Apartment,Yes
+Gateshead,148400.0,2.0,1.0,466.0,,,Yes
+Gateshead,165100.0,3.0,1.0,514.0,,Semi-Detached,Yes
+Newcastle,106900.0,4.0,2.0,417.0,,Flat,
+Newcastle,151400.0,3.0,1.0,417.0,,Mansionette,Yes
+Newcastle,232200.0,2.0,1.0,455.0,,Semi-Detached,No
+Newcastle,183700.0,2.0,1.0,466.0,Co-operative Society,Mansionette,Not Specified
+Gateshead,102300.0,2.0,1.0,428.0,Leasehold,Not Specified,Yes
+Morpeth,67200.0,3.0,1.0,407.0,Freehold,Detached,Yes
+Sunderland,117200.0,4.0,2.0,481.0,Leasehold,,Yes
+Gateshead,,3.0,,434.0,,Apartment,Yes
+Sunderland,92200.0,2.0,1.0,422.0,,Semi-Detached,Yes
+Gateshead,,2.0,1.0,,,Terraced,Patio
+Newcastle,339800.0,2.0,1.0,804.0,Unknown,Terraced,No
+Newcastle,279300.0,2.0,1.0,445.0,Leasehold,Terraced,Yes
+Gateshead,134400.0,2.0,1.0,420.0,,Flat,Yes
+Gateshead,176300.0,1.0,1.0,473.0,Freehold,,Yes
+Sunderland,67800.0,2.0,1.0,424.0,Leasehold,Terraced,Yes
+Sunderland,112500.0,2.0,1.0,620.0,Co-operative Society,Mansionette,No
+Newcastle,197200.0,3.0,1.0,432.0,,,No
+Newcastle,113900.0,5.0,1.0,422.0,,Detached,Yes
+Gateshead,161500.0,1.0,1.0,529.0,,Flat,
+Gateshead,106900.0,3.0,1.0,415.0,,Semi-Detached,Patio
+Newcastle,221300.0,3.0,1.0,443.0,,Mansionette,Not Specified
+Sunderland,116700.0,2.0,2.0,437.0,Freehold,Terraced,Yes
+Newcastle,318500.0,2.0,1.0,776.0,,Not Specified,Yes
+Gateshead,,2.0,1.0,,,Flat,No
+Gateshead,144700.0,2.0,1.0,419.0,,Semi-Detached,Yes
+Consett,78900.0,7.0,2.0,487.0,,Semi-Detached,Yes
+Newcastle,192400.0,3.0,1.0,562.0,,Terraced,Yes
+Sunderland,64700.0,1.0,1.0,408.0,,Apartment,Yes
+Gateshead,128600.0,3.0,1.0,479.0,,Detached,Yes
+Gateshead,166600.0,2.0,1.0,494.0,Freehold,Semi-Detached,Patio
+Morpeth,,2.0,1.0,,,Flat,
+Newcastle,154300.0,2.0,1.0,470.0,,Semi-Detached,Yes
+Sunderland,126700.0,2.0,1.0,548.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,119500.0,1.0,1.0,408.0,,Apartment,Yes
+,,1.0,1.0,481.0,Freehold,Semi-Detached,
+Gateshead,170300.0,3.0,1.0,591.0,Co-operative Society,Mansionette,Patio
+,,2.0,1.0,1419.0,Unknown,,Yes
+Gateshead,132300.0,4.0,1.0,442.0,Freehold,,Yes
+Gateshead,217800.0,2.0,2.0,422.0,,Terraced,No
+Gateshead,114900.0,3.0,1.0,474.0,,Semi-Detached,Yes
+Gateshead,154000.0,4.0,2.0,465.0,Leasehold,Apartment,Yes
+Gateshead,203400.0,2.0,1.0,460.0,Leasehold,Not Specified,No
+Newcastle,200300.0,,1.0,422.0,,,Yes
+Newcastle,243300.0,3.0,1.0,481.0,Leasehold,Mansionette,Yes
+Morpeth,123900.0,2.0,2.0,456.0,,,Not Specified
+Newcastle,187700.0,4.0,1.0,439.0,,Detached,No
+Newcastle,520200.0,2.0,2.0,821.0,,Semi-Detached,Patio
+Newcastle,,2.0,,493.0,Leasehold,Mansionette,Yes
+Newcastle,206200.0,3.0,1.0,399.0,,Apartment,Yes
+,,4.0,1.0,436.0,,Semi-Detached,Patio
+Sunderland,61300.0,2.0,1.0,413.0,Freehold,Terraced,No
+Morpeth,47000.0,2.0,1.0,435.0,Leasehold,Detached,Yes
+Newcastle,117200.0,3.0,1.0,444.0,,Terraced,Yes
+Newcastle,304500.0,2.0,1.0,424.0,Freehold,Semi-Detached,Yes
+Gateshead,225700.0,2.0,2.0,408.0,Leasehold,Not Specified,Yes
+,,2.0,1.0,1323.0,,,Yes
+Newcastle,157200.0,2.0,1.0,411.0,,Terraced,No
+Gateshead,,3.0,1.0,,Leasehold,Mansionette,Patio
+Newcastle,232000.0,3.0,1.0,759.0,Freehold,Semi-Detached,
+Sunderland,60100.0,2.0,1.0,449.0,,Semi-Detached,Yes
+Gateshead,139000.0,3.0,1.0,684.0,Freehold,,Yes
+,,1.0,1.0,449.0,Freehold,Mansionette,Yes
+,,2.0,1.0,452.0,,Apartment,Yes
+Sunderland,103700.0,4.0,1.0,434.0,,Terraced,Yes
+Newcastle,,1.0,,445.0,,Semi-Detached,No
+Morpeth,60300.0,1.0,2.0,423.0,Co-operative Society,Semi-Detached,Yes
+Morpeth,211600.0,1.0,1.0,1024.0,,,Yes
+Gateshead,138000.0,2.0,1.0,418.0,,Semi-Detached,No
+Newcastle,193400.0,3.0,2.0,421.0,Unknown,Flat,No
+Newcastle,313000.0,2.0,2.0,437.0,,Semi-Detached,Patio
+Consett,,2.0,,461.0,,Detached,No
+Gateshead,169100.0,3.0,1.0,463.0,Freehold,Flat,Patio
+Gateshead,232000.0,3.0,1.0,700.0,,Not Specified,
+Sunderland,196700.0,5.0,1.0,888.0,,Semi-Detached,No
+Newcastle,,1.0,,406.0,,Semi-Detached,No
+Newcastle,,2.0,2.0,,Freehold,Not Specified,Yes
+Gateshead,252600.0,1.0,1.0,726.0,,Semi-Detached,No
+Gateshead,123600.0,2.0,1.0,444.0,,,Not Specified
+Gateshead,204300.0,3.0,1.0,651.0,Leasehold,Semi-Detached,Yes
+Newcastle,189200.0,2.0,1.0,465.0,Freehold,Terraced,Yes
+Newcastle,206800.0,4.0,1.0,410.0,,Detached,Yes
+Gateshead,163800.0,2.0,1.0,452.0,,Semi-Detached,Yes
+,,5.0,2.0,5238.0,,,No
+Gateshead,166100.0,4.0,1.0,483.0,Leasehold,Terraced,Patio
+Sunderland,,3.0,,648.0,,,Yes
+Newcastle,232600.0,2.0,1.0,444.0,,Mansionette,No
+Sunderland,108500.0,2.0,1.0,505.0,,Semi-Detached,Yes
+Morpeth,108200.0,3.0,1.0,431.0,,Semi-Detached,
+Newcastle,205600.0,2.0,1.0,557.0,,Detached,Yes
+Gateshead,155600.0,4.0,1.0,429.0,,Semi-Detached,Yes
+Newcastle,133400.0,3.0,1.0,420.0,,,Yes
+Newcastle,162000.0,3.0,1.0,450.0,,Terraced,
+,,3.0,1.0,1221.0,Leasehold,Semi-Detached,Yes
+Morpeth,86500.0,2.0,1.0,402.0,Leasehold,Flat,
+Gateshead,112000.0,4.0,1.0,429.0,Unknown,Terraced,Yes
+Newcastle,143900.0,4.0,1.0,476.0,,Flat,
+Consett,58800.0,2.0,2.0,417.0,,Semi-Detached,Yes
+Gateshead,167500.0,3.0,2.0,423.0,,Terraced,
+Newcastle,223200.0,3.0,2.0,496.0,Freehold,Flat,No
+Newcastle,274800.0,2.0,1.0,467.0,Freehold,,Yes
+Newcastle,293600.0,4.0,1.0,445.0,,,No
+Newcastle,155100.0,3.0,2.0,457.0,,Semi-Detached,Yes
+Newcastle,212300.0,1.0,1.0,492.0,,Semi-Detached,Not Specified
+Gateshead,180000.0,2.0,1.0,502.0,,Terraced,Not Specified
+Newcastle,,2.0,,671.0,,Semi-Detached,Yes
+Sunderland,108400.0,3.0,1.0,503.0,Unknown,Terraced,Yes
+Newcastle,81200.0,3.0,1.0,421.0,,,Patio
+Gateshead,135700.0,2.0,1.0,408.0,,Semi-Detached,
+Sunderland,62900.0,3.0,1.0,501.0,,Semi-Detached,
+Newcastle,314900.0,5.0,2.0,626.0,Freehold,,
+Gateshead,,1.0,1.0,,Co-operative Society,Detached,Yes
+Sunderland,82700.0,1.0,1.0,429.0,,Semi-Detached,Yes
+Gateshead,460200.0,2.0,1.0,1376.0,Freehold,Terraced,
+Sunderland,79600.0,2.0,1.0,514.0,,,Yes
+Sunderland,54700.0,1.0,1.0,416.0,,Terraced,
+Gateshead,123700.0,3.0,1.0,433.0,,Detached,
+Gateshead,163500.0,2.0,1.0,480.0,,Terraced,Patio
+Morpeth,191900.0,1.0,1.0,601.0,,Terraced,Yes
+Newcastle,244600.0,2.0,2.0,434.0,,Detached,Yes
+Newcastle,482200.0,4.0,1.0,1206.0,,Terraced,No
+Sunderland,63700.0,3.0,1.0,436.0,,Semi-Detached,Yes
+Consett,74700.0,2.0,1.0,634.0,Freehold,Not Specified,Yes
+Newcastle,263400.0,1.0,1.0,463.0,Freehold,Semi-Detached,Yes
+,,2.0,1.0,403.0,Leasehold,Flat,Yes
+Sunderland,97300.0,4.0,2.0,502.0,,Flat,Yes
+Gateshead,183900.0,2.0,1.0,583.0,,Detached,Yes
+Gateshead,163600.0,2.0,1.0,427.0,Leasehold,Not Specified,Yes
+Gateshead,134100.0,3.0,1.0,434.0,Leasehold,Semi-Detached,Yes
+Newcastle,257900.0,3.0,1.0,419.0,,Detached,No
+Gateshead,186500.0,6.0,1.0,468.0,Leasehold,Detached,Not Specified
+Newcastle,150400.0,2.0,1.0,426.0,,Detached,
+Newcastle,237500.0,2.0,1.0,797.0,Freehold,Semi-Detached,Yes
+Gateshead,132700.0,2.0,1.0,489.0,Freehold,Semi-Detached,Patio
+Newcastle,146000.0,2.0,1.0,421.0,,Semi-Detached,Yes
+Gateshead,,2.0,,432.0,,Detached,No
+Gateshead,176200.0,1.0,1.0,444.0,Co-operative Society,Apartment,Yes
+Newcastle,217800.0,2.0,1.0,431.0,Freehold,,Patio
+Gateshead,188800.0,2.0,1.0,461.0,Freehold,Not Specified,Yes
+,,1.0,1.0,561.0,,Semi-Detached,
+Newcastle,237000.0,2.0,1.0,527.0,Freehold,,Patio
+Newcastle,120100.0,2.0,2.0,473.0,Leasehold,Semi-Detached,Yes
+Consett,,1.0,1.0,,Freehold,Not Specified,Yes
+Newcastle,208900.0,1.0,1.0,484.0,,Semi-Detached,No
+Sunderland,70300.0,2.0,1.0,433.0,,Semi-Detached,Yes
+Newcastle,681200.0,2.0,1.0,1329.0,,Not Specified,
+Gateshead,189500.0,3.0,1.0,450.0,,Terraced,
+Newcastle,311700.0,3.0,1.0,614.0,Leasehold,Semi-Detached,Yes
+Morpeth,160500.0,4.0,1.0,537.0,,Semi-Detached,No
+Gateshead,187400.0,1.0,1.0,527.0,Unknown,Terraced,Yes
+Newcastle,136500.0,2.0,1.0,425.0,,Detached,Yes
+Newcastle,296000.0,2.0,1.0,454.0,,,No
+Newcastle,,3.0,,1063.0,Leasehold,Flat,Yes
+Newcastle,238500.0,2.0,1.0,479.0,,Semi-Detached,
+Newcastle,174500.0,1.0,1.0,429.0,,Detached,Yes
+Consett,75600.0,,1.0,429.0,Freehold,Flat,Yes
+Gateshead,120100.0,2.0,1.0,417.0,Co-operative Society,Apartment,Patio
+Gateshead,125700.0,3.0,1.0,438.0,Freehold,Apartment,Yes
+Newcastle,557100.0,,2.0,732.0,Freehold,Detached,Yes
+Gateshead,151000.0,1.0,1.0,495.0,,Semi-Detached,Yes
+Newcastle,305000.0,3.0,1.0,626.0,,Semi-Detached,Yes
+Gateshead,144000.0,2.0,1.0,433.0,Freehold,Not Specified,Yes
+Gateshead,132800.0,3.0,1.0,404.0,,Semi-Detached,No
+Newcastle,184900.0,2.0,2.0,431.0,Co-operative Society,Mansionette,
+Gateshead,,4.0,,443.0,,Terraced,
+Newcastle,158400.0,3.0,1.0,519.0,Freehold,Semi-Detached,Not Specified
+Newcastle,165600.0,2.0,1.0,456.0,Leasehold,Mansionette,Yes
+Morpeth,71600.0,2.0,2.0,441.0,,Semi-Detached,Yes
+Sunderland,115600.0,3.0,2.0,505.0,Leasehold,,Yes
+Gateshead,227000.0,1.0,1.0,513.0,Freehold,Detached,Yes
+Sunderland,144800.0,4.0,2.0,774.0,,Flat,No
+Gateshead,133500.0,1.0,1.0,446.0,,Terraced,Yes
+Newcastle,211700.0,2.0,1.0,445.0,Freehold,Semi-Detached,No
+Gateshead,272200.0,1.0,1.0,774.0,,Flat,Yes
+Newcastle,206400.0,3.0,1.0,421.0,,Terraced,No
+Newcastle,139300.0,2.0,1.0,456.0,,,
+Gateshead,162100.0,1.0,1.0,439.0,,Flat,Yes
+Newcastle,166100.0,2.0,1.0,474.0,,Terraced,Not Specified
+Gateshead,116800.0,1.0,1.0,426.0,Freehold,Semi-Detached,Yes
+Sunderland,93200.0,1.0,1.0,430.0,Unknown,Semi-Detached,Yes
+Gateshead,193800.0,2.0,1.0,445.0,,Terraced,Not Specified
+Newcastle,285000.0,2.0,1.0,422.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,178800.0,3.0,1.0,426.0,,Semi-Detached,Yes
+Gateshead,,2.0,1.0,,,Mansionette,
+Newcastle,367400.0,3.0,1.0,583.0,Freehold,Not Specified,Yes
+Newcastle,172000.0,4.0,1.0,423.0,Leasehold,Semi-Detached,Yes
+Gateshead,165900.0,3.0,1.0,522.0,,Terraced,No
+Consett,77900.0,2.0,1.0,540.0,,Semi-Detached,No
+Morpeth,58800.0,2.0,1.0,445.0,,Terraced,
+Gateshead,158000.0,3.0,1.0,430.0,Leasehold,Apartment,No
+,,1.0,1.0,440.0,Freehold,Flat,
+Consett,89900.0,2.0,1.0,484.0,Leasehold,,Yes
+Gateshead,191700.0,2.0,1.0,509.0,,Semi-Detached,No
+Gateshead,181800.0,2.0,2.0,420.0,,Flat,Yes
+Gateshead,204100.0,,1.0,445.0,Co-operative Society,,Yes
+Newcastle,248100.0,2.0,1.0,453.0,,Semi-Detached,No
+Newcastle,208700.0,3.0,1.0,470.0,Freehold,Semi-Detached,Yes
+Morpeth,183500.0,2.0,1.0,690.0,,Semi-Detached,No
+Gateshead,300000.0,2.0,2.0,600.0,Freehold,,Yes
+Gateshead,165800.0,3.0,2.0,435.0,,,Yes
+Gateshead,225500.0,2.0,1.0,722.0,Freehold,Detached,No
+Gateshead,168000.0,2.0,1.0,465.0,Co-operative Society,Flat,Yes
+Newcastle,247200.0,3.0,2.0,413.0,Leasehold,Semi-Detached,Yes
+Newcastle,225900.0,3.0,1.0,435.0,,Semi-Detached,No
+Gateshead,153500.0,3.0,1.0,432.0,,Semi-Detached,Yes
+Gateshead,152800.0,3.0,2.0,420.0,,Semi-Detached,
+Sunderland,66500.0,3.0,1.0,419.0,,Detached,Not Specified
+Newcastle,131000.0,1.0,1.0,412.0,,Apartment,Yes
+Newcastle,,2.0,1.0,,,Terraced,Yes
+Gateshead,,1.0,,437.0,,Terraced,No
+Gateshead,143600.0,3.0,1.0,444.0,,,No
+Gateshead,155100.0,3.0,2.0,476.0,Unknown,Mansionette,Yes
+Newcastle,217800.0,2.0,1.0,437.0,Freehold,Detached,Yes
+Newcastle,152100.0,3.0,2.0,447.0,,Flat,No
+,,2.0,2.0,,,Flat,No
+Gateshead,236700.0,3.0,1.0,673.0,,Terraced,Yes
+Gateshead,152600.0,2.0,1.0,424.0,,Mansionette,
+Newcastle,156400.0,2.0,1.0,398.0,Freehold,Terraced,No
+Morpeth,88200.0,1.0,2.0,424.0,Freehold,,
+Newcastle,,4.0,,415.0,,Semi-Detached,Yes
+Gateshead,140800.0,2.0,1.0,460.0,,Not Specified,Yes
+Morpeth,79500.0,2.0,1.0,454.0,,Terraced,No
+Gateshead,181200.0,3.0,1.0,491.0,,Terraced,Yes
+Newcastle,293200.0,2.0,2.0,478.0,Freehold,,Yes
+Gateshead,138400.0,2.0,1.0,428.0,Leasehold,,Yes
+Newcastle,155000.0,2.0,1.0,422.0,Freehold,,Yes
+,,2.0,,416.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,137600.0,2.0,1.0,434.0,,Semi-Detached,No
+Gateshead,,1.0,,439.0,Freehold,Apartment,No
+Newcastle,153100.0,4.0,2.0,438.0,,Not Specified,Not Specified
+Newcastle,,3.0,1.0,,Leasehold,Semi-Detached,
+Gateshead,105100.0,2.0,1.0,443.0,Leasehold,Not Specified,Yes
+Newcastle,146700.0,3.0,1.0,445.0,Leasehold,Flat,No
+Gateshead,162800.0,5.0,1.0,519.0,,Flat,Yes
+Gateshead,152000.0,2.0,2.0,510.0,,Detached,No
+Morpeth,91900.0,3.0,2.0,457.0,Leasehold,,Not Specified
+Newcastle,204500.0,2.0,1.0,445.0,,Terraced,Yes
+Sunderland,107000.0,2.0,1.0,513.0,Co-operative Society,Detached,Yes
+Gateshead,141600.0,3.0,1.0,439.0,,Semi-Detached,No
+Gateshead,143000.0,3.0,1.0,433.0,,Flat,Yes
+Gateshead,160700.0,5.0,1.0,506.0,Leasehold,Detached,No
+Newcastle,165900.0,3.0,2.0,436.0,,Semi-Detached,No
+Gateshead,147400.0,3.0,1.0,419.0,,,Yes
+Newcastle,195000.0,2.0,1.0,424.0,Unknown,Semi-Detached,
+Gateshead,194300.0,3.0,1.0,546.0,,,Yes
+Gateshead,161400.0,,1.0,554.0,Freehold,Not Specified,No
+Gateshead,113000.0,3.0,1.0,415.0,Leasehold,Semi-Detached,Yes
+,,3.0,2.0,697.0,,Detached,
+Consett,78700.0,3.0,1.0,428.0,,Flat,Yes
+,,2.0,1.0,431.0,Leasehold,,Yes
+Newcastle,143200.0,2.0,1.0,461.0,,Flat,No
+Newcastle,180800.0,5.0,1.0,470.0,,,Yes
+Morpeth,101300.0,3.0,1.0,487.0,,Mansionette,No
+Newcastle,126800.0,3.0,1.0,411.0,,Apartment,Not Specified
+Gateshead,237300.0,4.0,2.0,453.0,Freehold,Semi-Detached,Yes
+Newcastle,326500.0,3.0,1.0,613.0,Freehold,Terraced,
+Newcastle,357900.0,2.0,1.0,478.0,,Not Specified,Yes
+Newcastle,132900.0,2.0,1.0,409.0,Co-operative Society,Detached,No
+Morpeth,,1.0,1.0,,Freehold,Semi-Detached,Yes
+Gateshead,153900.0,2.0,1.0,449.0,Freehold,Terraced,No
+Morpeth,117500.0,3.0,1.0,432.0,,Semi-Detached,Yes
+Gateshead,145000.0,4.0,2.0,461.0,,Semi-Detached,Patio
+Newcastle,179500.0,3.0,2.0,503.0,Leasehold,Terraced,Yes
+Morpeth,130200.0,2.0,1.0,440.0,,Semi-Detached,Yes
+Newcastle,,1.0,,450.0,,Terraced,
+Morpeth,99500.0,2.0,1.0,524.0,,Flat,Yes
+Gateshead,189100.0,2.0,1.0,444.0,,Semi-Detached,No
+Gateshead,142700.0,2.0,1.0,418.0,,Detached,Yes
+Sunderland,74400.0,2.0,1.0,539.0,Unknown,Semi-Detached,Yes
+Sunderland,101500.0,2.0,1.0,457.0,,Semi-Detached,Yes
+Gateshead,121500.0,2.0,1.0,413.0,Leasehold,Detached,Yes
+Newcastle,181100.0,4.0,1.0,458.0,,Semi-Detached,Patio
+Sunderland,103600.0,3.0,1.0,458.0,,,
+Newcastle,294000.0,2.0,1.0,786.0,Freehold,Semi-Detached,No
+Newcastle,131000.0,,1.0,443.0,,Not Specified,Yes
+Gateshead,207900.0,2.0,1.0,617.0,,Mansionette,Yes
+Gateshead,117900.0,3.0,1.0,434.0,Leasehold,Detached,Yes
+,,2.0,1.0,444.0,,,No
+Newcastle,,4.0,1.0,,,,Yes
+Newcastle,145000.0,2.0,1.0,442.0,,Semi-Detached,No
+Newcastle,159300.0,3.0,1.0,433.0,,Semi-Detached,Yes
+Gateshead,202200.0,2.0,1.0,582.0,Freehold,Flat,Yes
+Newcastle,191300.0,2.0,1.0,426.0,,Terraced,
+Newcastle,206300.0,4.0,1.0,643.0,Freehold,,Yes
+Gateshead,219700.0,2.0,1.0,476.0,Freehold,Flat,Yes
+Newcastle,255100.0,2.0,1.0,536.0,Unknown,Flat,
+Newcastle,369200.0,2.0,1.0,494.0,,,Yes
+Morpeth,97200.0,4.0,1.0,514.0,,Detached,Yes
+Newcastle,,1.0,,472.0,,,Not Specified
+Newcastle,198500.0,2.0,1.0,431.0,,Flat,
+Newcastle,219600.0,3.0,1.0,468.0,,Terraced,Yes
+Gateshead,151700.0,1.0,1.0,425.0,Freehold,,Not Specified
+Sunderland,96000.0,1.0,1.0,475.0,,Semi-Detached,No
+Newcastle,274900.0,1.0,1.0,440.0,,Not Specified,Yes
+Newcastle,285400.0,4.0,1.0,768.0,Freehold,Not Specified,No
+Gateshead,265100.0,2.0,2.0,678.0,Leasehold,Semi-Detached,Not Specified
+Gateshead,166700.0,2.0,1.0,440.0,Leasehold,,
+Newcastle,193200.0,2.0,1.0,468.0,Leasehold,Terraced,Yes
+Gateshead,,3.0,1.0,,,Semi-Detached,
+Gateshead,115700.0,3.0,1.0,436.0,,Terraced,No
+Newcastle,211200.0,2.0,1.0,450.0,Freehold,Semi-Detached,Yes
+Newcastle,209600.0,3.0,2.0,455.0,Leasehold,,Not Specified
+Sunderland,60700.0,2.0,1.0,446.0,Co-operative Society,Mansionette,Yes
+Morpeth,111900.0,2.0,1.0,434.0,,Semi-Detached,
+Gateshead,204900.0,1.0,1.0,431.0,Freehold,Terraced,
+Gateshead,158500.0,1.0,2.0,464.0,,Semi-Detached,No
+Gateshead,224000.0,2.0,1.0,581.0,Freehold,,Yes
+Morpeth,199400.0,2.0,1.0,662.0,Leasehold,Terraced,Yes
+Gateshead,115600.0,3.0,1.0,429.0,,Terraced,Yes
+Newcastle,185600.0,4.0,1.0,454.0,,Semi-Detached,Yes
+Newcastle,253500.0,2.0,1.0,424.0,Co-operative Society,Not Specified,Not Specified
+Consett,54700.0,2.0,1.0,477.0,,,Yes
+Gateshead,203300.0,4.0,2.0,462.0,,Flat,No
+Newcastle,178000.0,4.0,2.0,462.0,,Semi-Detached,Yes
+Newcastle,190400.0,2.0,1.0,552.0,,Semi-Detached,
+Newcastle,213800.0,2.0,2.0,441.0,,Terraced,No
+Gateshead,190300.0,2.0,1.0,451.0,,Terraced,Yes
+Newcastle,210700.0,2.0,1.0,444.0,Freehold,Terraced,Yes
+Newcastle,166300.0,2.0,1.0,484.0,,Semi-Detached,
+Gateshead,154500.0,4.0,1.0,408.0,,Detached,Yes
+Newcastle,,2.0,,419.0,,Semi-Detached,
+Newcastle,162300.0,2.0,1.0,460.0,,,Not Specified
+Newcastle,236400.0,3.0,1.0,423.0,,Semi-Detached,
+Gateshead,,3.0,,442.0,Freehold,Flat,Yes
+Newcastle,227500.0,2.0,1.0,464.0,Leasehold,,No
+Gateshead,245500.0,2.0,1.0,668.0,Freehold,Detached,No
+Gateshead,198500.0,3.0,1.0,452.0,,,Yes
+Sunderland,119100.0,2.0,1.0,424.0,,Flat,Yes
+Newcastle,330000.0,4.0,1.0,810.0,,Semi-Detached,Yes
+Newcastle,342800.0,2.0,2.0,886.0,Freehold,Terraced,Yes
+Newcastle,205400.0,3.0,2.0,452.0,,Apartment,No
+Morpeth,129300.0,3.0,1.0,434.0,,Mansionette,No
+Gateshead,136300.0,2.0,1.0,429.0,,Terraced,Yes
+Newcastle,227300.0,3.0,1.0,429.0,,Mansionette,Yes
+Newcastle,178200.0,2.0,1.0,426.0,,Detached,
+Newcastle,173600.0,2.0,1.0,448.0,,,No
+Newcastle,189800.0,2.0,1.0,439.0,,Terraced,Patio
+Gateshead,147000.0,3.0,1.0,450.0,Freehold,Detached,Yes
+Newcastle,,3.0,1.0,,,,No
+Newcastle,204900.0,2.0,1.0,421.0,,Flat,No
+Newcastle,233200.0,3.0,1.0,405.0,,Terraced,Yes
+Newcastle,141600.0,1.0,2.0,423.0,Leasehold,Terraced,No
+Gateshead,127100.0,4.0,1.0,466.0,Freehold,Apartment,Yes
+Newcastle,253600.0,3.0,1.0,425.0,,Flat,No
+Newcastle,618600.0,4.0,1.0,854.0,Leasehold,Detached,Yes
+Gateshead,142700.0,2.0,1.0,434.0,,Semi-Detached,Not Specified
+Gateshead,143800.0,1.0,1.0,420.0,,,Not Specified
+Gateshead,166400.0,2.0,1.0,426.0,,Semi-Detached,Not Specified
+Newcastle,189600.0,3.0,2.0,490.0,Leasehold,Flat,Patio
+Gateshead,136800.0,2.0,1.0,432.0,,Not Specified,
+Morpeth,,2.0,2.0,,,Semi-Detached,Yes
+Gateshead,241800.0,3.0,1.0,573.0,Freehold,,Yes
+Newcastle,,,1.0,,Co-operative Society,Mansionette,No
+Newcastle,496500.0,3.0,1.0,1522.0,,Apartment,
+Newcastle,302700.0,2.0,1.0,581.0,,Semi-Detached,
+,,3.0,1.0,538.0,Freehold,Semi-Detached,Yes
+Newcastle,309500.0,2.0,1.0,1024.0,,Semi-Detached,No
+Newcastle,274600.0,2.0,2.0,485.0,,Terraced,Yes
+Newcastle,190500.0,3.0,2.0,543.0,,Detached,
+Newcastle,205800.0,3.0,2.0,479.0,Leasehold,Semi-Detached,Yes
+Newcastle,137400.0,3.0,1.0,431.0,Co-operative Society,Flat,
+Gateshead,,3.0,,472.0,,Terraced,Yes
+Newcastle,170800.0,1.0,1.0,432.0,,Apartment,
+Newcastle,182500.0,2.0,1.0,435.0,,Flat,No
+Newcastle,,1.0,,549.0,,,Yes
+Newcastle,218600.0,1.0,1.0,523.0,Freehold,Semi-Detached,Yes
+Gateshead,152800.0,4.0,1.0,409.0,,Detached,
+Gateshead,148500.0,3.0,1.0,435.0,Freehold,Semi-Detached,Patio
+,,2.0,1.0,403.0,,Mansionette,No
+Gateshead,190700.0,2.0,1.0,445.0,,Apartment,Yes
+Newcastle,247000.0,3.0,1.0,440.0,Freehold,Semi-Detached,Yes
+Sunderland,136600.0,2.0,1.0,640.0,Leasehold,Semi-Detached,
+Gateshead,138300.0,1.0,1.0,460.0,,Terraced,Yes
+Gateshead,199700.0,3.0,1.0,425.0,,Terraced,Yes
+Gateshead,243700.0,1.0,2.0,788.0,,Mansionette,No
+Newcastle,154200.0,1.0,1.0,470.0,Leasehold,Flat,No
+Newcastle,219700.0,1.0,1.0,569.0,,Terraced,Patio
+Gateshead,,2.0,1.0,,Freehold,Flat,Not Specified
+Gateshead,170500.0,3.0,1.0,491.0,Leasehold,Semi-Detached,No
+Morpeth,157500.0,2.0,1.0,431.0,,Not Specified,No
+Newcastle,226000.0,2.0,1.0,568.0,,Semi-Detached,Yes
+Gateshead,135700.0,1.0,1.0,469.0,Freehold,Terraced,Not Specified
+Consett,39600.0,,1.0,562.0,,Not Specified,No
+Gateshead,114700.0,3.0,1.0,435.0,,Semi-Detached,
+Newcastle,294600.0,2.0,1.0,897.0,,Apartment,Yes
+Newcastle,,,1.0,,,,No
+,,1.0,1.0,450.0,,,Yes
+Newcastle,159700.0,2.0,1.0,581.0,Freehold,Semi-Detached,Yes
+Gateshead,192500.0,4.0,1.0,586.0,Freehold,Detached,Patio
+Gateshead,,1.0,1.0,,,,Yes
+Gateshead,179300.0,1.0,1.0,513.0,,Semi-Detached,
+Sunderland,,2.0,1.0,,,Terraced,Yes
+Gateshead,,3.0,,455.0,,Apartment,Yes
+Newcastle,,3.0,1.0,,,,
+Newcastle,193400.0,2.0,1.0,464.0,Freehold,Detached,Yes
+Newcastle,189400.0,2.0,2.0,593.0,,Semi-Detached,Yes
+Consett,46200.0,3.0,1.0,520.0,,Semi-Detached,Yes
+Gateshead,101500.0,3.0,1.0,463.0,,Not Specified,Yes
+Gateshead,,3.0,1.0,,Leasehold,Semi-Detached,Patio
+Newcastle,232100.0,2.0,1.0,422.0,,Terraced,Yes
+Newcastle,204700.0,2.0,1.0,511.0,,Mansionette,
+Gateshead,141200.0,2.0,1.0,440.0,,Apartment,Yes
+Sunderland,,2.0,1.0,,,,Yes
+Morpeth,113800.0,2.0,1.0,648.0,,Flat,Yes
+Gateshead,185900.0,3.0,2.0,481.0,,,Yes
+Morpeth,132500.0,3.0,1.0,468.0,Co-operative Society,Detached,Yes
+,,3.0,2.0,427.0,,Flat,
+Gateshead,140100.0,2.0,1.0,452.0,Co-operative Society,Mansionette,Yes
+Morpeth,52000.0,2.0,1.0,446.0,,Terraced,Yes
+Morpeth,65700.0,2.0,1.0,565.0,Freehold,Semi-Detached,Yes
+Newcastle,164700.0,1.0,1.0,447.0,Freehold,Terraced,
+Gateshead,,3.0,2.0,,,,Patio
+Newcastle,131000.0,3.0,1.0,417.0,,Mansionette,No
+Newcastle,132400.0,3.0,1.0,404.0,,Semi-Detached,Not Specified
+Newcastle,,2.0,1.0,,,Semi-Detached,Yes
+Sunderland,127500.0,3.0,1.0,516.0,,Terraced,Yes
+Newcastle,178400.0,3.0,1.0,409.0,,Detached,Not Specified
+Newcastle,379400.0,1.0,1.0,910.0,Freehold,Semi-Detached,
+Newcastle,209200.0,1.0,1.0,458.0,Leasehold,Terraced,No
+Newcastle,191800.0,3.0,1.0,413.0,,Semi-Detached,Yes
+Newcastle,252200.0,1.0,1.0,534.0,Freehold,Semi-Detached,Patio
+Gateshead,,3.0,1.0,,,,Yes
+Sunderland,,2.0,1.0,,,Semi-Detached,No
+Newcastle,,2.0,,458.0,,Semi-Detached,Yes
+Newcastle,226100.0,4.0,1.0,478.0,Unknown,Mansionette,Yes
+Sunderland,59700.0,2.0,1.0,472.0,,Apartment,Patio
+Gateshead,251800.0,3.0,1.0,917.0,,Not Specified,No
+Gateshead,162000.0,2.0,1.0,511.0,Leasehold,Mansionette,
+Newcastle,,2.0,,444.0,,,Not Specified
+,,3.0,2.0,585.0,Leasehold,Semi-Detached,Patio
+Gateshead,139800.0,2.0,2.0,452.0,,,Yes
+Sunderland,67000.0,2.0,1.0,470.0,,Semi-Detached,Patio
+Gateshead,174900.0,3.0,1.0,469.0,Leasehold,,No
+Gateshead,,2.0,1.0,,,Not Specified,No
+Newcastle,618400.0,3.0,1.0,1905.0,,,No
+Newcastle,353500.0,2.0,1.0,578.0,,Semi-Detached,Not Specified
+Newcastle,192200.0,2.0,1.0,432.0,,,Not Specified
+Gateshead,126700.0,,1.0,427.0,Freehold,Semi-Detached,Yes
+Gateshead,133700.0,3.0,1.0,518.0,,Mansionette,Yes
+Morpeth,145000.0,3.0,1.0,1397.0,,Flat,No
+Gateshead,165400.0,2.0,1.0,510.0,Freehold,Semi-Detached,Yes
+Sunderland,61700.0,3.0,1.0,406.0,,Detached,Not Specified
+Gateshead,189200.0,3.0,1.0,482.0,Leasehold,Terraced,Yes
+Sunderland,271400.0,1.0,1.0,2485.0,,Flat,Patio
+Newcastle,114400.0,2.0,1.0,423.0,,Terraced,No
+Newcastle,198300.0,4.0,1.0,440.0,Freehold,Semi-Detached,No
+Newcastle,166700.0,2.0,1.0,440.0,Leasehold,Not Specified,Not Specified
+Newcastle,159100.0,1.0,1.0,553.0,Freehold,Semi-Detached,No
+Newcastle,224700.0,5.0,1.0,421.0,Unknown,Semi-Detached,Not Specified
+Consett,33600.0,3.0,1.0,495.0,Unknown,Semi-Detached,Yes
+Newcastle,122600.0,,1.0,442.0,,Detached,
+Morpeth,288000.0,1.0,1.0,475.0,,Terraced,No
+Gateshead,130500.0,2.0,1.0,456.0,,Semi-Detached,Yes
+Newcastle,241500.0,3.0,1.0,413.0,Co-operative Society,Semi-Detached,
+Morpeth,134100.0,3.0,1.0,432.0,,Semi-Detached,No
+Morpeth,,3.0,1.0,,Freehold,Semi-Detached,Yes
+Newcastle,187400.0,2.0,2.0,428.0,Freehold,Mansionette,Yes
+Gateshead,,2.0,1.0,,,Semi-Detached,Yes
+Gateshead,140000.0,2.0,1.0,435.0,,Semi-Detached,Yes
+Newcastle,197200.0,3.0,1.0,448.0,Leasehold,Flat,No
+Gateshead,197200.0,6.0,1.0,469.0,,Detached,No
+Newcastle,126100.0,2.0,1.0,490.0,,Flat,Yes
+Newcastle,208500.0,4.0,1.0,446.0,,Semi-Detached,Not Specified
+Newcastle,182400.0,1.0,1.0,458.0,,Terraced,
+Newcastle,246900.0,2.0,1.0,492.0,,Flat,Yes
+Gateshead,118100.0,2.0,1.0,450.0,,Mansionette,Yes
+Newcastle,188200.0,3.0,1.0,509.0,Leasehold,Terraced,Yes
+Gateshead,136800.0,2.0,1.0,402.0,,Apartment,
+Newcastle,269900.0,3.0,1.0,476.0,,Terraced,Yes
+Newcastle,300600.0,2.0,1.0,501.0,,Detached,No
+,,2.0,1.0,497.0,Freehold,Flat,No
+,,3.0,2.0,465.0,,Terraced,No
+Morpeth,61600.0,3.0,1.0,427.0,,Semi-Detached,Yes
+Gateshead,128900.0,2.0,1.0,477.0,Leasehold,Semi-Detached,Yes
+Gateshead,178600.0,1.0,1.0,459.0,,Flat,Yes
+Newcastle,,3.0,1.0,,,Semi-Detached,
+Sunderland,171600.0,4.0,2.0,1046.0,,Not Specified,Yes
+Newcastle,177000.0,3.0,1.0,459.0,Freehold,Detached,Yes
+Morpeth,58100.0,3.0,1.0,425.0,,Semi-Detached,Patio
+Newcastle,283100.0,2.0,1.0,613.0,,,
+Gateshead,,2.0,2.0,,Leasehold,Flat,Yes
+Gateshead,141700.0,2.0,1.0,444.0,,,No
+Newcastle,189900.0,4.0,1.0,412.0,,,No
+Sunderland,86800.0,3.0,1.0,521.0,,Detached,Yes
+Gateshead,150900.0,3.0,1.0,429.0,Freehold,Semi-Detached,Yes
+,,1.0,1.0,425.0,Unknown,Terraced,Yes
+Morpeth,150100.0,2.0,1.0,607.0,,Semi-Detached,No
+Gateshead,132600.0,1.0,1.0,432.0,,Semi-Detached,Yes
+Gateshead,155000.0,3.0,1.0,451.0,,Semi-Detached,
+Gateshead,217600.0,2.0,2.0,604.0,Leasehold,Terraced,Not Specified
+Morpeth,,2.0,1.0,,,Flat,Yes
+Gateshead,217800.0,2.0,1.0,499.0,,Detached,
+Gateshead,,4.0,1.0,,,Terraced,Patio
+Gateshead,156100.0,2.0,1.0,463.0,Freehold,,Yes
+Gateshead,,2.0,1.0,,,Terraced,Not Specified
+Newcastle,222200.0,3.0,2.0,409.0,,Detached,No
+Newcastle,258000.0,3.0,1.0,788.0,,Detached,No
+Gateshead,184100.0,3.0,1.0,584.0,,Semi-Detached,Not Specified
+Gateshead,162400.0,2.0,1.0,467.0,Leasehold,Detached,Yes
+Newcastle,203100.0,4.0,1.0,444.0,,Detached,
+Gateshead,140100.0,3.0,1.0,409.0,,Semi-Detached,Yes
+Newcastle,197800.0,,1.0,408.0,,Semi-Detached,Yes
+Sunderland,258600.0,3.0,1.0,1137.0,,Detached,Yes
+Gateshead,157100.0,2.0,1.0,434.0,Freehold,Semi-Detached,
+Newcastle,265700.0,2.0,1.0,425.0,,Terraced,Yes
+Newcastle,172400.0,2.0,2.0,441.0,Freehold,Semi-Detached,Not Specified
+,,,2.0,587.0,Co-operative Society,Apartment,
+Gateshead,183800.0,4.0,1.0,432.0,,Semi-Detached,Yes
+Gateshead,103300.0,4.0,1.0,414.0,Leasehold,Detached,Yes
+Gateshead,103600.0,3.0,1.0,432.0,Unknown,Flat,Yes
+Gateshead,140400.0,3.0,1.0,434.0,,Semi-Detached,No
+Gateshead,149000.0,2.0,1.0,443.0,Freehold,Flat,Yes
+Newcastle,178800.0,3.0,1.0,442.0,Freehold,Flat,Yes
+Gateshead,151800.0,2.0,1.0,442.0,,Apartment,Yes
+Morpeth,,2.0,1.0,,Leasehold,Detached,Yes
+Gateshead,,3.0,,435.0,,Flat,Yes
+Gateshead,198000.0,3.0,1.0,439.0,Co-operative Society,Terraced,No
+Newcastle,227000.0,2.0,1.0,515.0,Freehold,Semi-Detached,
+Newcastle,231000.0,2.0,2.0,778.0,Leasehold,Terraced,Yes
+Sunderland,178600.0,4.0,1.0,1250.0,,,Yes
+Gateshead,160400.0,,1.0,465.0,,Detached,Yes
+Gateshead,,2.0,,655.0,,Detached,Yes
+Newcastle,181600.0,2.0,1.0,558.0,,,Yes
+Newcastle,238500.0,2.0,1.0,451.0,Freehold,Detached,Yes
+Gateshead,103000.0,2.0,1.0,432.0,Freehold,Semi-Detached,Yes
+Gateshead,201800.0,2.0,1.0,478.0,Leasehold,Semi-Detached,Yes
+Morpeth,,2.0,1.0,,,Semi-Detached,Yes
+Newcastle,,2.0,2.0,,,Apartment,No
+Gateshead,131400.0,2.0,2.0,421.0,,,No
+Sunderland,69000.0,1.0,1.0,462.0,Leasehold,Flat,Yes
+Gateshead,178800.0,3.0,1.0,507.0,,Semi-Detached,Yes
+Gateshead,130100.0,2.0,1.0,442.0,,Mansionette,Yes
+Newcastle,175400.0,2.0,1.0,410.0,,Flat,Yes
+Newcastle,265800.0,4.0,1.0,467.0,Freehold,Terraced,No
+Newcastle,161900.0,1.0,1.0,440.0,Leasehold,Semi-Detached,
+Newcastle,398300.0,2.0,1.0,705.0,Leasehold,Terraced,Yes
+Newcastle,245700.0,4.0,1.0,489.0,,Terraced,No
+Morpeth,143300.0,1.0,1.0,414.0,Leasehold,,Yes
+Sunderland,95900.0,2.0,2.0,412.0,Leasehold,Not Specified,Yes
+Gateshead,156000.0,1.0,1.0,527.0,,Flat,Yes
+Newcastle,229800.0,5.0,1.0,549.0,,Semi-Detached,Yes
+Sunderland,133000.0,3.0,1.0,472.0,,,Patio
+Newcastle,511400.0,2.0,1.0,743.0,,Terraced,
+Gateshead,207200.0,1.0,1.0,430.0,,Detached,Yes
+Newcastle,167600.0,3.0,1.0,455.0,,Terraced,Patio
+Gateshead,308800.0,2.0,2.0,835.0,,Semi-Detached,
+Gateshead,131000.0,1.0,1.0,532.0,Freehold,Flat,Yes
+Newcastle,390100.0,3.0,2.0,646.0,,Semi-Detached,Yes
+Newcastle,275500.0,2.0,2.0,585.0,Freehold,Semi-Detached,Yes
+Morpeth,46500.0,2.0,1.0,455.0,Freehold,Semi-Detached,Yes
+Morpeth,83300.0,1.0,1.0,883.0,,,Yes
+Sunderland,106500.0,2.0,1.0,517.0,,Detached,No
+Sunderland,,3.0,1.0,,,Apartment,No
+Gateshead,158700.0,4.0,1.0,439.0,,Terraced,No
+Newcastle,,4.0,1.0,,Leasehold,Semi-Detached,Yes
+Gateshead,132600.0,2.0,2.0,406.0,,Apartment,
+Gateshead,,2.0,1.0,,,Terraced,No
+Gateshead,,2.0,,453.0,,Semi-Detached,No
+Sunderland,102600.0,1.0,2.0,460.0,,Mansionette,Yes
+,,3.0,2.0,428.0,,Semi-Detached,Yes
+Sunderland,71000.0,2.0,1.0,482.0,Leasehold,Apartment,No
+Newcastle,142900.0,2.0,1.0,401.0,,Detached,Not Specified
+Newcastle,205200.0,3.0,1.0,682.0,,Mansionette,No
+Gateshead,370200.0,2.0,2.0,1140.0,,Semi-Detached,No
+Newcastle,238200.0,3.0,1.0,440.0,Leasehold,,No
+Gateshead,165000.0,2.0,2.0,610.0,,Semi-Detached,Yes
+Newcastle,,,,469.0,,Semi-Detached,Yes
+Morpeth,,2.0,1.0,,,,Not Specified
+Consett,65100.0,3.0,1.0,433.0,,,Yes
+Newcastle,295300.0,4.0,2.0,452.0,Freehold,Semi-Detached,
+Newcastle,114100.0,2.0,1.0,418.0,,Semi-Detached,Not Specified
+,,2.0,1.0,527.0,,,Yes
+Sunderland,75600.0,2.0,1.0,444.0,,Semi-Detached,Patio
+Morpeth,72000.0,2.0,1.0,519.0,,Apartment,No
+Gateshead,107700.0,4.0,2.0,412.0,,Terraced,No
+Newcastle,182800.0,3.0,1.0,438.0,,,No
+Sunderland,,3.0,1.0,,,,
+Morpeth,76800.0,1.0,1.0,428.0,Co-operative Society,Apartment,
+Newcastle,255300.0,2.0,1.0,438.0,,Apartment,
+Newcastle,,1.0,1.0,,Unknown,,Not Specified
+Gateshead,163400.0,2.0,1.0,426.0,,,Yes
+Gateshead,165900.0,3.0,2.0,446.0,,,Yes
+Gateshead,154400.0,3.0,1.0,428.0,,Terraced,Yes
+Newcastle,344900.0,2.0,1.0,451.0,,Detached,
+Morpeth,117400.0,1.0,1.0,417.0,,Semi-Detached,No
+Gateshead,167900.0,3.0,1.0,629.0,Freehold,Semi-Detached,Yes
+Newcastle,165700.0,2.0,1.0,423.0,,Detached,Yes
+Newcastle,,2.0,,445.0,,Terraced,Yes
+Sunderland,107200.0,2.0,2.0,614.0,Co-operative Society,Detached,
+Gateshead,146500.0,5.0,1.0,450.0,Leasehold,Semi-Detached,Yes
+Morpeth,72500.0,3.0,1.0,446.0,,Flat,No
+Gateshead,,,1.0,,,Terraced,No
+Morpeth,73300.0,2.0,1.0,435.0,Freehold,Mansionette,Yes
+Newcastle,280900.0,2.0,1.0,513.0,,Semi-Detached,
+Gateshead,117400.0,3.0,1.0,461.0,,Semi-Detached,No
+Gateshead,147700.0,3.0,1.0,409.0,Co-operative Society,Terraced,Yes
+Gateshead,156200.0,1.0,1.0,422.0,,Detached,Not Specified
+Gateshead,179900.0,2.0,1.0,512.0,Freehold,Terraced,Yes
+,,3.0,,495.0,,Mansionette,Yes
+Newcastle,177300.0,2.0,2.0,430.0,,,Not Specified
+Gateshead,140300.0,3.0,1.0,483.0,,Detached,No
+Sunderland,68000.0,3.0,1.0,436.0,Freehold,Semi-Detached,Yes
+Newcastle,169700.0,1.0,1.0,432.0,Freehold,Terraced,Yes
+Gateshead,190900.0,2.0,1.0,486.0,,Terraced,Yes
+Newcastle,117900.0,1.0,1.0,440.0,,Apartment,No
+Gateshead,211700.0,3.0,1.0,453.0,Co-operative Society,Not Specified,Yes
+Gateshead,159800.0,1.0,2.0,477.0,,Semi-Detached,
+Newcastle,233500.0,3.0,2.0,440.0,,Terraced,Yes
+Newcastle,237400.0,2.0,1.0,441.0,Leasehold,Flat,No
+Gateshead,196600.0,3.0,2.0,550.0,,Mansionette,
+Gateshead,150800.0,2.0,1.0,455.0,Leasehold,Mansionette,
+Newcastle,287200.0,2.0,1.0,616.0,,Mansionette,No
+Newcastle,391100.0,3.0,1.0,770.0,Co-operative Society,Detached,Not Specified
+Newcastle,224500.0,4.0,1.0,418.0,,Apartment,Not Specified
+Newcastle,238400.0,2.0,1.0,504.0,Co-operative Society,Apartment,
+Gateshead,263800.0,3.0,1.0,564.0,,,Yes
+Gateshead,,1.0,,440.0,Freehold,,Yes
+Gateshead,239700.0,2.0,2.0,612.0,Co-operative Society,,No
+Gateshead,295200.0,3.0,1.0,854.0,Co-operative Society,Flat,Yes
+Newcastle,231700.0,2.0,1.0,438.0,Unknown,,No
+Consett,87900.0,2.0,1.0,619.0,,Flat,Yes
+Morpeth,34900.0,4.0,1.0,425.0,,,No
+,,1.0,1.0,456.0,,,Yes
+Newcastle,314700.0,4.0,1.0,421.0,Leasehold,Semi-Detached,No
+Newcastle,633700.0,3.0,1.0,1096.0,,Semi-Detached,Yes
+Gateshead,150500.0,4.0,1.0,406.0,Unknown,Semi-Detached,Yes
+Sunderland,117000.0,1.0,1.0,415.0,Unknown,,Patio
+Gateshead,172400.0,2.0,1.0,406.0,Leasehold,Not Specified,Patio
+Morpeth,81600.0,1.0,1.0,416.0,Freehold,Not Specified,Yes
+Gateshead,97100.0,3.0,1.0,427.0,,Terraced,Yes
+Sunderland,104000.0,,1.0,443.0,,Flat,Yes
+Gateshead,147000.0,2.0,1.0,437.0,,Detached,No
+Gateshead,154400.0,2.0,1.0,433.0,,Detached,Yes
+Morpeth,41600.0,3.0,1.0,485.0,,,Yes
+Gateshead,165700.0,2.0,1.0,431.0,Freehold,Terraced,Yes
+Newcastle,141300.0,3.0,1.0,425.0,,Flat,Yes
+Sunderland,,3.0,1.0,,,Terraced,No
+Newcastle,230500.0,3.0,1.0,497.0,,Mansionette,
+Newcastle,,2.0,1.0,,Freehold,Semi-Detached,Yes
+Newcastle,241600.0,2.0,1.0,414.0,,Semi-Detached,Yes
+Sunderland,117500.0,3.0,1.0,462.0,Leasehold,Mansionette,Not Specified
+Newcastle,309600.0,2.0,1.0,734.0,Freehold,Flat,No
+Gateshead,147300.0,4.0,1.0,422.0,,Detached,
+Gateshead,159900.0,2.0,1.0,419.0,,Detached,Yes
+Sunderland,74100.0,3.0,1.0,559.0,,Terraced,Yes
+Morpeth,156700.0,1.0,1.0,409.0,Unknown,Terraced,Not Specified
+Newcastle,251900.0,1.0,1.0,507.0,,,
+Consett,,5.0,,474.0,,Semi-Detached,Not Specified
+Newcastle,205300.0,4.0,1.0,449.0,Freehold,Flat,
+Gateshead,139400.0,2.0,1.0,442.0,Leasehold,Flat,No
+Newcastle,221100.0,2.0,2.0,478.0,,Terraced,
+Newcastle,262400.0,1.0,1.0,504.0,,Detached,Yes
+Morpeth,87400.0,4.0,1.0,410.0,,Mansionette,Yes
+Gateshead,164700.0,2.0,1.0,507.0,,Semi-Detached,Not Specified
+Sunderland,72000.0,2.0,1.0,427.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,121500.0,2.0,1.0,432.0,,Terraced,Yes
+Gateshead,160800.0,2.0,1.0,453.0,Freehold,Apartment,Yes
+Newcastle,228500.0,,1.0,431.0,Freehold,,Yes
+Gateshead,296300.0,2.0,2.0,754.0,Leasehold,Detached,Yes
+Gateshead,171400.0,1.0,1.0,805.0,,Apartment,Yes
+Newcastle,221300.0,2.0,1.0,585.0,Unknown,Flat,Not Specified
+Newcastle,119300.0,2.0,1.0,442.0,,Mansionette,
+Sunderland,84500.0,2.0,1.0,451.0,Leasehold,Semi-Detached,Not Specified
+Newcastle,305400.0,1.0,1.0,609.0,Leasehold,,Yes
+Gateshead,167800.0,2.0,1.0,576.0,,Mansionette,Not Specified
+Newcastle,252200.0,3.0,1.0,412.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,164600.0,2.0,1.0,414.0,Freehold,Terraced,Yes
+Newcastle,296600.0,2.0,1.0,448.0,Freehold,,Yes
+Gateshead,162800.0,2.0,2.0,467.0,,Apartment,Not Specified
+Newcastle,184400.0,2.0,1.0,410.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,207100.0,2.0,2.0,532.0,,Semi-Detached,
+Newcastle,,5.0,,454.0,Freehold,,
+Newcastle,216900.0,2.0,2.0,405.0,,Terraced,Not Specified
+Newcastle,179800.0,2.0,1.0,514.0,Leasehold,,Yes
+Gateshead,149000.0,3.0,1.0,490.0,,Flat,Patio
+Gateshead,124800.0,2.0,1.0,460.0,Freehold,Flat,No
+Gateshead,394300.0,2.0,2.0,1925.0,,Not Specified,Yes
+Newcastle,194800.0,2.0,1.0,432.0,,Semi-Detached,Patio
+Newcastle,263000.0,3.0,1.0,499.0,Freehold,Terraced,Yes
+Newcastle,184300.0,2.0,2.0,453.0,,Semi-Detached,
+Sunderland,,3.0,2.0,,,,Yes
+Gateshead,152400.0,1.0,1.0,436.0,,Terraced,Yes
+Newcastle,153300.0,2.0,1.0,448.0,,Mansionette,No
+Gateshead,132400.0,2.0,1.0,440.0,,,Yes
+Newcastle,165900.0,2.0,1.0,424.0,,Flat,Yes
+Gateshead,166600.0,3.0,1.0,477.0,Unknown,Semi-Detached,Yes
+Gateshead,134800.0,3.0,1.0,438.0,Freehold,Not Specified,Not Specified
+Gateshead,114500.0,2.0,1.0,402.0,Unknown,Semi-Detached,Yes
+Gateshead,282700.0,1.0,1.0,727.0,,,
+Newcastle,295200.0,3.0,1.0,446.0,,Semi-Detached,Yes
+Newcastle,260400.0,2.0,1.0,424.0,,Not Specified,
+Newcastle,130400.0,1.0,1.0,481.0,Freehold,Semi-Detached,No
+Newcastle,515200.0,2.0,1.0,877.0,,Semi-Detached,Yes
+Morpeth,96700.0,2.0,2.0,585.0,Freehold,,Yes
+Newcastle,269100.0,3.0,1.0,414.0,,,Yes
+Newcastle,260600.0,2.0,1.0,846.0,Freehold,Semi-Detached,No
+Gateshead,177100.0,2.0,1.0,456.0,,Flat,Yes
+,,3.0,1.0,444.0,,Semi-Detached,Yes
+Newcastle,206500.0,2.0,1.0,647.0,,,Yes
+Newcastle,,2.0,1.0,,Leasehold,Semi-Detached,No
+Morpeth,78200.0,2.0,1.0,431.0,,Detached,Not Specified
+,,3.0,1.0,511.0,Co-operative Society,Semi-Detached,No
+Newcastle,,4.0,,452.0,,Semi-Detached,Yes
+Newcastle,229100.0,2.0,1.0,490.0,,Terraced,No
+Gateshead,129700.0,2.0,1.0,427.0,Leasehold,,Yes
+Newcastle,222500.0,3.0,1.0,488.0,,,Yes
+Gateshead,146500.0,2.0,1.0,517.0,,Terraced,Yes
+Newcastle,168500.0,3.0,1.0,423.0,,Flat,Not Specified
+Gateshead,309200.0,2.0,2.0,1195.0,Freehold,Apartment,Not Specified
+Gateshead,178800.0,2.0,1.0,481.0,Freehold,Semi-Detached,No
+Gateshead,162600.0,1.0,1.0,426.0,,,Not Specified
+Gateshead,172600.0,2.0,2.0,412.0,,,Yes
+Gateshead,,1.0,,432.0,,Detached,
+Newcastle,,3.0,1.0,,Leasehold,Terraced,No
+Gateshead,123600.0,3.0,1.0,424.0,Freehold,Terraced,No
+Gateshead,185500.0,2.0,1.0,464.0,Co-operative Society,Terraced,Not Specified
+Newcastle,229500.0,1.0,2.0,452.0,Leasehold,,Yes
+Gateshead,,2.0,,545.0,Co-operative Society,Mansionette,Patio
+Newcastle,153100.0,2.0,1.0,447.0,,,Yes
+Morpeth,57200.0,2.0,1.0,465.0,,Terraced,Yes
+Gateshead,147400.0,4.0,1.0,465.0,,Not Specified,Yes
+Newcastle,196900.0,3.0,1.0,532.0,Freehold,Semi-Detached,No
+Gateshead,134500.0,3.0,1.0,453.0,,,Yes
+Newcastle,172300.0,2.0,2.0,426.0,,Semi-Detached,Not Specified
+Newcastle,,1.0,1.0,,Freehold,,Yes
+Newcastle,208400.0,2.0,1.0,455.0,Unknown,Flat,Yes
+Newcastle,192200.0,3.0,1.0,568.0,Unknown,Apartment,Yes
+Newcastle,169300.0,,1.0,436.0,,Terraced,No
+Gateshead,177500.0,1.0,2.0,588.0,,,Yes
+Sunderland,70400.0,2.0,1.0,434.0,,,Yes
+Morpeth,102700.0,2.0,1.0,491.0,Unknown,,Patio
+Newcastle,734400.0,2.0,1.0,1982.0,,Detached,Not Specified
+Newcastle,248600.0,3.0,2.0,438.0,,Semi-Detached,Yes
+Newcastle,,3.0,1.0,,,Detached,
+Gateshead,153800.0,2.0,1.0,459.0,,Semi-Detached,Yes
+Gateshead,179800.0,2.0,1.0,455.0,,Apartment,Yes
+Gateshead,115100.0,4.0,1.0,449.0,,Flat,No
+Newcastle,141400.0,3.0,1.0,447.0,,Flat,No
+Gateshead,164100.0,,2.0,427.0,,Semi-Detached,Yes
+Newcastle,247000.0,3.0,2.0,476.0,,,Yes
+Gateshead,199200.0,2.0,1.0,708.0,,,
+Gateshead,146500.0,1.0,1.0,545.0,,Terraced,Yes
+Newcastle,284900.0,3.0,1.0,436.0,,Detached,Yes
+Newcastle,281100.0,2.0,1.0,475.0,,Flat,No
+Morpeth,97300.0,4.0,1.0,436.0,,Semi-Detached,Yes
+Sunderland,67900.0,2.0,1.0,429.0,Freehold,Detached,No
+Sunderland,80000.0,2.0,1.0,481.0,,Detached,
+Morpeth,,2.0,,554.0,Freehold,Detached,
+Sunderland,,2.0,,809.0,,Apartment,Yes
+Gateshead,194500.0,2.0,1.0,471.0,,Detached,Yes
+Newcastle,214000.0,2.0,1.0,405.0,,Mansionette,
+Gateshead,205200.0,2.0,1.0,594.0,,Apartment,Yes
+,,2.0,2.0,472.0,Leasehold,Terraced,Yes
+Sunderland,96000.0,3.0,2.0,518.0,,Semi-Detached,Not Specified
+Newcastle,159900.0,2.0,1.0,432.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,160200.0,3.0,1.0,463.0,,Mansionette,Yes
+,,4.0,2.0,441.0,,Flat,
+Gateshead,154300.0,2.0,1.0,440.0,,,Not Specified
+Newcastle,236600.0,2.0,1.0,490.0,,Detached,Yes
+Gateshead,327000.0,1.0,2.0,1343.0,Freehold,Semi-Detached,Yes
+Newcastle,196300.0,3.0,1.0,437.0,Leasehold,Semi-Detached,
+Newcastle,83400.0,2.0,1.0,415.0,,Terraced,Yes
+Gateshead,98900.0,3.0,1.0,400.0,Leasehold,,Yes
+Newcastle,,3.0,,434.0,Leasehold,Flat,Yes
+,,2.0,1.0,,,,Yes
+,,2.0,1.0,486.0,Freehold,Flat,No
+Gateshead,194300.0,2.0,1.0,647.0,,Flat,Yes
+Newcastle,83100.0,3.0,1.0,401.0,Leasehold,Detached,Yes
+Consett,53400.0,1.0,1.0,471.0,Freehold,Mansionette,Yes
+Gateshead,147400.0,2.0,1.0,408.0,,Terraced,Not Specified
+,,2.0,1.0,427.0,,Terraced,Yes
+Gateshead,217900.0,2.0,2.0,429.0,,,Yes
+Gateshead,128100.0,3.0,1.0,405.0,,Detached,
+Gateshead,156600.0,2.0,2.0,417.0,,Apartment,
+Newcastle,319600.0,2.0,2.0,561.0,,Flat,Yes
+Gateshead,128500.0,1.0,1.0,435.0,,Detached,No
+Newcastle,266000.0,3.0,1.0,431.0,,Terraced,Yes
+Newcastle,158700.0,3.0,2.0,430.0,,Terraced,
+Gateshead,115800.0,2.0,1.0,406.0,,Terraced,Yes
+Newcastle,982000.0,2.0,1.0,1238.0,,Flat,Yes
+Newcastle,630900.0,2.0,1.0,1348.0,,Semi-Detached,No
+Newcastle,403700.0,5.0,1.0,427.0,,Flat,Yes
+Gateshead,142700.0,4.0,2.0,417.0,,Semi-Detached,
+Consett,61500.0,3.0,1.0,474.0,,Semi-Detached,Yes
+Gateshead,112700.0,3.0,1.0,464.0,,,Yes
+Gateshead,197600.0,2.0,1.0,480.0,Freehold,Detached,
+Newcastle,283600.0,3.0,1.0,830.0,,Terraced,Patio
+Gateshead,310400.0,3.0,1.0,1051.0,,Detached,Yes
+Morpeth,91100.0,1.0,1.0,565.0,Unknown,Detached,Yes
+Newcastle,170500.0,1.0,1.0,439.0,,Flat,Yes
+Gateshead,,4.0,,517.0,,Flat,Patio
+Newcastle,183400.0,,1.0,438.0,,Semi-Detached,Not Specified
+Sunderland,128900.0,4.0,1.0,425.0,Freehold,Mansionette,Not Specified
+Sunderland,,3.0,,462.0,Co-operative Society,Mansionette,No
+Sunderland,89500.0,2.0,1.0,470.0,Unknown,Semi-Detached,
+Gateshead,135700.0,3.0,2.0,426.0,Unknown,,Patio
+Gateshead,148500.0,2.0,1.0,409.0,,Flat,No
+Gateshead,166800.0,5.0,2.0,434.0,Freehold,,Yes
+Morpeth,137700.0,2.0,1.0,747.0,Freehold,Mansionette,Yes
+Gateshead,103100.0,4.0,1.0,423.0,,Terraced,Yes
+Gateshead,119100.0,4.0,1.0,471.0,,Mansionette,Yes
+Morpeth,43600.0,2.0,1.0,417.0,,,Yes
+Newcastle,,3.0,2.0,,,Semi-Detached,Yes
+Morpeth,,1.0,,586.0,Unknown,Not Specified,
+Newcastle,416000.0,2.0,1.0,701.0,,Not Specified,Not Specified
+Gateshead,,2.0,,413.0,Freehold,Not Specified,No
+Gateshead,153300.0,1.0,1.0,446.0,,Semi-Detached,Yes
+Newcastle,,4.0,1.0,,,Semi-Detached,Yes
+Gateshead,,3.0,,565.0,,Mansionette,Yes
+Gateshead,183800.0,4.0,1.0,415.0,,Flat,No
+Gateshead,145100.0,2.0,1.0,466.0,Freehold,Semi-Detached,Yes
+Morpeth,57600.0,3.0,1.0,439.0,,Flat,Yes
+Gateshead,193000.0,2.0,2.0,528.0,Freehold,Semi-Detached,Yes
+Newcastle,485800.0,2.0,1.0,1435.0,,Flat,Not Specified
+Newcastle,313000.0,1.0,1.0,663.0,,Semi-Detached,Not Specified
+Newcastle,144700.0,3.0,1.0,430.0,,Terraced,
+Newcastle,226500.0,3.0,1.0,445.0,Unknown,Detached,Yes
+Morpeth,,2.0,1.0,,,Semi-Detached,
+Newcastle,,3.0,1.0,,Leasehold,Terraced,
+Gateshead,145700.0,2.0,1.0,443.0,,Flat,Yes
+Gateshead,166200.0,2.0,1.0,488.0,,Flat,Yes
+Gateshead,139700.0,1.0,2.0,455.0,Co-operative Society,,Not Specified
+Newcastle,416600.0,2.0,1.0,646.0,Freehold,Detached,
+Morpeth,128900.0,2.0,1.0,625.0,Freehold,Not Specified,No
+Newcastle,223000.0,2.0,1.0,454.0,,Semi-Detached,No
+Newcastle,251600.0,3.0,1.0,441.0,,Terraced,Yes
+Gateshead,267600.0,4.0,1.0,889.0,Leasehold,Semi-Detached,Yes
+Gateshead,204800.0,1.0,1.0,509.0,,Apartment,Not Specified
+Newcastle,226600.0,2.0,1.0,470.0,Leasehold,Flat,Patio
+Newcastle,103900.0,2.0,1.0,425.0,,Detached,No
+Sunderland,86600.0,1.0,1.0,457.0,,Terraced,Yes
+Newcastle,302200.0,6.0,1.0,434.0,Unknown,Apartment,Yes
+Newcastle,,4.0,,405.0,,Semi-Detached,Yes
+Newcastle,321600.0,3.0,1.0,442.0,,Mansionette,Not Specified
+Newcastle,551300.0,3.0,2.0,913.0,,Flat,Yes
+Newcastle,125400.0,2.0,1.0,417.0,,Terraced,Not Specified
+Newcastle,265800.0,4.0,2.0,592.0,,Terraced,Yes
+Newcastle,153700.0,3.0,1.0,454.0,Unknown,Detached,Yes
+Sunderland,96500.0,2.0,2.0,482.0,Freehold,Mansionette,Yes
+Newcastle,,2.0,,973.0,,Detached,Yes
+Newcastle,241200.0,2.0,1.0,475.0,,,No
+Gateshead,109000.0,2.0,1.0,421.0,Leasehold,Terraced,No
+Gateshead,159400.0,2.0,1.0,438.0,Freehold,Flat,Yes
+Morpeth,151400.0,4.0,1.0,507.0,,Terraced,Yes
+Gateshead,,2.0,1.0,,,Detached,Yes
+Consett,58200.0,3.0,1.0,408.0,,Flat,
+Newcastle,182000.0,1.0,1.0,466.0,,Mansionette,Yes
+,,3.0,1.0,794.0,,,No
+Gateshead,139100.0,2.0,1.0,435.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,177600.0,2.0,1.0,457.0,Leasehold,,No
+Gateshead,,3.0,,530.0,,Semi-Detached,Yes
+Newcastle,247500.0,2.0,1.0,616.0,Freehold,Detached,Yes
+Gateshead,146200.0,2.0,1.0,429.0,,Detached,Yes
+Consett,85500.0,3.0,1.0,697.0,Freehold,Semi-Detached,Yes
+Gateshead,314700.0,2.0,1.0,849.0,,,Yes
+Gateshead,147300.0,3.0,1.0,433.0,Freehold,Semi-Detached,Yes
+Gateshead,152700.0,2.0,1.0,436.0,Leasehold,Terraced,Yes
+,,3.0,1.0,479.0,,Flat,No
+Gateshead,143400.0,3.0,1.0,444.0,Leasehold,Detached,Yes
+Gateshead,295000.0,4.0,1.0,675.0,,,Yes
+,,3.0,1.0,427.0,,,Yes
+Newcastle,174800.0,2.0,1.0,431.0,Freehold,,Yes
+Morpeth,86400.0,2.0,1.0,433.0,Leasehold,,Yes
+Gateshead,216200.0,1.0,2.0,498.0,,Flat,Not Specified
+Newcastle,402700.0,3.0,1.0,463.0,,Terraced,No
+Gateshead,129100.0,1.0,1.0,480.0,Freehold,,Not Specified
+Newcastle,252700.0,2.0,1.0,503.0,Leasehold,Semi-Detached,Yes
+Sunderland,83500.0,5.0,1.0,422.0,,,Yes
+Newcastle,384100.0,2.0,1.0,581.0,,,Yes
+Newcastle,123500.0,3.0,1.0,544.0,,Semi-Detached,Yes
+Newcastle,174500.0,4.0,1.0,469.0,,Terraced,Yes
+Gateshead,209300.0,1.0,1.0,528.0,,Semi-Detached,No
+Gateshead,131400.0,1.0,1.0,433.0,,Semi-Detached,No
+Gateshead,,1.0,2.0,,,Semi-Detached,No
+Gateshead,118400.0,2.0,1.0,408.0,Unknown,Semi-Detached,Not Specified
+Newcastle,99800.0,2.0,1.0,445.0,,Mansionette,Patio
+Gateshead,,3.0,,467.0,,Terraced,
+Gateshead,,5.0,1.0,,,Detached,Yes
+Sunderland,60800.0,3.0,1.0,475.0,,Mansionette,
+Newcastle,291600.0,3.0,1.0,516.0,,Semi-Detached,Yes
+Newcastle,230300.0,,2.0,434.0,,Flat,Yes
+Gateshead,139900.0,2.0,2.0,401.0,Leasehold,Flat,
+Newcastle,342000.0,1.0,1.0,618.0,,Semi-Detached,No
+Morpeth,164000.0,3.0,1.0,465.0,,Mansionette,Yes
+Consett,59200.0,2.0,1.0,491.0,,Semi-Detached,Yes
+Newcastle,646900.0,2.0,2.0,1359.0,Freehold,Mansionette,Patio
+Gateshead,137000.0,3.0,1.0,462.0,Freehold,Not Specified,No
+Gateshead,95800.0,3.0,1.0,430.0,,Terraced,No
+Newcastle,,2.0,,480.0,Freehold,Flat,
+Newcastle,168700.0,2.0,1.0,539.0,Leasehold,Flat,Yes
+Gateshead,186500.0,2.0,1.0,527.0,,,No
+Newcastle,226600.0,2.0,2.0,441.0,Unknown,Semi-Detached,Yes
+Newcastle,193600.0,2.0,1.0,462.0,,Terraced,
+Newcastle,195800.0,3.0,1.0,477.0,,Detached,
+Gateshead,179200.0,2.0,1.0,667.0,Leasehold,Not Specified,Not Specified
+Gateshead,,3.0,1.0,,,Mansionette,Not Specified
+Morpeth,81200.0,1.0,1.0,513.0,Leasehold,Mansionette,No
+Gateshead,136700.0,2.0,2.0,439.0,,Terraced,No
+Gateshead,210400.0,1.0,1.0,629.0,,Flat,No
+Gateshead,176900.0,3.0,1.0,431.0,Leasehold,Terraced,No
+Gateshead,167100.0,4.0,1.0,447.0,Leasehold,Semi-Detached,Yes
+Morpeth,,2.0,,,,Semi-Detached,Yes
+Newcastle,145300.0,3.0,1.0,439.0,Co-operative Society,Not Specified,Yes
+Newcastle,296800.0,3.0,1.0,490.0,Leasehold,Mansionette,
+Newcastle,151900.0,1.0,1.0,435.0,Leasehold,Terraced,No
+Newcastle,106600.0,,1.0,438.0,Leasehold,Semi-Detached,No
+Newcastle,468500.0,4.0,1.0,761.0,,Detached,
+Newcastle,140000.0,2.0,1.0,443.0,,Not Specified,Yes
+Gateshead,114200.0,1.0,1.0,423.0,,Terraced,
+Newcastle,425900.0,3.0,1.0,976.0,Freehold,Semi-Detached,Yes
+Gateshead,113300.0,3.0,1.0,409.0,,,Not Specified
+Newcastle,203900.0,2.0,1.0,471.0,Unknown,Detached,Yes
+Morpeth,75300.0,2.0,1.0,439.0,,Semi-Detached,Yes
+Sunderland,73400.0,5.0,1.0,528.0,Leasehold,Detached,Not Specified
+Newcastle,142100.0,2.0,1.0,420.0,,Terraced,
+Newcastle,130200.0,1.0,1.0,427.0,Unknown,,
+Newcastle,167500.0,3.0,1.0,440.0,,,Patio
+Sunderland,99300.0,2.0,1.0,431.0,Freehold,,Yes
+Morpeth,125200.0,2.0,1.0,456.0,Leasehold,Semi-Detached,
+Newcastle,485800.0,3.0,1.0,641.0,,Semi-Detached,Yes
+Newcastle,263900.0,4.0,1.0,475.0,Unknown,Flat,Patio
+Gateshead,,2.0,1.0,,,,No
+Gateshead,195200.0,4.0,1.0,442.0,,Semi-Detached,Not Specified
+Gateshead,198900.0,2.0,1.0,440.0,,Terraced,
+Gateshead,151600.0,3.0,1.0,533.0,Freehold,Semi-Detached,
+Gateshead,316200.0,3.0,1.0,1023.0,,,
+Gateshead,169100.0,2.0,1.0,449.0,Leasehold,Terraced,Yes
+Gateshead,165300.0,1.0,1.0,545.0,Freehold,Apartment,Not Specified
+Gateshead,130400.0,3.0,1.0,444.0,Leasehold,Flat,Yes
+Gateshead,210200.0,2.0,1.0,650.0,Co-operative Society,,Yes
+,,2.0,1.0,479.0,Unknown,Mansionette,Yes
+Gateshead,,2.0,,497.0,Leasehold,Detached,Yes
+Sunderland,341900.0,2.0,1.0,1665.0,Co-operative Society,Semi-Detached,Not Specified
+Newcastle,123100.0,2.0,1.0,419.0,Freehold,Semi-Detached,
+Newcastle,,2.0,2.0,,Unknown,Flat,
+Newcastle,367600.0,3.0,1.0,664.0,,,Yes
+Newcastle,432800.0,3.0,1.0,821.0,,Semi-Detached,Yes
+Gateshead,187000.0,4.0,1.0,406.0,Freehold,Semi-Detached,
+Newcastle,232500.0,2.0,1.0,420.0,,,Yes
+Gateshead,153300.0,1.0,1.0,444.0,Leasehold,Flat,No
+Gateshead,147200.0,1.0,2.0,586.0,,Not Specified,
+Gateshead,132800.0,2.0,1.0,432.0,,Flat,No
+,,4.0,1.0,550.0,Freehold,Flat,Not Specified
+Gateshead,196300.0,4.0,1.0,432.0,,Flat,No
+Gateshead,202600.0,2.0,1.0,621.0,,Detached,
+Newcastle,197700.0,3.0,1.0,419.0,Freehold,Detached,Yes
+Newcastle,219200.0,2.0,1.0,435.0,,Semi-Detached,Patio
+Gateshead,223200.0,1.0,1.0,499.0,,,Yes
+Gateshead,134700.0,1.0,1.0,445.0,Leasehold,Detached,
+Newcastle,171500.0,1.0,1.0,436.0,,Terraced,Patio
+Gateshead,122900.0,3.0,2.0,456.0,Unknown,Semi-Detached,Yes
+Newcastle,247600.0,2.0,1.0,526.0,Freehold,Not Specified,Not Specified
+Gateshead,,2.0,1.0,,,,Yes
+Gateshead,182500.0,2.0,1.0,454.0,,Not Specified,
+Gateshead,180100.0,1.0,1.0,651.0,Leasehold,Semi-Detached,Yes
+Newcastle,146600.0,2.0,1.0,461.0,,Detached,No
+Morpeth,151200.0,2.0,2.0,448.0,Leasehold,Semi-Detached,Yes
+Gateshead,165300.0,2.0,1.0,438.0,Freehold,Apartment,Yes
+Newcastle,140200.0,3.0,2.0,469.0,,,No
+Newcastle,,6.0,1.0,,,,No
+Morpeth,,1.0,,417.0,,Detached,Yes
+Gateshead,126500.0,1.0,1.0,435.0,Freehold,Flat,No
+Newcastle,228000.0,2.0,1.0,443.0,Leasehold,Terraced,Not Specified
+Sunderland,128700.0,2.0,2.0,604.0,,Semi-Detached,Yes
+Newcastle,225000.0,1.0,1.0,408.0,Leasehold,Terraced,Not Specified
+Morpeth,169300.0,2.0,1.0,842.0,Freehold,Flat,Yes
+Gateshead,179100.0,2.0,1.0,510.0,Leasehold,Semi-Detached,Yes
+Morpeth,165900.0,3.0,1.0,564.0,Leasehold,Terraced,Yes
+Gateshead,142600.0,2.0,1.0,411.0,,Detached,Yes
+Newcastle,278200.0,2.0,1.0,459.0,,Apartment,Yes
+Newcastle,141600.0,2.0,1.0,452.0,,Detached,Yes
+Gateshead,157000.0,2.0,1.0,416.0,,Apartment,Yes
+Morpeth,55400.0,3.0,1.0,419.0,Freehold,Detached,Not Specified
+Gateshead,219300.0,1.0,1.0,631.0,,Semi-Detached,Patio
+Gateshead,174200.0,5.0,1.0,493.0,,Terraced,
+Gateshead,167700.0,2.0,1.0,447.0,,Semi-Detached,Yes
+Newcastle,258700.0,2.0,0.0,449.0,,Terraced,No
+,,3.0,1.0,504.0,,Terraced,Yes
+Gateshead,149100.0,2.0,1.0,566.0,Leasehold,Terraced,Yes
+Newcastle,169700.0,4.0,1.0,453.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,243400.0,1.0,1.0,491.0,Unknown,Flat,
+Sunderland,,2.0,,427.0,,Terraced,Yes
+Newcastle,253800.0,4.0,1.0,443.0,Freehold,,Patio
+Gateshead,137100.0,5.0,1.0,405.0,Freehold,Terraced,Not Specified
+Gateshead,158800.0,4.0,1.0,451.0,,,Yes
+Sunderland,70300.0,,1.0,455.0,,Flat,
+Newcastle,335200.0,2.0,2.0,621.0,,Detached,Yes
+Gateshead,151800.0,3.0,2.0,473.0,Freehold,Not Specified,No
+Newcastle,208700.0,2.0,2.0,439.0,,Flat,Yes
+Newcastle,169100.0,1.0,1.0,444.0,,Semi-Detached,Not Specified
+Newcastle,192200.0,1.0,1.0,417.0,,Terraced,Patio
+Gateshead,145800.0,4.0,1.0,434.0,Freehold,Apartment,
+Newcastle,132700.0,3.0,1.0,428.0,,Semi-Detached,No
+Gateshead,174500.0,3.0,1.0,465.0,,Semi-Detached,Not Specified
+Sunderland,63500.0,4.0,1.0,573.0,,Terraced,Yes
+Newcastle,291000.0,5.0,1.0,411.0,Freehold,Terraced,Yes
+Newcastle,192900.0,2.0,1.0,620.0,,Terraced,Not Specified
+Newcastle,170700.0,2.0,1.0,418.0,,Detached,Yes
+Newcastle,,2.0,2.0,,,Flat,Not Specified
+Newcastle,163700.0,4.0,1.0,444.0,Leasehold,Mansionette,Yes
+Gateshead,141600.0,3.0,1.0,428.0,,Mansionette,Yes
+Gateshead,136000.0,2.0,2.0,419.0,,Detached,Patio
+Newcastle,206400.0,2.0,1.0,418.0,,Flat,Yes
+Newcastle,103800.0,1.0,1.0,478.0,,Terraced,Not Specified
+Gateshead,225300.0,4.0,1.0,752.0,,Mansionette,Yes
+Sunderland,115100.0,2.0,1.0,413.0,Freehold,Semi-Detached,Yes
+Gateshead,182600.0,3.0,1.0,460.0,,Terraced,Yes
+Sunderland,,1.0,1.0,,Co-operative Society,Flat,Yes
+Newcastle,207900.0,3.0,1.0,462.0,Freehold,Detached,No
+Newcastle,,3.0,2.0,,,Detached,No
+Newcastle,503000.0,1.0,1.0,1418.0,,Semi-Detached,Yes
+Gateshead,,2.0,,438.0,,Terraced,No
+Newcastle,208900.0,3.0,1.0,542.0,,Semi-Detached,
+Newcastle,155200.0,1.0,1.0,420.0,,Semi-Detached,No
+Newcastle,123300.0,2.0,1.0,418.0,,,Yes
+Newcastle,154500.0,,1.0,417.0,,Apartment,No
+Newcastle,141400.0,2.0,2.0,410.0,Leasehold,Terraced,Yes
+Gateshead,191700.0,2.0,1.0,469.0,Freehold,Terraced,No
+Newcastle,,1.0,1.0,,,Semi-Detached,Yes
+Consett,47300.0,2.0,1.0,438.0,Freehold,Semi-Detached,Yes
+Newcastle,108500.0,2.0,1.0,432.0,Co-operative Society,Terraced,No
+Newcastle,325400.0,4.0,1.0,508.0,Leasehold,Detached,
+Gateshead,,3.0,,426.0,,,
+Consett,105800.0,3.0,1.0,406.0,,Terraced,Yes
+Newcastle,119700.0,2.0,1.0,440.0,,Semi-Detached,Patio
+Gateshead,180100.0,2.0,1.0,463.0,,Terraced,No
+Newcastle,174000.0,5.0,1.0,457.0,,Terraced,Yes
+Gateshead,112400.0,2.0,1.0,417.0,,Terraced,Not Specified
+Gateshead,188300.0,2.0,1.0,522.0,,Detached,Yes
+Gateshead,164200.0,3.0,1.0,507.0,Freehold,Detached,Yes
+Sunderland,154100.0,2.0,1.0,921.0,,Detached,No
+Gateshead,143000.0,5.0,1.0,424.0,Leasehold,Terraced,Yes
+Newcastle,210100.0,3.0,1.0,436.0,,Detached,
+Gateshead,132300.0,2.0,1.0,531.0,,Terraced,
+Gateshead,168400.0,2.0,2.0,451.0,,Terraced,No
+Gateshead,115500.0,2.0,1.0,442.0,,Semi-Detached,Patio
+Newcastle,268500.0,3.0,1.0,542.0,,,Not Specified
+Newcastle,165800.0,3.0,1.0,444.0,Unknown,Semi-Detached,Yes
+,,3.0,1.0,445.0,,Semi-Detached,Yes
+Gateshead,191700.0,4.0,2.0,523.0,Unknown,Flat,Yes
+Gateshead,122100.0,4.0,1.0,429.0,,Semi-Detached,No
+Newcastle,190700.0,2.0,1.0,445.0,,,Yes
+Gateshead,124800.0,2.0,2.0,435.0,,Detached,
+Sunderland,143400.0,3.0,1.0,631.0,,Not Specified,Yes
+Sunderland,98300.0,1.0,1.0,434.0,Freehold,Mansionette,Yes
+Gateshead,185600.0,2.0,1.0,552.0,Leasehold,Not Specified,Yes
+Newcastle,116800.0,3.0,1.0,558.0,,Semi-Detached,No
+,,3.0,1.0,1284.0,Freehold,,Not Specified
+Gateshead,156800.0,3.0,1.0,508.0,Co-operative Society,,Not Specified
+Gateshead,121800.0,1.0,1.0,432.0,,Semi-Detached,Yes
+Newcastle,107100.0,1.0,1.0,432.0,,Flat,Yes
+Morpeth,101500.0,2.0,1.0,432.0,Freehold,,Yes
+Newcastle,175600.0,2.0,1.0,459.0,,Apartment,No
+Newcastle,207700.0,3.0,1.0,496.0,Unknown,Terraced,Yes
+Gateshead,,2.0,1.0,,,Terraced,No
+Newcastle,243700.0,2.0,1.0,432.0,Freehold,Semi-Detached,
+Newcastle,131900.0,2.0,2.0,426.0,,Apartment,Yes
+,,2.0,2.0,500.0,Co-operative Society,Apartment,Yes
+Gateshead,178600.0,2.0,1.0,442.0,,Detached,Not Specified
+Newcastle,243800.0,1.0,1.0,453.0,Freehold,Detached,Yes
+Gateshead,170600.0,2.0,1.0,461.0,,Terraced,Yes
+Gateshead,,2.0,,503.0,Freehold,Detached,No
+Newcastle,246200.0,,1.0,444.0,,Flat,Yes
+Gateshead,138400.0,3.0,1.0,419.0,,,
+Morpeth,87500.0,2.0,2.0,438.0,,,Yes
+Newcastle,196900.0,4.0,1.0,540.0,Unknown,Apartment,Yes
+Sunderland,105500.0,2.0,1.0,530.0,Unknown,Flat,No
+Gateshead,143900.0,2.0,1.0,440.0,,Semi-Detached,
+Gateshead,171700.0,2.0,1.0,441.0,,,Yes
+Newcastle,277800.0,3.0,1.0,449.0,,Terraced,Patio
+Sunderland,76500.0,,1.0,441.0,,Semi-Detached,No
+Newcastle,324900.0,3.0,2.0,632.0,,Detached,Yes
+Morpeth,95100.0,2.0,1.0,427.0,,Mansionette,Yes
+Morpeth,69200.0,3.0,1.0,451.0,,Semi-Detached,No
+Gateshead,147400.0,2.0,1.0,463.0,,Flat,No
+Newcastle,110000.0,3.0,1.0,426.0,,Flat,Yes
+Newcastle,198300.0,3.0,2.0,527.0,,Terraced,
+Gateshead,,2.0,,401.0,Freehold,Not Specified,Yes
+Newcastle,190800.0,3.0,2.0,408.0,,Semi-Detached,No
+Gateshead,164700.0,3.0,1.0,456.0,,,Yes
+Newcastle,249200.0,3.0,1.0,446.0,,Mansionette,No
+Newcastle,,2.0,,422.0,,Semi-Detached,
+Newcastle,184400.0,2.0,1.0,498.0,,Detached,No
+Newcastle,,1.0,1.0,,Freehold,Detached,Not Specified
+Newcastle,,3.0,,433.0,,Apartment,Yes
+Gateshead,319700.0,3.0,1.0,1062.0,,Detached,No
+Gateshead,170100.0,4.0,1.0,564.0,Unknown,Terraced,
+Newcastle,261500.0,3.0,1.0,441.0,,Semi-Detached,No
+Morpeth,97500.0,3.0,1.0,428.0,Freehold,Apartment,
+,,2.0,1.0,488.0,,Flat,No
+Morpeth,83100.0,5.0,1.0,426.0,,Detached,Not Specified
+Gateshead,157700.0,2.0,1.0,469.0,,Semi-Detached,Yes
+Gateshead,193900.0,3.0,1.0,437.0,,Terraced,Not Specified
+Gateshead,184700.0,2.0,1.0,469.0,Co-operative Society,,Not Specified
+Sunderland,118400.0,3.0,1.0,447.0,,Flat,Yes
+Newcastle,85200.0,3.0,1.0,450.0,Freehold,,Yes
+Gateshead,,2.0,1.0,,,Terraced,Yes
+Sunderland,64700.0,2.0,1.0,430.0,Freehold,Flat,No
+Gateshead,150100.0,4.0,1.0,438.0,Freehold,Detached,Yes
+Newcastle,621500.0,2.0,1.0,954.0,,Apartment,No
+Newcastle,298300.0,2.0,1.0,423.0,Freehold,Apartment,Yes
+Newcastle,116900.0,2.0,1.0,407.0,,,
+Newcastle,305800.0,3.0,1.0,434.0,Leasehold,Terraced,Yes
+Gateshead,196100.0,2.0,2.0,624.0,,Flat,Yes
+,,2.0,2.0,507.0,,Semi-Detached,Yes
+Gateshead,124900.0,2.0,2.0,428.0,,Terraced,Yes
+Gateshead,141700.0,2.0,1.0,408.0,,Semi-Detached,Not Specified
+Newcastle,349300.0,2.0,1.0,469.0,,Mansionette,Yes
+Newcastle,181500.0,5.0,1.0,416.0,Co-operative Society,,No
+Gateshead,154600.0,2.0,1.0,480.0,Freehold,Flat,Yes
+Gateshead,184700.0,3.0,1.0,431.0,,Apartment,
+Newcastle,228200.0,1.0,1.0,473.0,Freehold,Semi-Detached,Yes
+Gateshead,154800.0,1.0,1.0,440.0,Freehold,Semi-Detached,Yes
+Sunderland,63300.0,4.0,1.0,413.0,,Flat,Yes
+Gateshead,389900.0,2.0,1.0,1146.0,,Apartment,Yes
+Newcastle,645700.0,2.0,1.0,1143.0,Leasehold,Not Specified,Yes
+Newcastle,175500.0,2.0,1.0,448.0,,Flat,Yes
+Newcastle,128900.0,2.0,1.0,428.0,Freehold,Not Specified,Yes
+Sunderland,,2.0,1.0,,,Not Specified,Yes
+Newcastle,190300.0,1.0,2.0,466.0,,,Yes
+Sunderland,68300.0,2.0,1.0,461.0,,Detached,Patio
+Gateshead,148700.0,3.0,1.0,411.0,,Detached,Yes
+Gateshead,,2.0,2.0,,,Detached,Not Specified
+Gateshead,173200.0,2.0,1.0,450.0,,Terraced,No
+Newcastle,195900.0,1.0,1.0,562.0,,Not Specified,Yes
+Gateshead,194900.0,3.0,2.0,463.0,Freehold,Flat,
+Newcastle,180100.0,2.0,1.0,458.0,,Semi-Detached,Yes
+Newcastle,223500.0,2.0,1.0,422.0,Leasehold,,No
+Gateshead,,1.0,1.0,,,Flat,No
+,,1.0,1.0,,,Not Specified,Yes
+Gateshead,99300.0,2.0,1.0,403.0,,Semi-Detached,Yes
+Newcastle,139700.0,2.0,1.0,442.0,Co-operative Society,Semi-Detached,Yes
+Newcastle,193600.0,1.0,2.0,427.0,,Flat,Yes
+Gateshead,157900.0,4.0,1.0,433.0,,Flat,Not Specified
+Gateshead,141300.0,3.0,1.0,464.0,,,Yes
+Newcastle,200300.0,3.0,1.0,441.0,Freehold,Semi-Detached,Yes
+Sunderland,114800.0,3.0,1.0,467.0,Freehold,Detached,
+Newcastle,146600.0,2.0,1.0,437.0,,Detached,No
+Morpeth,79500.0,2.0,1.0,437.0,,,Yes
+Morpeth,59000.0,2.0,2.0,473.0,,Semi-Detached,Yes
+Gateshead,172500.0,1.0,1.0,442.0,Freehold,Flat,No
+Gateshead,123300.0,1.0,1.0,429.0,,Detached,Not Specified
+Gateshead,218300.0,1.0,1.0,539.0,,Semi-Detached,No
+Newcastle,245900.0,3.0,2.0,514.0,,Semi-Detached,No
+Gateshead,190800.0,2.0,1.0,451.0,Unknown,Flat,Yes
+Gateshead,167000.0,1.0,1.0,431.0,Freehold,Not Specified,Yes
+Gateshead,118600.0,2.0,1.0,416.0,,Semi-Detached,Yes
+Sunderland,111600.0,3.0,1.0,646.0,,,
+Gateshead,,4.0,1.0,,,Flat,Yes
+Gateshead,139200.0,2.0,1.0,440.0,,Apartment,Yes
+Newcastle,,5.0,1.0,,Freehold,Semi-Detached,Yes
+Gateshead,224300.0,2.0,1.0,780.0,,Terraced,No
+,,3.0,1.0,485.0,,Flat,Yes
+Gateshead,154100.0,4.0,1.0,442.0,Leasehold,Terraced,Yes
+Gateshead,173200.0,2.0,2.0,569.0,,Semi-Detached,No
+Newcastle,181800.0,3.0,2.0,456.0,,Terraced,Not Specified
+Newcastle,,4.0,1.0,,Co-operative Society,,Yes
+Gateshead,,3.0,1.0,,,Detached,No
+Gateshead,144500.0,2.0,1.0,477.0,,Terraced,Yes
+Newcastle,216000.0,2.0,2.0,427.0,Leasehold,Apartment,Yes
+Newcastle,154900.0,2.0,1.0,403.0,Co-operative Society,Semi-Detached,Not Specified
+Newcastle,349400.0,4.0,1.0,641.0,Leasehold,Semi-Detached,Yes
+Gateshead,122600.0,3.0,1.0,431.0,,Mansionette,Yes
+Newcastle,192100.0,4.0,1.0,500.0,,Semi-Detached,
+Gateshead,195800.0,2.0,1.0,501.0,,Semi-Detached,Yes
+Newcastle,301600.0,3.0,2.0,445.0,,Apartment,No
+Gateshead,132100.0,1.0,1.0,402.0,,Flat,Patio
+Gateshead,145800.0,2.0,1.0,559.0,Freehold,Terraced,No
+Newcastle,152300.0,2.0,1.0,437.0,Co-operative Society,Flat,Patio
+Gateshead,129100.0,2.0,1.0,412.0,,Not Specified,Yes
+Morpeth,32000.0,3.0,1.0,449.0,Leasehold,Not Specified,Yes
+Gateshead,215500.0,2.0,1.0,455.0,,Semi-Detached,Not Specified
+,,1.0,1.0,557.0,Leasehold,Detached,Yes
+Sunderland,98800.0,3.0,1.0,690.0,,Flat,Yes
+Newcastle,371700.0,2.0,2.0,561.0,,Detached,No
+Newcastle,275200.0,3.0,1.0,444.0,,Terraced,
+Newcastle,301400.0,2.0,1.0,499.0,,Terraced,Yes
+Newcastle,214700.0,2.0,1.0,459.0,,,Yes
+Newcastle,201700.0,3.0,1.0,514.0,Freehold,Terraced,No
+Newcastle,,4.0,,414.0,Co-operative Society,Terraced,Yes
+Morpeth,223700.0,3.0,1.0,447.0,Freehold,Apartment,No
+Gateshead,,3.0,,422.0,Co-operative Society,Detached,Patio
+Sunderland,126000.0,1.0,1.0,463.0,,Semi-Detached,Not Specified
+Newcastle,902200.0,3.0,1.0,1188.0,,Semi-Detached,Yes
+Sunderland,107100.0,4.0,1.0,433.0,Leasehold,Terraced,Yes
+Morpeth,113100.0,1.0,1.0,501.0,,Semi-Detached,Yes
+Gateshead,,3.0,1.0,,Freehold,Flat,
+Gateshead,121100.0,2.0,1.0,413.0,,Semi-Detached,Yes
+,,2.0,1.0,538.0,Leasehold,Detached,Yes
+Gateshead,178400.0,4.0,1.0,438.0,Leasehold,Not Specified,Yes
+Gateshead,190400.0,1.0,1.0,463.0,,Mansionette,Yes
+Sunderland,88200.0,5.0,1.0,504.0,Freehold,Semi-Detached,Yes
+Gateshead,193500.0,1.0,1.0,499.0,,Terraced,Not Specified
+Newcastle,,2.0,1.0,,,Semi-Detached,No
+Gateshead,144800.0,2.0,1.0,444.0,Freehold,Semi-Detached,
+Sunderland,,1.0,1.0,,Unknown,,Not Specified
+Newcastle,197700.0,1.0,1.0,440.0,,,Yes
+Newcastle,170800.0,3.0,1.0,436.0,,Semi-Detached,No
+Newcastle,261800.0,1.0,1.0,404.0,Freehold,Terraced,Yes
+Morpeth,,2.0,1.0,,,Flat,Yes
+Gateshead,128400.0,2.0,1.0,445.0,,,
+Gateshead,,3.0,1.0,,,Terraced,Patio
+Gateshead,227500.0,1.0,1.0,439.0,Freehold,Flat,
+Newcastle,199100.0,,1.0,442.0,,Semi-Detached,Yes
+Newcastle,182100.0,4.0,1.0,409.0,Freehold,Semi-Detached,Yes
+Newcastle,226000.0,2.0,1.0,433.0,,Semi-Detached,Yes
+Newcastle,301800.0,2.0,1.0,427.0,,Apartment,Patio
+Gateshead,131600.0,3.0,1.0,439.0,,Flat,Yes
+Gateshead,133700.0,2.0,1.0,414.0,,Semi-Detached,Not Specified
+Gateshead,209200.0,3.0,1.0,505.0,,Semi-Detached,Yes
+Newcastle,437900.0,2.0,1.0,774.0,,,Yes
+,,2.0,1.0,486.0,,Flat,Yes
+Gateshead,141900.0,2.0,2.0,443.0,,Flat,No
+Sunderland,,2.0,,,,Detached,Yes
+Gateshead,188800.0,2.0,1.0,538.0,Freehold,,No
+Gateshead,185900.0,1.0,1.0,428.0,,Terraced,Yes
+Gateshead,165600.0,2.0,2.0,516.0,,Semi-Detached,Patio
+Newcastle,204000.0,2.0,1.0,436.0,,Detached,Yes
+Morpeth,71600.0,2.0,1.0,682.0,,Detached,Yes
+Gateshead,137200.0,2.0,1.0,429.0,Freehold,Mansionette,No
+Newcastle,284500.0,3.0,1.0,465.0,,,
+Newcastle,138100.0,1.0,1.0,448.0,Freehold,,Yes
+Gateshead,182400.0,1.0,1.0,553.0,Leasehold,Mansionette,Yes
+Gateshead,161900.0,2.0,1.0,490.0,Freehold,Terraced,No
+Gateshead,164500.0,1.0,1.0,426.0,,,Yes
+Newcastle,251800.0,3.0,1.0,421.0,Freehold,,Yes
+,,3.0,1.0,448.0,,Mansionette,Yes
+Gateshead,177800.0,2.0,2.0,464.0,,Flat,Not Specified
+Gateshead,183400.0,3.0,1.0,473.0,Freehold,Detached,No
+Gateshead,,2.0,,449.0,Leasehold,Flat,No
+Newcastle,187600.0,3.0,1.0,426.0,,Semi-Detached,Yes
+Sunderland,81400.0,2.0,1.0,510.0,,Terraced,Yes
+Gateshead,198500.0,4.0,2.0,444.0,,Apartment,Yes
+Newcastle,133300.0,3.0,1.0,403.0,,Semi-Detached,Yes
+Gateshead,189200.0,2.0,2.0,482.0,,Not Specified,No
+Newcastle,221800.0,2.0,1.0,424.0,Freehold,Semi-Detached,Yes
+Newcastle,326600.0,2.0,1.0,539.0,Co-operative Society,,Not Specified
+Newcastle,163100.0,2.0,1.0,421.0,,Terraced,Yes
+Gateshead,179700.0,3.0,1.0,502.0,,Semi-Detached,
+Gateshead,127200.0,2.0,1.0,424.0,Co-operative Society,,Patio
+Newcastle,294800.0,2.0,1.0,748.0,Unknown,Semi-Detached,
+Newcastle,174800.0,1.0,1.0,465.0,,Apartment,Yes
+Newcastle,160300.0,2.0,1.0,483.0,Co-operative Society,Apartment,No
+Gateshead,,2.0,1.0,,,Semi-Detached,No
+Gateshead,171100.0,2.0,1.0,438.0,,Terraced,Patio
+Gateshead,222100.0,1.0,1.0,605.0,,,Yes
+Gateshead,164400.0,5.0,1.0,439.0,,Terraced,Yes
+Sunderland,64200.0,2.0,1.0,473.0,,Semi-Detached,Not Specified
+Gateshead,156400.0,2.0,2.0,454.0,,Semi-Detached,Yes
+Gateshead,118400.0,2.0,1.0,449.0,Leasehold,Semi-Detached,
+Gateshead,134700.0,2.0,1.0,425.0,Freehold,Detached,
+Newcastle,253500.0,3.0,1.0,446.0,,Mansionette,
+Newcastle,141500.0,3.0,1.0,435.0,,Apartment,Yes
+,,3.0,1.0,451.0,Leasehold,Detached,Not Specified
+Gateshead,283700.0,3.0,1.0,883.0,,,No
+Gateshead,326600.0,1.0,1.0,1039.0,,Detached,Yes
+Gateshead,147200.0,3.0,1.0,485.0,,Flat,Yes
+Gateshead,,3.0,1.0,,,Apartment,Yes
+Newcastle,225800.0,2.0,1.0,455.0,,Semi-Detached,Not Specified
+Gateshead,119400.0,2.0,1.0,448.0,Freehold,Semi-Detached,Yes
+Newcastle,226700.0,1.0,1.0,435.0,Freehold,Semi-Detached,Not Specified
+Newcastle,121000.0,3.0,1.0,437.0,Freehold,Semi-Detached,Yes
+Gateshead,150300.0,4.0,2.0,463.0,,Terraced,
+Gateshead,144700.0,1.0,1.0,526.0,Freehold,Semi-Detached,
+Gateshead,153500.0,2.0,2.0,431.0,,Semi-Detached,Yes
+Gateshead,1551400.0,2.0,1.0,4578.0,Leasehold,Semi-Detached,
+Newcastle,241100.0,3.0,1.0,445.0,Co-operative Society,Semi-Detached,Yes
+Gateshead,256700.0,2.0,1.0,572.0,Leasehold,Mansionette,Yes
+Consett,41400.0,3.0,1.0,410.0,,Terraced,No
+Gateshead,115900.0,2.0,1.0,425.0,Freehold,,Patio
+Gateshead,168600.0,1.0,1.0,520.0,Unknown,,Yes
+Gateshead,111000.0,2.0,1.0,475.0,Leasehold,Semi-Detached,Yes
+Newcastle,163700.0,2.0,1.0,422.0,Leasehold,Semi-Detached,Patio
+Newcastle,225600.0,3.0,1.0,420.0,Leasehold,Semi-Detached,No
+,,2.0,1.0,607.0,Freehold,Mansionette,Not Specified
+Gateshead,442800.0,2.0,1.0,1366.0,Unknown,Semi-Detached,Yes
+Sunderland,74500.0,1.0,2.0,427.0,Freehold,Terraced,Yes
+Gateshead,155000.0,2.0,2.0,450.0,,Semi-Detached,
+Newcastle,502600.0,3.0,2.0,817.0,,Not Specified,Yes
+Gateshead,123700.0,2.0,1.0,411.0,,Semi-Detached,Yes
+Gateshead,102400.0,1.0,1.0,439.0,,Flat,Yes
+Consett,,2.0,,411.0,,Detached,Yes
+Gateshead,159600.0,2.0,1.0,559.0,,Not Specified,
+Gateshead,319800.0,2.0,1.0,844.0,,Terraced,Patio
+Newcastle,192500.0,3.0,2.0,496.0,,,Yes
+Gateshead,165600.0,3.0,1.0,428.0,Leasehold,Flat,Yes
+Gateshead,113700.0,1.0,1.0,412.0,,Not Specified,No
+Gateshead,215000.0,2.0,1.0,713.0,,Semi-Detached,Yes
+Sunderland,81600.0,2.0,1.0,565.0,,Terraced,Yes
+Gateshead,141800.0,2.0,2.0,418.0,Freehold,Terraced,No
+Gateshead,149000.0,3.0,1.0,409.0,,Semi-Detached,Yes
+Gateshead,149600.0,2.0,1.0,525.0,Leasehold,,Yes
+Morpeth,91700.0,2.0,1.0,436.0,,Apartment,No
+Gateshead,176200.0,3.0,1.0,491.0,Freehold,Apartment,Yes
+Sunderland,105200.0,2.0,1.0,411.0,,Detached,Yes
+Newcastle,177300.0,2.0,2.0,522.0,Leasehold,Terraced,Yes
+Newcastle,224500.0,3.0,2.0,443.0,Freehold,Mansionette,
+Consett,42800.0,3.0,1.0,514.0,,,Yes
+Newcastle,306700.0,2.0,1.0,441.0,,Semi-Detached,Yes
+Newcastle,210400.0,3.0,1.0,618.0,Co-operative Society,Semi-Detached,Yes
+Sunderland,,2.0,,505.0,,Mansionette,
+Gateshead,144300.0,2.0,1.0,414.0,,,Yes
+Gateshead,152100.0,1.0,1.0,458.0,,Terraced,
+Gateshead,173500.0,2.0,2.0,424.0,,Not Specified,
+Gateshead,256500.0,2.0,1.0,760.0,,Mansionette,Yes
+Newcastle,294100.0,3.0,1.0,469.0,,Semi-Detached,Yes
+Newcastle,172500.0,3.0,1.0,479.0,,Semi-Detached,Yes
+Sunderland,,1.0,1.0,,Freehold,Semi-Detached,Yes
+Newcastle,528300.0,3.0,1.0,434.0,,Apartment,No
+Newcastle,309700.0,2.0,1.0,536.0,,Semi-Detached,Yes
+Gateshead,143800.0,1.0,1.0,427.0,Freehold,Not Specified,
+Morpeth,62900.0,2.0,1.0,453.0,Freehold,Semi-Detached,Yes
+Sunderland,96900.0,,1.0,470.0,,Flat,Not Specified
+Gateshead,408300.0,2.0,1.0,1089.0,Freehold,Detached,Yes
+Newcastle,189300.0,2.0,1.0,415.0,,Detached,No
+Gateshead,218000.0,3.0,1.0,602.0,,Mansionette,Patio
+Sunderland,86300.0,,1.0,748.0,,Apartment,
+Gateshead,130500.0,2.0,1.0,448.0,Freehold,Flat,No
+Gateshead,124100.0,2.0,1.0,418.0,,Flat,Yes
+Newcastle,149000.0,2.0,1.0,428.0,,Apartment,Yes
+Newcastle,171800.0,,1.0,443.0,Freehold,Semi-Detached,Yes
+Gateshead,175700.0,1.0,1.0,481.0,,,Yes
+Gateshead,110400.0,1.0,1.0,439.0,Unknown,Semi-Detached,Not Specified
+Gateshead,162600.0,3.0,2.0,479.0,,,Yes
+Gateshead,,1.0,2.0,,,Semi-Detached,Not Specified
+Newcastle,214900.0,2.0,2.0,452.0,Leasehold,,Yes
+Morpeth,66600.0,2.0,1.0,482.0,Leasehold,Not Specified,Yes
+Gateshead,,2.0,,625.0,,Terraced,No
+Sunderland,71100.0,2.0,2.0,442.0,Leasehold,Semi-Detached,Not Specified
+Sunderland,85800.0,2.0,1.0,457.0,,Terraced,Yes
+Gateshead,165000.0,2.0,1.0,522.0,,Semi-Detached,Yes
+Newcastle,216800.0,3.0,1.0,442.0,Freehold,Terraced,Yes
+,,2.0,1.0,,,Semi-Detached,Yes
+Morpeth,87600.0,,1.0,423.0,,Apartment,No
+Gateshead,147400.0,1.0,1.0,500.0,Leasehold,Semi-Detached,Yes
+Newcastle,325100.0,2.0,1.0,787.0,,Terraced,No
+Newcastle,183100.0,2.0,1.0,408.0,,Semi-Detached,No
+Newcastle,141300.0,2.0,1.0,435.0,Leasehold,Apartment,No
+Sunderland,67200.0,2.0,1.0,402.0,,Semi-Detached,
+Gateshead,105500.0,3.0,1.0,429.0,,Semi-Detached,Yes
+Newcastle,230300.0,2.0,1.0,427.0,,Apartment,No
+Sunderland,83100.0,1.0,1.0,447.0,Freehold,Detached,No
+Gateshead,161300.0,2.0,1.0,451.0,,Semi-Detached,No
+,,2.0,1.0,493.0,,Detached,Patio
+Gateshead,,3.0,1.0,,,Mansionette,Yes
+Gateshead,226400.0,2.0,1.0,678.0,,Semi-Detached,
+Newcastle,153400.0,2.0,1.0,408.0,,Semi-Detached,No
+,,2.0,1.0,462.0,,Mansionette,Yes
+Newcastle,235000.0,2.0,1.0,478.0,,Detached,Not Specified
+Morpeth,97900.0,2.0,1.0,496.0,Freehold,Detached,Yes
+Gateshead,212700.0,4.0,1.0,504.0,,Terraced,Patio
+Newcastle,,,1.0,,,,
+Gateshead,,3.0,,456.0,Freehold,Apartment,No
+Newcastle,227700.0,3.0,1.0,459.0,Co-operative Society,Not Specified,
+Gateshead,128600.0,2.0,2.0,419.0,Freehold,,Yes
+Newcastle,192100.0,1.0,1.0,453.0,,Semi-Detached,
+Sunderland,70100.0,1.0,1.0,403.0,Freehold,,Patio
+Sunderland,101000.0,2.0,1.0,611.0,,Detached,No
+Morpeth,82900.0,2.0,1.0,417.0,,Terraced,Yes
+Newcastle,201400.0,1.0,1.0,459.0,,Semi-Detached,No
+,,6.0,1.0,420.0,,Terraced,Yes
+Newcastle,114900.0,3.0,1.0,440.0,Leasehold,Terraced,Yes
+Newcastle,280200.0,3.0,2.0,465.0,,,Yes
+Gateshead,130300.0,2.0,1.0,453.0,Co-operative Society,Mansionette,Yes
+Gateshead,151100.0,2.0,1.0,414.0,,Semi-Detached,No
+Newcastle,,2.0,,627.0,,Semi-Detached,Patio
+Newcastle,195900.0,4.0,2.0,421.0,,Detached,
+Morpeth,58700.0,2.0,1.0,458.0,,Semi-Detached,Yes
+Newcastle,,6.0,1.0,,,,No
+Gateshead,156400.0,1.0,1.0,439.0,Freehold,Semi-Detached,Yes
+Newcastle,330000.0,3.0,1.0,638.0,,,Not Specified
+Gateshead,165600.0,2.0,1.0,410.0,,Flat,
+Newcastle,,2.0,,531.0,,Detached,
+Gateshead,128300.0,1.0,1.0,445.0,,Semi-Detached,Yes
+Newcastle,213000.0,1.0,1.0,532.0,Freehold,Semi-Detached,No
+Gateshead,186100.0,4.0,1.0,480.0,Co-operative Society,Not Specified,Yes
+Gateshead,154600.0,3.0,1.0,411.0,Freehold,Apartment,Yes
+Newcastle,183500.0,3.0,1.0,420.0,Freehold,Not Specified,Yes
+Gateshead,124800.0,2.0,1.0,455.0,Unknown,Not Specified,Yes
+Newcastle,199700.0,2.0,1.0,450.0,,Semi-Detached,Yes
+Newcastle,191000.0,2.0,1.0,418.0,,Detached,Not Specified
+Newcastle,136600.0,1.0,1.0,426.0,Unknown,Detached,Yes
+Newcastle,,2.0,,480.0,Freehold,Semi-Detached,No
+Gateshead,134800.0,2.0,2.0,410.0,Leasehold,Detached,
+Gateshead,119900.0,2.0,1.0,512.0,,,Yes
+Newcastle,344000.0,2.0,1.0,562.0,,Detached,Yes
+Newcastle,126200.0,2.0,1.0,456.0,Leasehold,Terraced,Yes
+Gateshead,176500.0,4.0,1.0,436.0,,Terraced,Yes
+Newcastle,154800.0,3.0,1.0,447.0,,Detached,Patio
+Newcastle,174500.0,1.0,2.0,487.0,,Semi-Detached,
+Gateshead,110600.0,3.0,1.0,439.0,,Not Specified,
+,,3.0,1.0,523.0,Freehold,Terraced,Yes
+Sunderland,150500.0,4.0,1.0,1139.0,,Detached,Yes
+Gateshead,160100.0,2.0,2.0,431.0,,Terraced,Yes
+Newcastle,174900.0,3.0,1.0,422.0,,Detached,Yes
+Gateshead,170900.0,2.0,1.0,423.0,Freehold,Terraced,Not Specified
+Newcastle,293900.0,3.0,1.0,618.0,,Terraced,Yes
+Gateshead,,2.0,1.0,,Freehold,Terraced,No
+Newcastle,297300.0,1.0,1.0,445.0,Freehold,Terraced,No
+,,2.0,1.0,,Co-operative Society,Semi-Detached,Yes
+Morpeth,69100.0,2.0,2.0,445.0,,Semi-Detached,Yes
+Newcastle,173400.0,1.0,1.0,468.0,,Semi-Detached,
+Gateshead,222600.0,2.0,1.0,717.0,Co-operative Society,,Yes
+Gateshead,131300.0,1.0,1.0,451.0,,,No
+Sunderland,82600.0,2.0,1.0,479.0,,Apartment,No
+Gateshead,167600.0,2.0,1.0,435.0,Freehold,Semi-Detached,Yes
+Gateshead,232900.0,5.0,2.0,469.0,,Terraced,
+Consett,118200.0,4.0,1.0,488.0,Unknown,Detached,No
+,,2.0,2.0,420.0,Freehold,Terraced,Yes
+Gateshead,170900.0,3.0,1.0,415.0,,Not Specified,Yes
+,,1.0,1.0,532.0,,Semi-Detached,Yes
+Newcastle,182100.0,2.0,1.0,417.0,,Terraced,
+Gateshead,160200.0,4.0,1.0,446.0,,Semi-Detached,No
+Gateshead,164200.0,2.0,1.0,486.0,Co-operative Society,Semi-Detached,No
+Newcastle,234300.0,4.0,1.0,437.0,,Not Specified,Yes
+Newcastle,193600.0,2.0,1.0,489.0,,Terraced,
+,,3.0,1.0,479.0,,Flat,Yes
+Newcastle,235500.0,2.0,2.0,553.0,,Semi-Detached,No
+Newcastle,242300.0,3.0,1.0,462.0,,Terraced,Yes
+Newcastle,241900.0,2.0,2.0,671.0,,Terraced,Not Specified
+,,2.0,1.0,670.0,,,
+Gateshead,,3.0,,423.0,Leasehold,Semi-Detached,Yes
+Gateshead,139800.0,2.0,1.0,467.0,,Terraced,Yes
+,,4.0,1.0,416.0,,Flat,Patio
+Gateshead,149300.0,2.0,1.0,420.0,Leasehold,,Yes
+Newcastle,,5.0,2.0,,,Semi-Detached,Yes
+Sunderland,134600.0,4.0,2.0,691.0,Unknown,Detached,Yes
+Gateshead,165300.0,2.0,2.0,431.0,,Terraced,Yes
+Newcastle,177100.0,2.0,1.0,410.0,,Semi-Detached,Yes
+Gateshead,162300.0,2.0,1.0,446.0,,Semi-Detached,Yes
+Newcastle,235500.0,4.0,1.0,399.0,Freehold,Flat,No
+Newcastle,172900.0,3.0,1.0,440.0,,Detached,Yes
+Morpeth,111500.0,5.0,1.0,418.0,,Terraced,Yes
+Newcastle,167700.0,3.0,1.0,444.0,,Semi-Detached,Yes
+Gateshead,180400.0,2.0,1.0,542.0,Leasehold,Detached,No
+Gateshead,103800.0,2.0,1.0,429.0,,,Not Specified
+,,1.0,1.0,443.0,,Apartment,
+Gateshead,158700.0,2.0,2.0,472.0,Co-operative Society,Flat,Yes
+Newcastle,,4.0,1.0,,Co-operative Society,Semi-Detached,No
+Sunderland,,4.0,1.0,,Freehold,Apartment,
+Newcastle,268700.0,2.0,1.0,719.0,Freehold,Semi-Detached,Patio
