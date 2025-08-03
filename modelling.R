@@ -3,13 +3,17 @@ library(extraDistr)
 library(tidyverse)
 library(janitor)
 library(MuMIn)
+library(broom.mixed)
+library(knitr)
+
 
 # Seed and data ####
 my_seed <- 7863
 num_cores <- parallel::detectCores()-2
 
 data <- read_csv("house_prices_ne/house_prices_ne.csv") |>
-  clean_names()
+  clean_names() |>
+  drop_na(price)
 
 # Priors ####
 get_prior(formula = price ~ location +
@@ -22,9 +26,12 @@ get_prior(formula = price ~ location +
           data = data)
 
 my_priors <- c(
-  prior(normal(200000,1000000), class = "Intercept"),
-  prior(normal(0,50000), class = "sigma")
-  # set_prior(normal(0, 1), class = "b")
+  prior(normal(12.2,13.8), class = "Intercept"),
+  prior(normal(0,10.8), class = "sigma"),
+  prior(normal(6.9,8.5), class = "b", coef = size_sqft)
+  # prior(normal(200000,1000000), class = "Intercept"),
+  # prior(normal(0,50000), class = "sigma"),
+  # prior(normal(1000,5000), class = "b", coef = size_sqft)
   )
 
 # na free data ####
@@ -50,11 +57,11 @@ model_formulas <- lapply(formulas, function(call_obj) {
 
 
 # Model fitting ####
-model_list <- lapply(seq_along(valid_formulas), function(i) {
+model_list <- lapply(seq_along(model_formulas), function(i) {
   message("Fitting model ", i, " of ", length(model_formulas))
 
   brm(
-    formula = valid_formulas[[i]],
+    formula = model_formulas[[i]],
     data = data_clean,
     seed = my_seed,
     family = gaussian(),
@@ -91,3 +98,35 @@ model_comparison <- data.frame(
 
 write_csv(model_comparison, "modelcomparisontable.csv")
 
+model_final <- brm(price ~ location +
+                     bedrooms +
+                     bathrooms +
+                     size_sqft +
+                     ownership +
+                     property_type +
+                     garden,
+                   data = data,
+                   seed = my_seed,
+                   family = lognormal,
+                   prior = my_priors,
+                   cores = num_cores,
+                   refresh = 0
+)
+
+model_final
+tidy(model_final) |>
+  mutate(intercept = estimate[term == "(Intercept)"]) %>%
+  mutate(
+    conv_estimate  = if_else(term == "(Intercept)",
+                             exp(estimate),
+                             exp(intercept + estimate)),
+    conv_conf.low  = if_else(term == "(Intercept)",
+                             exp(conf.low),
+                             exp(intercept + conf.low)),
+    conv_conf.high = if_else(term == "(Intercept)",
+                             exp(conf.high),
+                             exp(intercept + conf.high))
+  ) |>
+  select(-intercept)
+
+write
