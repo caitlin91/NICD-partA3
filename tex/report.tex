@@ -1,0 +1,33 @@
+\documentclass{scrartcl}
+
+\usepackage{hyperref}
+
+\author{Caitlin Halfacre}
+\date{\today}
+\title{NICD Data Scientist - Task A3}
+
+\begin{document}
+\maketitle
+I have chosen to use a Bayesian regression model to fit the clients desire for a model that both describes more of the variance in the data than their existing model and maintains predictive accuracy. While Bayesian modelling is computationally and technically more complex than a standard linear regression model, the approach to prediction and inference is more intuitive, and enables the option to present percentage likelihoods in explanations of valuations. In my analysis of the model I present visualisations and phrasing that could be used to explain valuation decisions to clients, regulators, and internal stakeholders.
+
+\section{Model Design}
+\subsection{Priors}
+Intercept
+\begin{itemize}
+	\item normal distribution
+	\item mu = 0
+	\item sigma = half of maximum likely greatest value\footnote{\url{https://www.chroniclelive.co.uk/news/north-east-news/most-expensive-north-east-houses-30988236} the most expensive house sold in the North East in 2024} (95\% credible interval) = 2,000,000/2 = 1,000,000
+	
+	
+\end{itemize}
+
+\subsection{Model Selection}
+highest bayes\_R2 - model explains more variance.
+
+highest elpd\_diff in your table - best expected predictive accuracy based on your negated version.
+
+\section{Model Analysis}
+x
+
+
+\end{document}
