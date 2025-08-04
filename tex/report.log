@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.4)  3 AUG 2025 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.4)  4 AUG 2025 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -293,42 +293,130 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip65
 )
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.st
+y
+Package: graphics 2024/05/23 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphic
+s.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.
+def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)))
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen146
+\Gin@req@width=\dimen147
+)
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.
+sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.te
+x
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.t
+ex
+\XKV@toks=\toks18
+\XKV@tempa@toks=\toks19
+)
+\XKV@depth=\count281
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.st
+y
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.s
+ty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbo
+x.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box54
+)
+\tc@llx=\dimen148
+\tc@lly=\dimen149
+\tc@urx=\dimen150
+\tc@ury=\dimen151
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.
+def
+File: tc-pdftex.def 2025/02/26 v2.3 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen152
+\adjbox@Height=\dimen153
+\adjbox@Depth=\dimen154
+\adjbox@Totalheight=\dimen155
+\adjbox@pwidth=\dimen156
+\adjbox@pheight=\dimen157
+\adjbox@pdepth=\dimen158
+\adjbox@ptotalheight=\dimen159
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.
+sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count282
+)
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.st
+y
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box55
+\sift@deathcycles=\count283
+\@vwid@loff=\dimen160
+\@vwid@roff=\dimen161
+))
 (C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count281
-\l__pdf_internal_box=\box54
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box56
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 9.
-LaTeX Font Info:    ... okay on input line 9.
-Package scrbase Info: activating english \abstractname on input line 9.
-Package scrbase Info: activating english \partname on input line 9.
-Package scrbase Info: activating english \figurename on input line 9.
-Package scrbase Info: activating english \tablename on input line 9.
-Package scrbase Info: activating english \contentsname on input line 9.
-Package scrbase Info: activating english \listfigurename on input line 9.
-Package scrbase Info: activating english \listtablename on input line 9.
-Package scrbase Info: activating english \refname on input line 9.
-Package scrbase Info: activating english \indexname on input line 9.
-Package hyperref Info: Link coloring OFF on input line 9.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package scrbase Info: activating english \abstractname on input line 12.
+Package scrbase Info: activating english \partname on input line 12.
+Package scrbase Info: activating english \figurename on input line 12.
+Package scrbase Info: activating english \tablename on input line 12.
+Package scrbase Info: activating english \contentsname on input line 12.
+Package scrbase Info: activating english \listfigurename on input line 12.
+Package scrbase Info: activating english \listtablename on input line 12.
+Package scrbase Info: activating english \refname on input line 12.
+Package scrbase Info: activating english \indexname on input line 12.
+Package hyperref Info: Link coloring OFF on input line 12.
  (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -340,7 +428,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 9.
+(scrartcl)           before \begin{document} on input line 12.
 
 (C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
 y
@@ -350,32 +438,57 @@ Package: bookmark 2023-12-10 v1.31 PDF bookmarks (HO)
 def
 File: bkm-pdftex.def 2023-12-10 v1.31 bookmark driver for pdfTeX and luaTeX (HO
 )
-\BKM@id=\count282
+\BKM@id=\count285
+))
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf
+.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count286
+\scratchdimen=\dimen162
+\scratchbox=\box57
+\nofMPsegments=\count287
+\nofMParguments=\count288
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count289
+\MPscratchDim=\dimen163
+\MPnumerator=\count290
+\makeMPintoPDFobject=\count291
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopd
+f-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sy
+s.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 11.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 11.
+(Font)              <7> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 19.
+(Font)              <10.95> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 19.
+(Font)              <8> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 19.
+(Font)              <6> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 19.
+(Font)              <9> on input line 18.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 19.
+(Font)              <5> on input line 18.
 
-Overfull \hbox (38.63922pt too wide) in paragraph at lines 19--19
-  [][][][]$\OT1/cmtt/m/n/9 https : / / www . chroniclelive . co . uk / news / n
-orth-[]east-[]news / most-[]expensive-[]north-[]east-[]houses-[]30988236$[]
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+  [][][]\OT1/cmr/m/n/9 for ex-am-ple, []$\OT1/cmtt/m/n/9 https : / / www . chro
+niclelive . co . uk / news / north-[]east-[]news /
  []
 
 
-Overfull \hbox (6.45805pt too wide) in paragraph at lines 19--20
-[]\OT1/cmr/m/n/10.95 sigma = half of max-i-mum likely great-est value[][][] (95
-% cred-i-ble in-ter-val) = 2,000,000/2
+Underfull \hbox (badness 1342) in paragraph at lines 18--18
+ \OT1/cmtt/m/n/9 most-[]expensive-[]north-[]east-[]houses-[]30988236$[] \OT1/cm
+r/m/n/9 the most ex-pen-sive house sold in the North
  []
 
 
@@ -384,35 +497,66 @@ Overfull \hbox (6.45805pt too wide) in paragraph at lines 19--20
 
 
 {C:/Users/55151349/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(report.aux)
+
+[2
+
+]
+
+LaTeX Warning: Reference `' on page 3 undefined on input line 62.
+
+
+
+[3
+
+]
+
+[4
+
+]
+<../figures/estimates.png, id=41, 433.62pt x 289.08pt>
+File: ../figures/estimates.png Graphic file (type png)
+<use ../figures/estimates.png>
+Package pdftex.def Info: ../figures/estimates.png  used on input line 96.
+(pdftex.def)             Requested size: 418.25555pt x 278.85017pt.
+
+
+[5
+
+]
+
+[6 <../figures/estimates.png>] (report.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
+
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 10840 strings out of 473899
- 198184 string characters out of 5725084
- 746696 words of memory out of 5000000
- 33636 multiletter control sequences out of 15000+600000
- 564622 words of font info for 58 fonts, out of 8000000 for 9000
+ 12820 strings out of 473899
+ 232032 string characters out of 5725084
+ 781353 words of memory out of 5000000
+ 35541 multiletter control sequences out of 15000+600000
+ 564589 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,8n,107p,10947b,438s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\55151349\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\t
-crm1095.pk><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmr10.pfb><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><C:/Users/55151349/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/55151349/AppData/Local/Pro
-grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/55151349/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/551513
-49/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C
-:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-mtt9.pfb>
-Output written on report.pdf (1 page, 93182 bytes).
+ 108i,10n,107p,10947b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmbx10.pfb><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmr10.pfb><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/55151349/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/55151349/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/55151349/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/551
+51349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
+><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmtt9.pfb>
+Output written on report.pdf (6 pages, 252158 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 105 PDF objects out of 1000 (max. 8388607)
+ 16 named destinations out of 1000 (max. 500000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
