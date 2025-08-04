@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.4)  4 AUG 2025 01:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.10.4)  4 AUG 2025 02:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -381,6 +381,10 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@loff=\dimen160
 \@vwid@roff=\dimen161
 ))
+(C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/placeins\placeins.st
+y
+Package: placeins 2005/04/18  v 2.2
+)
 (C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-
 pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
@@ -389,34 +393,34 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-Package scrbase Info: activating english \abstractname on input line 12.
-Package scrbase Info: activating english \partname on input line 12.
-Package scrbase Info: activating english \figurename on input line 12.
-Package scrbase Info: activating english \tablename on input line 12.
-Package scrbase Info: activating english \contentsname on input line 12.
-Package scrbase Info: activating english \listfigurename on input line 12.
-Package scrbase Info: activating english \listtablename on input line 12.
-Package scrbase Info: activating english \refname on input line 12.
-Package scrbase Info: activating english \indexname on input line 12.
-Package hyperref Info: Link coloring OFF on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+Package scrbase Info: activating english \abstractname on input line 13.
+Package scrbase Info: activating english \partname on input line 13.
+Package scrbase Info: activating english \figurename on input line 13.
+Package scrbase Info: activating english \tablename on input line 13.
+Package scrbase Info: activating english \contentsname on input line 13.
+Package scrbase Info: activating english \listfigurename on input line 13.
+Package scrbase Info: activating english \listtablename on input line 13.
+Package scrbase Info: activating english \refname on input line 13.
+Package scrbase Info: activating english \indexname on input line 13.
+Package hyperref Info: Link coloring OFF on input line 13.
  (report.out) (report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
@@ -428,7 +432,7 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           `bookmarkpackage=false' before \begin{document} and
 (scrartcl)           you can avoid this message adding:
 (scrartcl)             \usepackage{bookmark}
-(scrartcl)           before \begin{document} on input line 12.
+(scrartcl)           before \begin{document} on input line 13.
 
 (C:\Users\55151349\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.st
 y
@@ -466,27 +470,27 @@ s.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 14.
+(Font)              <14.4> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 14.
+(Font)              <7> on input line 15.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 18.
+(Font)              <10.95> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 18.
+(Font)              <8> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 18.
+(Font)              <6> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 18.
+(Font)              <9> on input line 20.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 18.
+(Font)              <5> on input line 20.
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
   [][][]\OT1/cmr/m/n/9 for ex-am-ple, []$\OT1/cmtt/m/n/9 https : / / www . chro
 niclelive . co . uk / news / north-[]east-[]news /
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 18--18
+Underfull \hbox (badness 1342) in paragraph at lines 20--20
  \OT1/cmtt/m/n/9 most-[]expensive-[]north-[]east-[]houses-[]30988236$[] \OT1/cm
 r/m/n/9 the most ex-pen-sive house sold in the North
  []
@@ -502,7 +506,7 @@ r/m/n/9 the most ex-pen-sive house sold in the North
 
 ]
 
-LaTeX Warning: Reference `' on page 3 undefined on input line 62.
+LaTeX Warning: Reference `' on page 3 undefined on input line 65.
 
 
 
@@ -513,18 +517,32 @@ LaTeX Warning: Reference `' on page 3 undefined on input line 62.
 [4
 
 ]
-<../figures/estimates.png, id=41, 433.62pt x 289.08pt>
+<../figures/estimates.png, id=43, 433.62pt x 289.08pt>
 File: ../figures/estimates.png Graphic file (type png)
 <use ../figures/estimates.png>
-Package pdftex.def Info: ../figures/estimates.png  used on input line 96.
+Package pdftex.def Info: ../figures/estimates.png  used on input line 100.
+(pdftex.def)             Requested size: 418.25555pt x 278.85017pt.
+<../figures/celocation.png, id=44, 433.62pt x 289.08pt>
+File: ../figures/celocation.png Graphic file (type png)
+<use ../figures/celocation.png>
+Package pdftex.def Info: ../figures/celocation.png  used on input line 106.
+(pdftex.def)             Requested size: 418.25555pt x 278.85017pt.
+<../figures/cegarden.png, id=45, 433.62pt x 289.08pt>
+File: ../figures/cegarden.png Graphic file (type png)
+<use ../figures/cegarden.png>
+Package pdftex.def Info: ../figures/cegarden.png  used on input line 112.
 (pdftex.def)             Requested size: 418.25555pt x 278.85017pt.
 
 
 [5
 
-]
+ <../figures/estimates.png>]
 
-[6 <../figures/estimates.png>] (report.aux)
+[6 <../figures/celocation.png>]
+
+[7 <../figures/cegarden.png>]
+
+[8] (report.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -537,10 +555,10 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12820 strings out of 473899
- 232032 string characters out of 5725084
- 781353 words of memory out of 5000000
- 35541 multiletter control sequences out of 15000+600000
+ 12868 strings out of 473899
+ 233241 string characters out of 5725084
+ 781292 words of memory out of 5000000
+ 35581 multiletter control sequences out of 15000+600000
  564589 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  108i,10n,107p,10947b,471s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -554,9 +572,9 @@ ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/551
 51349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb
 ><C:/Users/55151349/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
 m/cmtt9.pfb>
-Output written on report.pdf (6 pages, 252158 bytes).
+Output written on report.pdf (8 pages, 356337 bytes).
 PDF statistics:
- 105 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 20 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -57,7 +57,7 @@ model_global <- lm(price ~ location +
                 ownership +
                 property_type +
                 garden,
-                data = _clean,
+                data = df_clean,
                 na.action = "na.fail"
                 )
 
@@ -74,10 +74,9 @@ model_list <- lapply(seq_along(model_formulas), function(i) {
 
   brm(
     formula = model_formulas[[i]],
-    data = _clean,
+    data = df_clean,
     seed = my_seed,
     family = lognormal,
-    prior = my_priors,
     cores = num_cores,
     refresh = 0,
     silent = TRUE
